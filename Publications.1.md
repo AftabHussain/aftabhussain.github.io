@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### Categories {#cats} 
+## Categories {#cats} 
 
 - [Conference Papers](#conference-papers) 
 - [Workshop Talks](#workshop-talks)
