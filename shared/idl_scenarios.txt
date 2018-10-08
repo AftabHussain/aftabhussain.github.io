@@ -1,0 +1,43 @@
+Authors: Aftab Hussain, Anton Burtsev, Mars Research Group, UCI
+Date:    December 2017
+
+***** IDL Generation Scenarios for Linux LCDs *****
+
+Here we see IDL (Interface Description Language) code that should be generated for a Linux LCD (Light-weight Capability Domain) in different scenarios.
+
+**Scenario 1: Function calls from an isolated domain to the insecure domain, passing structure variables.
+
+>Actual Code:
+    //LCD (dummy.c)
+    ...
+    struct net_device *dev_dummy; 
+    int err;
+    ...
+    err = register_netdev(dev_dummy);
+    ...
+    
+>IDL:
+    rpc int register_netdev(projection net_device_reg[(alloc(callee) * dev])
+    register_netdev is undefined in dummy.c. It is defined in net/core/dev.c.
+    register_netdev calls register_netdevice which reads and writes on different fields of dev_dummy.
+
+**Scenario 2: Structure variable access in a function, defined in an isolated domain.
+
+>Actual Code:
+    //LCD (dummy.c)
+    #include <linux/netdevice.h>
+    ...
+    static void dummy_setup (struct net_device * dev){
+        dev -> priv_flags |= IFF_LIVE_ADDR_CHANGE;
+    }
+    ...
+    //Undecomposed Domain (linux/netdevice.h)
+    struct net_device {
+        ...
+        unsigned int priv_flags;
+        ...
+>IDL:
+    projection  dummy_setup.dev {
+        unsigned int priv_flags;
+    }
+    rpc void dummy_setup (projection dummy_setup.dev * dev)
