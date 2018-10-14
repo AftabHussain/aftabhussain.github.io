@@ -46,7 +46,7 @@ ____________
 
 ## Master's Thesis [⬆](#cats)	{#masters-thesis}		
 
-[Software Restructuring using Hierarchical Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271), **Aftab Hussain**, M.Sc. Engg. Thesis, Department of Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012 [THESIS](shared/ms_buet_thesis.pdf)   
+[Software Restructuring using Hierarchical Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271), **Aftab Hussain**, M.Sc. Engg. Thesis, Department of Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012 [THESIS](pubs/ms-thesis.pdf)   
                                                 
 ____________
 
