@@ -60,6 +60,6 @@ DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain**
 
 A Study on Memory Consistency Approaches in Distributed Shared Memory Systems, **Aftab Hussain** and Isaac Scherson, Department of Computer Science, University of California, Irvine, 2016
 
-[A Holistic Look at Requirements Engineering Practices in the Gaming Industry](shared/tr-renggames.pdf), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
+[A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/pubs/tech-report-req-engineering-games.pd), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
 
 [Effect of Follow and Watch Relationships in Pull Requests (in Github)](/pubs/tech-report-follow-watch.pdf), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, Department of Informatics, University of California, Irvine, 2014
