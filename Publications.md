@@ -46,7 +46,7 @@ ____________
 
 ## Master's Thesis [⬆](#cats)	{#masters-thesis}		
 
-[Software Restructuring using Hierarchical Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271), **Aftab Hussain**, M.Sc. Engg. Thesis, Department of Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012 [THESIS](pubs/ms-thesis.pdf)   
+[Software Restructuring using Hierarchical Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271), **Aftab Hussain**, M.Sc. Engg. Thesis, Department of Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012 [THESIS](/documents/pubs/ms-thesis.pdf)   
                                                 
 ____________
 
@@ -60,6 +60,6 @@ DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain**
 
 A Study on Memory Consistency Approaches in Distributed Shared Memory Systems, **Aftab Hussain** and Isaac Scherson, Department of Computer Science, University of California, Irvine, 2016
 
-[A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/pubs/tech-report-req-engineering-games.pd), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
+[A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/documents/pubs/tech-report-req-engineering-games.pd), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
 
 [Effect of Follow and Watch Relationships in Pull Requests (in Github)](/documents/pubs/tech-report-follow-watch.pdf), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, Department of Informatics, University of California, Irvine, 2014
