@@ -23,7 +23,7 @@ ____________
 
   [L-Shaped Drawings of Series-Parallel Graphs](), Iqbal Hossain, Shaheena Sultana, **Aftab Hussain**, Nazmun Nessa Moon, Md. Saidur Rahman, International Mathematics Conference,Dhaka, Bangladesh, 2013 [PAPER](shared/pp_lshaped.pdf)
 
-  [A New Hierarchical Clustering Technique for Restructuring Software at the Function level](https://dl.acm.org/citation.cfm?id=2442761), **Aftab Hussain** and Md. Saidur Rahman, 6th India Software Engineering Conference, New Delhi, India, 2013  [PAPER](/my_new_web/shared/ah_isec13.pdf)
+  [A New Hierarchical Clustering Technique for Restructuring Software at the Function level](https://dl.acm.org/citation.cfm?id=2442761), **Aftab Hussain** and Md. Saidur Rahman, 6th India Software Engineering Conference, New Delhi, India, 2013  [PAPER](/pubs/isec13-soft-clustering.pdf)
 
 ____________
 
