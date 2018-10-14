@@ -21,9 +21,9 @@ ____________
 
  [From Query to Usable code: An Analysis of Stack Overflow code snippets](https://dl.acm.org/citation.cfm?id=2901767), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, 13th International Conference on Mining Software Repositories (MSR '16), Austin, Texas, 2016 [PAPER](https://arxiv.org/pdf/1605.04464.pdf)
 
-  [L-Shaped Drawings of Series-Parallel Graphs](), Iqbal Hossain, Shaheena Sultana, **Aftab Hussain**, Nazmun Nessa Moon, Md. Saidur Rahman, International Mathematics Conference, Dhaka, Bangladesh, 2013 [PAPER](pubs/imc13-l-shaped-drawing.pdf)
+  [L-Shaped Drawings of Series-Parallel Graphs](), Iqbal Hossain, Shaheena Sultana, **Aftab Hussain**, Nazmun Nessa Moon, Md. Saidur Rahman, International Mathematics Conference, Dhaka, Bangladesh, 2013 [PAPER](/documents/pubs/imc13-l-shaped-drawing.pdf)
 
-  [A New Hierarchical Clustering Technique for Restructuring Software at the Function level](https://dl.acm.org/citation.cfm?id=2442761), **Aftab Hussain** and Md. Saidur Rahman, 6th India Software Engineering Conference, New Delhi, India, 2013  [PAPER](/pubs/isec13-soft-clustering.pdf)
+  [A New Hierarchical Clustering Technique for Restructuring Software at the Function level](https://dl.acm.org/citation.cfm?id=2442761), **Aftab Hussain** and Md. Saidur Rahman, 6th India Software Engineering Conference, New Delhi, India, 2013  [PAPER](/documents/pubs/isec13-soft-clustering.pdf)
 
 ____________
 
@@ -37,7 +37,7 @@ ____________
 
 ## Posters [⬆](#cats) {#posters}
 
-[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 [POSTER](/pubs/asplos17-poster-graspan.pdf)       
+[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 [POSTER](/documents/pubs/asplos17-poster-graspan.pdf)       
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Computer Science Research Showcase '16, University of California, Irvine, 2016     
 
@@ -56,10 +56,10 @@ Common Vulnerabilities and Exposures in the Cloud, **Aftab Hussain** and Anton B
 
 DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
 
-[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](pubs/tech-report-big-data-perspective.pdf), Harry Xu, Zhiqiang Zuo, Kai Wang, **Aftab Hussain**, and Khanh Nguyen, University of California, Irvine, 2017 
+[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report-big-data-perspective.pdf), Harry Xu, Zhiqiang Zuo, Kai Wang, **Aftab Hussain**, and Khanh Nguyen, University of California, Irvine, 2017 
 
 A Study on Memory Consistency Approaches in Distributed Shared Memory Systems, **Aftab Hussain** and Isaac Scherson, Department of Computer Science, University of California, Irvine, 2016
 
 [A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/pubs/tech-report-req-engineering-games.pd), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
 
-[Effect of Follow and Watch Relationships in Pull Requests (in Github)](/pubs/tech-report-follow-watch.pdf), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, Department of Informatics, University of California, Irvine, 2014
+[Effect of Follow and Watch Relationships in Pull Requests (in Github)](/documents/pubs/tech-report-follow-watch.pdf), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, Department of Informatics, University of California, Irvine, 2014
