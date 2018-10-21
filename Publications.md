@@ -5,11 +5,11 @@ title: Publications
 
 ## Categories {#cats} 
 
-- [Conference Papers](#conference-papers) 
-- [Workshop Talks](#workshop-talks)
-- [Posters](#posters)
-- [Master's Thesis](#masters-thesis)
-- [Technical Reports](#tech-reports)
+1. [Conference Papers](#conference-papers) 
+2. [Workshop Talks](#workshop-talks)
+3. [Posters](#posters)
+4. [Master's Thesis](#masters-thesis)
+5. [Technical Reports](#tech-reports)
 
 ____________
 
