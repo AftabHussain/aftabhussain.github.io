@@ -37,7 +37,7 @@ ____________
 
 ## Posters [⬆](#cats) {#posters}
 
-[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 [POSTER](/documents/pubs/asplos17-poster-graspan.pdf)       
+[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 [POSTER](/documents/pubs/asplos17-graspan-poster.pdf)       
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Computer Science Research Showcase '16, University of California, Irvine, 2016     
 
