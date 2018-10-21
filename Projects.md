@@ -8,7 +8,7 @@ title: Projects
 
 _____________
 
-## IDL generation for Linux kernel security {#idl-gen}
+## IDL generation for Linux kernel security <a href="#top">⬆</a> {#idl-gen}
 														
 Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to automatically generate interface definition language code for isolating kernel modules for enhancing security.
 
@@ -17,7 +17,7 @@ Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to auto
 
 _____________
 
-## Graspan: A scalable graph processing system for scalable big code analysis {#graspan}
+## Graspan: A scalable graph processing system for scalable big code analysis <a href="#top">⬆</a> {#graspan}
 
 We built a disk-based parallel graph system, Graspan, that uses a novel
 edge-pair centric computation model to compute dynamic
