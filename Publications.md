@@ -3,18 +3,16 @@ layout: page
 title: Publications
 ---
 
-## Categories {#cats} 
-
-1. [Conference Papers](#conference-papers) 
-2. [Workshop Talks](#workshop-talks)
-3. [Posters](#posters)
-4. [Master's Thesis](#masters-thesis)
-5. [Technical Reports](#tech-reports)
+- [Conference Papers](#conference-papers) 
+- [Workshop Talks](#workshop-talks)
+- [Posters](#posters)
+- [Master's Thesis](#masters-thesis)
+- [Technical Reports](#tech-reports)
 
 ____________
 
 
-## Conference Papers [⬆](#cats) {#conference-papers} 
+## Conference Papers <a href="#top">⬆</a> {#conference-papers} 
 
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253Bj%252FWF7nPxSumRpdx0FsthYQ%253D%253D), Kai Wang, **Aftab Hussain**, Zhiqiang Zuo, Guoqing Xu, Ardalan Amiri Sani, 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17'), Xi'an, China, 2017 [PAPER]()
@@ -27,7 +25,7 @@ ____________
 
 ____________
 
-## Workshop Talks [⬆](#cats) {#workshop-talks}
+## Workshop Talks <a href="#top">⬆</a>  {#workshop-talks}
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](http://socalpls.github.io/archive/2016nov/), **Aftab Hussain**, 17th SoCal PLS: Programming Languages and Systems, Irvine, California, 2016 [SLIDES](/my_new_web/shared/ah_isec13.pdf)        
 
@@ -35,7 +33,7 @@ ____________
 
 ____________
 
-## Posters [⬆](#cats) {#posters}
+## Posters <a href="#top">⬆</a>  {#posters}
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About), **Aftab Hussain**, Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 [POSTER](/documents/pubs/asplos17-graspan-poster.pdf)       
 
@@ -44,13 +42,13 @@ ____________
 ____________
 
 
-## Master's Thesis [⬆](#cats)	{#masters-thesis}		
+## Master's Thesis <a href="#top">⬆</a> 	{#masters-thesis}		
 
 [Software Restructuring using Hierarchical Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271), **Aftab Hussain**, M.Sc. Engg. Thesis, Department of Computer Science, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012 [THESIS](/documents/pubs/ms-thesis.pdf)   
                                                 
 ____________
 
-## Technical Reports [⬆](#cats) {#tech-reports}	
+## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
 
 Common Vulnerabilities and Exposures in the Cloud, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
 
