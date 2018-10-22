@@ -1,0 +1,4 @@
+In order to run the page by setting the local machine as the server,
+do the following:
+
+> bundle exec jekyll serve
