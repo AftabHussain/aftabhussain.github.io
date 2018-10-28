@@ -44,20 +44,20 @@ ____________
 
 ____________
 
-## <a name="ics31"></a> ICS 31 Introduction to Programming <a href="#top">⬆</a>  
+## <a name="ics31"></a> ICS 31 - Introduction to Programming <a href="#top">⬆</a>  
 
 [to provide course info..]
 
 ____________
 
-## <a name="inf113"></a> INF 113 Requirements Analysis and Engineering <a href="#top">⬆</a>  
+## <a name="inf113"></a> INF 113 - Requirements Analysis and Engineering <a href="#top">⬆</a>  
 
 [to provide course info..]
 
 
 ____________
 
-## <a name="inf43"></a> INF 43 Introduction to Software Engineering <a href="#top">⬆</a>  
+## <a name="inf43"></a> INF 43 - Introduction to Software Engineering <a href="#top">⬆</a>  
 
 [to provide course info..]
 
