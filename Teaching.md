@@ -32,15 +32,15 @@ ____________
 
 ## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141</small></font><a href="#top">⬆</a>  
 
-[to provide course info..]
-
+- <small>The **course teaches** the fundamentals of programming languages (PL) including the life cycle of a program, objected oriented concepts.
+- <small>I served as a TA for this course in **Summer 2018** under [Prof. Shannon Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro), and in **Fall 2017** under [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL concepts and implement them in C, C++, and Java. 
 
 ____________
 
 ## <a name="ics53"></a>Principles of System Design <font color="gray"><small>ICS53</small></font><a href="#top">⬆</a>  
 
-- <small> The **course teaches** UNIX programming, scripting, and socket programming. 
-- <small>I served as a TA for this course during **Spring 2018** under [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
+- <small>The **course teaches** UNIX programming, scripting, and socket programming. 
+- <small>I served as a TA for this course in **Spring 2018** under [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
 
 
 ____________
@@ -48,7 +48,7 @@ ____________
 ## <a name="ics31"></a>Introduction to Programming <font color="gray"><small>ICS31</small></font><a href="#top">⬆</a>  
 
 - <small> The **course teaches** systematic problem solving and how to implement the solutions using basic data structures in Python. 
-- <small> I served as a TA for this course during **Winter 2014** under [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
+- <small> I served as a TA for this course in **Winter 2014** under [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
 - <small>The **course webpage** for Winter 2014 is available [here](https://www.ics.uci.edu/~kay/courses/31/w14.html).
 
 ____________
@@ -56,7 +56,7 @@ ____________
 ## <a name="inf113"></a>Requirements Analysis and Engineering <font color="gray"><small>INF113</small></font><a href="#top">⬆</a>  
 
 - <small>The **course teaches** how to leverage requirements analysis techniques and requirements engineering towards developing software-intensive systems.  
-- <small>I served as a TA for this course during **Winter 2014** under [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
+- <small>I served as a TA for this course in **Winter 2014** under [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
 - <small>The **course webpage** for Winter 2014 is available [here](https://eee.uci.edu/14w/37030).
 
 
