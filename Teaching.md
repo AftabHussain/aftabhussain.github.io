@@ -32,7 +32,7 @@ ____________
 
 ## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141</small></font><a href="#top">⬆</a>  
 
-- <small>The **course teaches** the fundamentals of programming languages (PL) including the life cycle of a program, objected oriented concepts.
+- <small>The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, functional and imperative languages, etc.
 - <small>I served as a TA for this course in **Summer 2018** under [Prof. Shannon Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro), and in **Fall 2017** under [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL concepts and implement them in C, C++, and Java. 
 
 ____________
