@@ -23,18 +23,14 @@ ____________
 - <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's xv6 kernel, a re-implementation of the UNIX version 6 operating system.
 - <small>I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
 - <small>The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
-- <small><a name="cs238p-fall18-files"></a>**My CS238P class files for Fall 2018**:<br>
-▹&nbsp;&nbsp;Discussion session lectures<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 01 - Basic shell commands](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 02 - C Basics, Arrays, Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code
-))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 03 - C String Manipulation, Structures, Function Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 04 - C Bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf
-) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([Resources](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 05 - xv6 Booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit.pdf
-)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Discussion 06 - Midterm Review]() ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1)) ([Resources]())<br>
-▹&nbsp;&nbsp;[FAQs](../documents/teaching/uci/cs238p/fall2018/faqs/)
+- <small><a name="cs238p-fall18-files"></a>**My CS238P class files (discussion session lectures, code samples, etc.)** for Fall 2018:<br>
+	- <small>[Discussion 01 - Basic shell commands](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
+	- <small>[Discussion 02 - C Basics, Arrays, Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
+	- <small>[Discussion 03 - C String Manipulation, Structures, Function Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
+	- <small>[Discussion 04 - C Bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([Resources](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
+	- <small>[Discussion 05 - xv6 Booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit.pdf)
+	- <small>[Discussion 06 - Midterm Review]() ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1)) ([Resources]())
+	- <small>[FAQs](../documents/teaching/uci/cs238p/fall2018/faqs/)
 
 ____________
 
