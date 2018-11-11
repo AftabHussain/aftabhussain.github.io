@@ -20,7 +20,7 @@ ____________
 
 ## <a name="cs238p"></a>Operating Systems <font color="gray"><small>CS238P</small></font><a href="#top">⬆</a>  
 
-- <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's xv6 kernel, a re-implementation of the UNIX version 6 operating system.
+- <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
 - <small>I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
 - <small>The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 - <small><a name="cs238p-fall18-files"></a>**My CS238P class files (discussion session lectures, code samples, etc.)** for Fall 2018:<br>
