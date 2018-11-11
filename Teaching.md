@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-I have served as a Teaching Assistant (TA) for the following courses at UCI:
+I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Operating Systems](#cs238p) <font color="gray"><small>CS238P</small></font> <small>(Fall `18)</small> 
 - [Compilers and Interpreters](#cs142) <font color="gray"><small>CS142</small></font> <small>(Winter \`18, Winter `17)</small>
 - [Concepts in Programming Languages](#cs141) <font color="gray"><small>CS141</small></font> <small>(Summer \`18, Fall `17)</small>
@@ -11,7 +11,7 @@ I have served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Introduction to Programming](#ics31) <font color="gray"><small>ICS31</small></font> <small>(Winter `14)</small>
 - [Requirements Analysis and Engineering](#inf113) <font color="gray"><small>INF113</small></font> <small>(Winter `14)</small>
 
-I have served as a Reader for the following course at UCI:
+I served as a Reader for the following course at UCI:
 
 - [Introduction to Software Engineering](#inf43) <font color="gray"><small>INF43</small></font> <small>(Fall `13)</small>
 
@@ -20,19 +20,23 @@ ____________
 
 ## <a name="cs238p"></a>Operating Systems <font color="gray"><small>CS238P</small></font><a href="#top">⬆</a>  
 
-[to provide course info..]
+- <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's xv6 kernel, a re-implementation of the UNIX version 6 operating system.
+- <small>I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
+- <small>The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
+- <small>Below is a list of **resources** I shared with the class:
+	- <small>[FAQs](../documents/teaching/uci/cs238p/fall2018/faqs/)
 
 ____________
 
 ## <a name="cs142"></a>Compilers and Interpreters <font color="gray"><small>CS142</small></font><a href="#top">⬆</a>  
 
-
+[to provide course info..]
 
 ____________
 
 ## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141</small></font><a href="#top">⬆</a>  
 
-- <small>The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, functional and imperative languages, etc.
+- <small>The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, and functional and imperative languages.
 - <small>I served as a TA for this course in **Summer 2018** under [Prof. Shannon Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro), and in **Fall 2017** under [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL concepts and implement them in C, C++, and Java. 
 
 ____________
