@@ -23,7 +23,7 @@ ____________
 - <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's xv6 kernel, a re-implementation of the UNIX version 6 operating system.
 - <small>I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
 - <small>The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
-- <small><a name="cs238p-fall18-files"></a>My CS238P **class files** for Fall 2018:<br>
+- <small><a name="cs238p-fall18-files"></a>**My CS238P class files for Fall 2018**:<br>
 ▹&nbsp;&nbsp;Discussion session lectures<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Discussion 01 - Basic shell commands](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Discussion 02 - C Basics, Arrays, Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code
