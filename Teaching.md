@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 I served as a Teaching Assistant (TA) for the following courses at UCI:
-- [Operating Systems](#cs238p) <font color="gray"><small>CS238P</small></font> <small>(Fall `18)</small> 
+- [Operating Systems](#cs238p) <font color="gray"><small>CS238P</small></font> <small>(Fall `18 - [Class Files](#cs238p-fall18-files))</small> 
 - [Compilers and Interpreters](#cs142) <font color="gray"><small>CS142</small></font> <small>(Winter \`18, Winter `17)</small>
 - [Concepts in Programming Languages](#cs141) <font color="gray"><small>CS141</small></font> <small>(Summer \`18, Fall `17)</small>
 - [Principles of System Design](#ics53) <font color="gray"><small>ICS53</small></font> <small>(Spring `18)</small>
@@ -23,8 +23,8 @@ ____________
 - <small>The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's xv6 kernel, a re-implementation of the UNIX version 6 operating system.
 - <small>I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
 - <small>The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
-- <small>Here is a list of **resources** I shared with the class:<br>
-▹&nbsp;&nbsp;Discussion session lectures (Fall 2018)<br>
+- <small><a name="cs238p-fall18-files"></a>My CS238P **class files** for Fall 2018:<br>
+▹&nbsp;&nbsp;Discussion session lectures<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Discussion 01 - Basic shell commands](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Discussion 02 - C Basics, Arrays, Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code examples](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code
 ))<br>
