@@ -1,0 +1,180 @@
+\documentclass[10pt]{beamer}
+
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{appendixnumberbeamer}
+
+\usepackage{booktabs}
+\usepackage[scale=2]{ccicons}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\usepackage{minted}
+%\usepackage{tabularx}
+\usepackage{bytefield}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+\setminted[]{autogobble, breaklines, breakafter=-/,fontsize=\footnotesize}
+\title{C - Structures, Typecasting, Function Pointers} 
+\subtitle{CS238P: Operating Systems - Fall '18}
+% \date{\today}
+\date{October 19, 2018}
+\author{Aftab Hussain \\ (Adapted from Vikram Narayanan's CS143A Fall '17 slides)}
+\institute{University of California, Irvine}
+% \titlegraphic{\hfill\includegraphics[height=1.5cm]{logo.pdf}}
+
+\begin{document}
+
+\maketitle
+
+
+\begin{frame}[standout]
+void func(char *s, char *t)$\{$ \\
+while (*s++ = *t++);$\}$
+\end{frame}
+
+\begin{frame}{Couple of points on pointers to strings}
+  \begin{itemize}
+  \item<1-> Depending on how you declare the strings, you may or may not be able to update them in the same way.
+  \item<2-> How they are declared affects how they are stored.
+  \end{itemize}
+  \end{frame}
+
+  \begin{frame}[standout]
+    Structures
+  \end{frame}
+
+  \begin{frame}{Structure size}
+    Due to alignment requirements for different objects, there
+    may be unnamed "holes" in a structure. For instance, if a char is one
+    byte and an int is four bytes, the structure\\
+    struct $\{$\\
+    char c;\\
+    int i;\\
+    $\}$ ;\\
+    might well require eight bytes, not five. The sizeof operator returns the
+    proper value.
+    \end{frame}
+
+% \fi
+
+% String Copy Function
+% //An assignment expression has the value of the left operand after the assignment.
+% http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
+% https://stackoverflow.com/questions/810129/how-does-whiles-t-copy-a-string
+% http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf (page 101, Section 6.5.16)
+
+
+% /* strcpy: copy t to s; pointer version 2 */
+% void strcpy(char *s, char *t)
+% {
+%   while (*s++ = *t++);
+% }
+
+\begin{frame}[fragile]{Typecasting Structure Types}
+\begin{itemize}
+\item<1-> Change the type of the object for a single operation
+\begin{minted}{c}
+  var = (dest_type) source;
+\end{minted}
+\item<2-> Pass generic objects
+\begin{minted}{c}
+struct cmd { int type; };
+struct execcmd {
+  int type;
+  char *argv[MAXARGS];
+};
+void runcmd(struct cmd *cmd) {
+    struct execcmd *ecmd;
+    ecmd = (struct execcmd*)cmd;
+    //you can access stuff outside cmd struct using argv field.
+}
+\end{minted}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[standout]
+  A more real structs example
+\end{frame}
+
+% \begin{frame}{Dynamic registration}
+%   \small
+%   \begin{itemize}
+%   \item<1-> Declare a struct to hold function pointers~\footnote{sheet 40 xv6-rev9.pdf}
+%   \begin{minted}[fontsize=\footnotesize]{c}
+%   #define NDEV  10
+%   #define CONSOLE 1
+%   struct devsw {
+%     int (*read)(struct inode*, char*, int);
+%     int (*write)(struct inode*, char*, int);
+%   };
+%   struct devsw devsw[NDEV]; /* global data structure */
+%   \end{minted}
+%   \item<2-> Register function pointer~\footnote{sheet 82 xv6-rev9.pdf}
+%   \begin{minted}{c}
+%   int consolewrite(struct inode *ip, char *buf, int n);
+%   int consoleread(struct inode *ip, char *dst, int n);
+%   devsw[CONSOLE].write = consolewrite;
+%   devsw[CONSOLE].read = consoleread;
+%   \end{minted}
+%   \end{itemize}
+%   \end{frame}
+
+\begin{frame}[standout]
+A cool tip for initializing arrays 
+\end{frame}
+  
+
+\begin{frame}[fragile]{Designated Initializer}
+Designated Initializers\footnote{http://gcc.gnu.org/onlinedocs/gcc-4.0.4/gcc/Designated-Inits.html}
+\begin{minted}{c}
+#define CAPSLOCK (1<<3) 
+#define NUMLOCK (1<<4)
+#define SCROLLLOCK (1<<5)
+static uchar togglecode[256] = {
+[0x3A] CAPSLOCK,
+[0x45] NUMLOCK,
+[0x46] SCROLLLOCK
+};
+/* equivalent to */
+togglecode[0x3A] = CAPSLOCK;
+togglecode[0x45] = NUMLOCK;
+togglecode[0x46] = SCROLLLOCK;
+\end{minted}
+Initialize the array elements 0x3A, 0x45, 0x46 only~\footnote{sheet 77, xv6-rev9.pdf}
+\end{frame}
+
+\begin{frame}[standout]
+Function Pointers 
+\end{frame}
+  
+
+\begin{frame}[fragile]{Dynamic registration with Function Pointers}
+\small
+\begin{itemize}
+\item<1-> Declare a struct to hold function pointers~\footnote{sheet 40 xv6-rev9.pdf}
+\begin{minted}[fontsize=\footnotesize]{c}
+#define NDEV  10
+#define CONSOLE 1
+struct devsw {
+  int (*read)(struct inode*, char*, int);
+  int (*write)(struct inode*, char*, int);
+};
+struct devsw devsw[NDEV]; /* global data structure */
+\end{minted}
+\item<2-> Register function pointer~\footnote{sheet 82 xv6-rev9.pdf}
+\begin{minted}{c}
+int consolewrite(struct inode *ip, char *buf, int n);
+int consoleread(struct inode *ip, char *dst, int n);
+devsw[CONSOLE].write = consolewrite;
+devsw[CONSOLE].read = consoleread;
+\end{minted}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[standout]
+  Thank You
+\end{frame}
+
+\end{document}

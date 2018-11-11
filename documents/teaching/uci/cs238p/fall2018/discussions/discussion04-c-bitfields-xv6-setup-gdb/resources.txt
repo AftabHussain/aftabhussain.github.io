@@ -1,0 +1,17 @@
+xv6 setup instructions on andromeda
+https://www.ics.uci.edu/~aburtsev/238P/hw/xv6-setup.html
+
+gdb x command
+http://visualgdb.com/gdbreference/commands/x
+
+gdbinit
+https:raw.githubusercontent.com/gdbinit/Gdbinit/master/gdbinit
+
+gdb cheat sheet
+http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+
+Assembly Files: Difference between .a .s .asm
+https://stackoverflow.com/questions/34098596/assembly-files-difference-between-a-s-asm
+
+Symbols
+https://ftp.gnu.org/old-gnu/Manuals/gas-2.9.1/html_chapter/as_5.es.html

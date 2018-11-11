@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{c+cp}{\PYGZsh{}define KERNBASE 0x80000000}
+	\PYG{c+cp}{\PYGZsh{}define P2V(a) (((void *) (a)) + KERNBASE)}
+	\PYG{n}{uchar} \PYG{o}{*}\PYG{n}{code}\PYG{p}{;}
+	\PYG{n}{code} \PYG{o}{=} \PYG{n}{P2V}\PYG{p}{(}\PYG{l+m+mh}{0x7000}\PYG{p}{);}
+\end{Verbatim}

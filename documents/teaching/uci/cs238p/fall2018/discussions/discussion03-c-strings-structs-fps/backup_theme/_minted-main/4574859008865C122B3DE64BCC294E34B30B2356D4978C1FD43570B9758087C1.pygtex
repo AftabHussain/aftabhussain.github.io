@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{n}{mem} \PYG{o}{=} \PYG{n}{kalloc}\PYG{p}{();} \PYG{c+cm}{/* allocate a page */}
+	\PYG{n}{memset}\PYG{p}{(}\PYG{n}{mem}\PYG{p}{,} \PYG{l+m+mi}{0}\PYG{p}{,} \PYG{n}{PGSIZE}\PYG{p}{);} \PYG{c+cm}{/* memset */}
+	\PYG{n}{kfree}\PYG{p}{(}\PYG{n}{mem}\PYG{p}{);} \PYG{c+cm}{/* free it when done */}
+\end{Verbatim}

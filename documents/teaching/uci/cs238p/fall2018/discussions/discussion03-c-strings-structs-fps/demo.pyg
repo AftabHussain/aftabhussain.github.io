@@ -1,0 +1,4 @@
+int consolewrite(struct inode *ip, char *buf, int n);
+int consoleread(struct inode *ip, char *dst, int n);
+devsw[CONSOLE].write = consolewrite;
+devsw[CONSOLE].read = consoleread;

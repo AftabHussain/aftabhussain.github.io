@@ -1,0 +1,3 @@
+/* on a 64-bit data type */
+data = data & ~(1 << 44);
+data &= ~(1 << 44);

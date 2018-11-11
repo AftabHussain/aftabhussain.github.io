@@ -1,0 +1,9 @@
+error in k and r
+
+p.106 of book: the c programming language second edition.
+"val = *--p; /* pop top of stack into val */"
+
+wrong: *--p decrements p first, then stores the value 
+pointed to by the new (decremented) p into val.
+
+

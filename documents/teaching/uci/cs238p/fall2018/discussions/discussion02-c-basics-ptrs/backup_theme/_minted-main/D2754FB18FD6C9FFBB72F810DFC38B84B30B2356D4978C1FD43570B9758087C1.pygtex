@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+	\PYG{c+cm}{/* move start to code */}
+	\PYG{n}{memmove}\PYG{p}{(}\PYG{n}{code}\PYG{p}{,} \PYG{n}{\PYGZus{}binary\PYGZus{}entryother\PYGZus{}start}\PYG{p}{,}
+				\PYG{p}{(}\PYG{n}{uint}\PYG{p}{)}\PYG{n}{\PYGZus{}binary\PYGZus{}entryother\PYGZus{}size}\PYG{p}{);}
+\end{Verbatim}

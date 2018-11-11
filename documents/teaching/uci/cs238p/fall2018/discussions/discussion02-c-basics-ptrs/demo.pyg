@@ -1,0 +1,12 @@
+#define CAPSLOCK (1<<3)
+#define NUMLOCK (1<<4)
+#define SCROLLLOCK (1<<5)
+static uchar togglecode[256] = {
+[0x3A] CAPSLOCK,
+[0x45] NUMLOCK,
+[0x46] SCROLLLOCK
+};
+/* equivalent to */
+togglecode[0x3A] = CAPSLOCK;
+togglecode[0x45] = NUMLOCK;
+togglecode[0x46] = SCROLLLOCK;
