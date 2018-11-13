@@ -30,7 +30,7 @@ ____________
 	- <small>[Discussion 04 - C Bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([Resources](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
 	- <small>[Discussion 05 - xv6 Booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit.pdf)
 	- <small>[Discussion 06 - Midterm Review]() ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1)) ([Resources]())
-	- <small>[FAQs](../documents/teaching/uci/cs238p/fall2018/faqs/)
+	- <small>[FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
 ____________
 
