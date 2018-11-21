@@ -8,13 +8,13 @@
 
     <!-- This if statement decides which sidebar to use -->
 <!-- Here is the code that tells what to do when opening sidebar -->
-    <!-- {% if page.toc %} -->
-    <!-- {% include sidebar-toc.html %} -->
-    <!-- {% else %} -->
-    <!-- {% include sidebar.html %} -->
-	<!-- {% endif %} -->
+    {% if page.toc %} 
+    {% include sidebar-toc.html %}
+    {% else %}
+    {% include sidebar.html %}
+	{% endif %}
 	
-	<style>
+	<!-- <style>
 	.sidenav {
 		height: 100%;
 		width: 160px;
@@ -45,73 +45,22 @@
 	}
 	
 	.main {
-		margin-left: 160px; /* Same as the width of the sidenav */
-		font-size: 28px; /* Increased text to enable scrolling */
+		margin-left: 160px;
+		font-size: 28px;
 		padding: 0px 10px;
-	}
-/*new part begins*/
- 
-@media screen and (max-width: 700px) {
-  .sidenav {
-    width: 100%;
-    height: 42px;
-	position: relative;
-	text-align: left;
-	overflow-x: hidden;
-  }
-  .sidenav a {
-	padding: 0px 0px 6px 14px;
-	float: left;
-	overflow-x: hidden;
-	font-size: 17px;
-
-  }
-  /* div.content {margin-left: 0;} */
-}
-
-/* @media screen and (max-width: 400px) {
-  .sidenav a {
-	margin-top: 0;
-    text-align: center;
-    float: center;
-  }
-} */
-
-	
+	} -->
 	
 
 	</style>
 	<body>
 	
-	<div id="myDIV" class="sidenav">
+	<!-- <div id="myDIV" class="sidenav">
 	  <a class="active" href="../index.html">Home</a>
 	  <a href="../Publications/index.html">Publications</a>
 	  <a href="../Projects/index.html">Projects</a>
 	  <a href="../Teaching/index.html">Teaching</a>
 	  <a href="../Experience/index.html">Experience</a>
-	</div>
-
-	<!-- <div id="myDIV">
-			<button class="btn">1</button>
-			<button class="btn active">2</button>
-			<button class="btn">3</button>
-			<button class="btn">4</button>
-			<button class="btn">5</button>
-		  </div>
-		  
-		  <script>
-		  // Add active class to the current button (highlight it)
-		  var header = document.getElementById("myDIV");
-		  var btns = header.getElementsByClassName("btn");
-		  for (var i = 0; i < btns.length; i++) {
-			btns[i].addEventListener("click", function() {
-			  var current = document.getElementsByClassName("active");
-			  current[0].className = current[0].className.replace(" active", "");
-			  this.className += " active";
-			});
-		  }
-		  </script> -->
-
+	</div> -->
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
@@ -129,26 +78,26 @@
       </div>
     </div>
 <!-- The following will show the sidebar icon -->
-    <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
 
     // Toggle sidebar  
-    //   (function(document) {
-    //     var toggle = document.querySelector('.sidebar-toggle');
-    //     var sidebar = document.querySelector('#sidebar');
-    //     var checkbox = document.querySelector('#sidebar-checkbox');
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
 
-    //     document.addEventListener('click', function(e) {
-    //       var target = e.target;
+        document.addEventListener('click', function(e) {
+          var target = e.target;
 
-    //       if(!checkbox.checked ||
-    //          sidebar.contains(target) ||
-    //          (target === checkbox || target === toggle)) return;
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
 
-    //       checkbox.checked = false;
-    //     }, false);
-    //   })(document);
+          checkbox.checked = false;
+        }, false);
+      })(document);
     </script>
   </body>
 </html>
