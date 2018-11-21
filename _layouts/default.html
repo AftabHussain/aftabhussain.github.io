@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body class="theme-base-{{site.color-scheme}}">
+	  
 
     <!-- This if statement decides which sidebar to use -->
 <!-- Here is the code that tells what to do when opening sidebar -->
@@ -14,10 +15,6 @@
 	<!-- {% endif %} -->
 	
 	<style>
-			/* body {
-				font-family: "Lato", sans-serif;
-				font-family:'Amiri', serif; font-size: 30px
-			} */
 	.sidenav {
 		height: 100%;
 		width: 160px;
@@ -27,7 +24,7 @@
 		left: 0;
 		background-color: #841212;
 		overflow-x: hidden;
-		padding-top: 20px;
+		padding-top: 10px;
 	}
 	
 	.sidenav a {
@@ -35,40 +32,85 @@
 		text-decoration: none;
 		font-size: 20px;
 		font-family:'Amiri', serif;
-		color: #c9bebe;
+		color: #e4e1e1;
 		display: block;
 	}
-	
-	.sidenav a:hover {
-		color: #f1f1f1;
+
+	.sidenav a:hover{
+		color: #ffffff;
 	}
 
-	/* .sidebar a.active {
-		color: #f1f1f1;
-		background-color: yellow;
-	} */
+	.sidenav a:active{
+		color: #ffffff;
+	}
 	
 	.main {
 		margin-left: 160px; /* Same as the width of the sidenav */
 		font-size: 28px; /* Increased text to enable scrolling */
 		padding: 0px 10px;
 	}
+/*new part begins*/
+ 
+@media screen and (max-width: 700px) {
+  .sidenav {
+    width: 100%;
+    height: 42px;
+	position: relative;
+	text-align: left;
+	overflow-x: hidden;
+  }
+  .sidenav a {
+	padding: 0px 0px 6px 14px;
+	float: left;
+	overflow-x: hidden;
+	font-size: 17px;
+
+  }
+  /* div.content {margin-left: 0;} */
+}
+
+/* @media screen and (max-width: 400px) {
+  .sidenav a {
+	margin-top: 0;
+    text-align: center;
+    float: center;
+  }
+} */
+
 	
-	@media screen and (max-height: 450px) {
-		.sidenav {padding-top: 15px;}
-		.sidenav a {font-size: 18px;}
-	}
+	
+
 	</style>
-	</head>
 	<body>
 	
-	<div class="sidenav">
-	  <a href="../index.html">Home</a>
+	<div id="myDIV" class="sidenav">
+	  <a class="active" href="../index.html">Home</a>
 	  <a href="../Publications/index.html">Publications</a>
 	  <a href="../Projects/index.html">Projects</a>
 	  <a href="../Teaching/index.html">Teaching</a>
 	  <a href="../Experience/index.html">Experience</a>
 	</div>
+
+	<!-- <div id="myDIV">
+			<button class="btn">1</button>
+			<button class="btn active">2</button>
+			<button class="btn">3</button>
+			<button class="btn">4</button>
+			<button class="btn">5</button>
+		  </div>
+		  
+		  <script>
+		  // Add active class to the current button (highlight it)
+		  var header = document.getElementById("myDIV");
+		  var btns = header.getElementsByClassName("btn");
+		  for (var i = 0; i < btns.length; i++) {
+			btns[i].addEventListener("click", function() {
+			  var current = document.getElementsByClassName("active");
+			  current[0].className = current[0].className.replace(" active", "");
+			  this.className += " active";
+			});
+		  }
+		  </script> -->
 
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
@@ -91,20 +133,6 @@
 
     <script>
 
-    // Highlight search Query
-    // var url = window.location.href;
-    //   if (url.lastIndexOf("?q=") > 0) {
-    //     // get the index of the parameter, add three (to account for length)
-    //     var stringloc = url.lastIndexOf("?q=") + 3;
-    //     // get the substring (query) and decode
-    //     var searchquery = decodeURIComponent(url.substr(stringloc));
-    //     // regex matches at beginning of line, end of line or word boundary, useful for poetry
-    //     var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
-    //     // get, add mark and then set content
-    //     var content = document.getElementById("main").innerHTML;
-    //     document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
-    //   }
-
     // Toggle sidebar  
     //   (function(document) {
     //     var toggle = document.querySelector('.sidebar-toggle');
@@ -122,23 +150,5 @@
     //     }, false);
     //   })(document);
     </script>
-    <!-- Facebook SDK for JavaScript -->
-<!-- <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '589495744558280',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script> -->
   </body>
 </html>
