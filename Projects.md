@@ -9,30 +9,30 @@ title: Projects
 
 _____________
 
-## Glue code generation for Linux kernel security <a href="#top">⬆</a> {#glue-gen}
+## Glue code generation for Linux kernel security  {#glue-gen}
 
-<small>Generating glue code from IDL syntax for Linux kernel security using
+Generating glue code from IDL syntax for Linux kernel security using
 vembyr code parser.
 
-<small>[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl)
+[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl)
 
 
 _____________
 
-## IDL generation for Linux kernel security <a href="#top">⬆</a> {#idl-gen}
+## IDL generation for Linux kernel security  {#idl-gen}
 														
-<small>Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to automatically generate interface definition language code for isolating kernel modules for enhancing security.
+Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to automatically generate interface definition language code for isolating kernel modules for enhancing security.
 
 <!-- **⛁** Resources  -->
-<small>[⊕Source Code](https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8) 
+[⊕Source Code](https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8) 
 
 
 
 _____________
 
-## Graspan: A scalable graph processing system for scalable big code analysis <a href="#top">⬆</a> {#graspan}
+## Graspan: A scalable graph processing system for scalable big code analysis  {#graspan}
 
-<small>We built a disk-based parallel graph system, Graspan, that uses a novel
+We built a disk-based parallel graph system, Graspan, that uses a novel
 edge-pair centric computation model to compute dynamic
 transitive closures on very large program graphs.
 We implement context-sensitive pointer/alias and dataflow analyses on Graspan. An evaluation of these analyses on
@@ -40,16 +40,16 @@ large codebases such as Linux shows that their Graspan
 implementations scale to millions of lines of code and are
 much simpler than their original implementations. 
 
-<small>These analyses were used to augment the
+These analyses were used to augment the
 existing checkers; these augmented checkers found **132 new NULL pointer bugs** and **1308 unnecessary NULL tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd 2.2.18**.
 
-<small>[⊕Source Code](https://github.com/Graspan/graspan-java) 
+[⊕Source Code](https://github.com/Graspan/graspan-java) 
 &nbsp;&nbsp;[⊕Paper](/documents/pubs/asplos17-graspan.pdf) 
 &nbsp;&nbsp;[⊕Poster](/documents/pubs/asplos17-graspan-poster.pdf) 
 &nbsp;&nbsp;[⊕Tutorial](/documents/pubs/asplos17-graspan-tutorial.pdf)
 
-- <small>Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China  
-- <small>Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17.  
+- Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China  
+- Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17.  
 		
 
     
