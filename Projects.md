@@ -3,8 +3,19 @@ layout: page
 title: Projects
 ---
 
+- [Glue code generation for Linux kernel security](#glue-gen) 
 - [IDL generation for Linux kernel security](#idl-gen) 
 - [Graspan](#graspan)
+
+_____________
+
+## Glue code generation for Linux kernel security <a href="#top">⬆</a> {#glue-gen}
+
+Generating glue code from IDL syntax for Linux kernel security using
+vembyr code parser.
+
+[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl) 
+
 
 _____________
 
@@ -14,6 +25,8 @@ Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to auto
 
 <!-- **⛁** Resources  -->
 [⊕Source Code](https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8) 
+
+
 
 _____________
 
