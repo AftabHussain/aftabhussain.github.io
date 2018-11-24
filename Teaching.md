@@ -4,21 +4,28 @@ title: Teaching
 ---
 
 I served as a Teaching Assistant (TA) for the following courses at UCI:
-- [Operating Systems](#cs238p) <font color="gray"><small>CS238P</small></font> <small>(Fall `18 - [Class Files](#cs238p-fall18-files))</small> 
-- [Compilers and Interpreters](#cs142) <font color="gray"><small>CS142</small></font> <small>(Winter \`18, Winter `17)</small>
-- [Concepts in Programming Languages](#cs141) <font color="gray"><small>CS141</small></font> <small>(Summer \`18, Fall `17)</small>
-- [Principles of System Design](#ics53) <font color="gray"><small>ICS53</small></font> <small>(Spring `18)</small>
-- [Introduction to Programming](#ics31) <font color="gray"><small>ICS31</small></font> <small>(Winter `14)</small>
-- [Requirements Analysis and Engineering](#inf113) <font color="gray"><small>INF113</small></font> <small>(Winter `14)</small>
+- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Fall `18 - [Files](#cs238p-fall18-files)) 
+- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18, Winter `17)
+- [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer \`18, Fall `17)
+- [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
+- [Introduction to Programming](#ics31) <font color="gray">ICS31</font> (Winter `14)
+- [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> (Winter `14)
 
 I served as a Reader for the following course at UCI:
 
-- [Introduction to Software Engineering](#inf43) <font color="gray"><small>INF43</small></font> <small>(Fall `13)</small>
+- [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> (Fall `13)
 
 ____________
+<style>
+		@font-face { font-family: JuneBug; src: url('youtherdemo.ttf'); } 
+		p {
+		   font-family: JuneBug
+		}
+	  </style>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 
 
-## <a name="cs238p"></a>Operating Systems <font color="gray"><small>CS238P</small></font><a href="#top">⬆</a>  
+## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
 - I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
