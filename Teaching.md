@@ -16,22 +16,13 @@ I served as a Reader for the following course at UCI:
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> (Fall `13)
 
 ____________
-<style>
-		@font-face { font-family: JuneBug; src: url('youtherdemo.ttf'); } 
-		p {
-		   font-family: JuneBug
-		}
-	  </style>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-
-
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
 - I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
 - The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
-> <a name="cs238p-fall18-files"></a>CS238P class files for Fall 2018 (lectures, code, etc.) :<br>
+> <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
 - [Discussion 01 - Basic shell commands](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 - [Discussion 02 - C Basics, Arrays, Pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
