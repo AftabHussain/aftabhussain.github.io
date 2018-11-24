@@ -12,7 +12,8 @@ title: Publications
 ____________
 
 
-## Conference Papers <a href="#top">⬆</a> {#conference-papers} 
+## Conference Papers 
+<!-- <a href="#top">⬆</a> {#conference-papers}  -->
 
 [Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253Bj%252FWF7nPxSumRpdx0FsthYQ%253D%253D), Kai Wang, **Aftab Hussain**, Zhiqiang Zuo, Guoqing Xu, Ardalan Amiri Sani, 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17'), Xi'an, China, 2017 ([Paper](./documents/pubs/asplos17-graspan.pdf)) 
 
