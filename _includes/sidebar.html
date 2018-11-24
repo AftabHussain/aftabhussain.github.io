@@ -8,14 +8,20 @@
     <p>{{ site.description }}</p>
   </div> -->
 
+<link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'>
+<style>
+nav {
+ font-family: 'Alegreya Sans SC';font-size: 18px;
+}
+</style>
   <nav class="sidebar-nav">
-	<div style="font-family:'Amiri', serif; font-size: 20px" >
+	<!-- <div style="font-family:'Amiri', serif; font-size: 18px" > -->
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 	<a class="sidebar-nav-item" href="../Publications/index.html">Publications</a>
 	<a class="sidebar-nav-item" href="../Projects/index.html">Projects</a>
 	<a class="sidebar-nav-item" href="../Teaching/index.html">Teaching</a>
 	<a class="sidebar-nav-item" href="../Experience/index.html">Experience</a>
-</div>
+<!-- </div> -->
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
