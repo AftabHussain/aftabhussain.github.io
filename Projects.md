@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research Projects
 ---
 
 - [Glue code generation for Linux kernel security](#glue-gen) 
