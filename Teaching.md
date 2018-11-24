@@ -20,7 +20,7 @@ ____________
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
 - I am serving as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
-- The **course webpage** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
+- The **course page** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
@@ -60,7 +60,7 @@ ____________
 
 -  The **course teaches** systematic problem solving and how to implement the solutions using basic data structures in Python. 
 -  I served as a TA for this course in **Winter 2014** under [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
-- The **course webpage** for Winter 2014 is available [here](https://www.ics.uci.edu/~kay/courses/31/w14.html).
+- The **course page** for Winter 2014 is available [here](https://www.ics.uci.edu/~kay/courses/31/w14.html).
 
 ____________
 
@@ -68,7 +68,7 @@ ____________
 
 - The **course teaches** how to leverage requirements analysis techniques and requirements engineering towards developing software-intensive systems.  
 - I served as a TA for this course in **Winter 2014** under [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
-- The **course webpage** for Winter 2014 is available [here](https://eee.uci.edu/14w/37030).
+- The **course page** for Winter 2014 is available [here](https://eee.uci.edu/14w/37030).
 
 
 
