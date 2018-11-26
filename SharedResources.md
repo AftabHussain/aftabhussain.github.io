@@ -9,7 +9,6 @@ title: Shared Resources
   <!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sort_table_desc-->
 
 ## Research
-<small>*Click on headers to sort.*</small>
 
 <table id="rch">
   <tr>
@@ -18,29 +17,29 @@ title: Shared Resources
     <th onclick='sortTable(1,"rch")'>Date&nbsp;<i class="fa fa-sort" style="font-size:20px"></i></th>
   </tr>
   <tr>
-    <td><a href="https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl">Source code - IDL compiler</a> (under development)</td>
+    <td><a href="https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl">Source code - IDL compiler</a></td>
     <td>2018</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8">Source code - IDL generator</a> (under development)</td>
+    <td><a href="https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8">Source code - IDL generator</a></td>
     <td>2018</td>
   </tr>  
   <tr>
-    <td><a href="/documents/pubs/asplos17-graspan.pdf">Paper - Graspan graph processing system ASPLOS 2017</a></td>
+    <td><a href="/documents/pubs/asplos17-graspan.pdf">Paper - Graspan (ASPLOS `17)</a></td>
     <td>2017</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Graspan/graspan-java">Source code - Graspan graph processing system</a></td>
+    <td><a href="https://github.com/Graspan/graspan-java">Source code - Graspan</a></td>
     <td>2017</td>
   </tr> 
   <tr>
-    <td><a href="/documents/pubs/asplos17-graspan-poster.pdf">Poster - Graspan graph processing system ASPLOS 2017</a></td>
+    <td><a href="/documents/pubs/asplos17-graspan-poster.pdf">Poster - Graspan (ASPLOS `17)</a></td>
     <td>2017</td>
   </tr>  
 </table>
 
+
 ## Teaching <a href="#top">⬆</a>  {#teaching}
-<small>*Click on headers to sort.*</small>
 
 <table id="tch">
   <tr>
@@ -49,11 +48,66 @@ title: Shared Resources
     <th onclick='sortTable(1,"tch")'>Date&nbsp;<i class="fa fa-sort" style="font-size:20px"></i></th>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf">Lecture slides - Operating Systems Fall 2018 Discussion 01 - Basic shell commands</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf">Lecture slides - Operating Systems - Shell, vim</a></td>
     <td>2018/10/05</td>
   </tr>
+  <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf">Lecture slides - Operating Systems - C basics, pointers, arrays</a></td>
+    <td>2018/10/12</td>
+  </tr>
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1">Lecture video - Operating Systems - C basics, pointers, arrays</a></td>
+    <td>2018/10/12</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code">Lecture code - Operating Systems - C basics, pointers, arrays</a></td>
+    <td>2018/10/12</td>
+  </tr>
+  <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf">Lecture slides - Operating Systems - C strings, structures, function pointers</a></td>
+    <td>2018/10/19</td>
+  </tr>
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - Operating Systems - C strings, structures, function pointers</a></td>
+    <td>2018/10/19</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code">Lecture code - Operating Systems - C strings, structures, function pointers</a></td>
+    <td>2018/10/19</td>
+  </tr>
+  <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf">Lecture slides - Operating Systems - C bit fields, xv6 setup, gdb</a></td>
+    <td>2018/10/26</td>
+  </tr>
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - Operating Systems - C bit fields, xv6 setup, gdb</a></td>
+    <td>2018/10/26</td>
+  </tr>
+    <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf">Lecture slides - Operating Systems - xv6 boot: 16 bit to 32 bit mode</a></td>
+    <td>2018/11/03</td>
+  </tr>
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]">Lecture video - Operating Systems - xv6 boot: 16 bit to 32 bit mode</a> (Offline)</td>
+    <td>2018/11/12</td>
+  </tr>
+  <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf">Lecture notes - Operating Systems - Memory layout after booting xv6</a></td>
+    <td>2018/11/12</td>
+  </tr>
+  <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf">Lecture slides - Operating Systems - ELF Header, Real mode segmentation, paging</a></td>
+    <td>2018/11/09</td>
+  </tr>  
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1">Lecture video - Operating Systems - ELF Header, Real mode segmentation, paging</a></td>
+    <td>2018/11/09</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs">FAQs - Operating Systems</a></td>
+    <td>2018/11/19</td>
+  </tr>   
 </table>
-
 <script>
 function sortTable(n,name) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
@@ -73,10 +127,16 @@ function sortTable(n,name) {
       //start by saying there should be no switching:
       shouldSwitch = false;
       /*Get the two elements you want to compare,
-      one from current row and one from the next:*/
+	  one from current row and one from the next: 
+	  changed from TD to A for first column because we need to sort by what's in the a anchors (not the links)*/
+	  if (n == "0") {
+      x = rows[i].getElementsByTagName("A")[n];
+	  y = rows[i + 1].getElementsByTagName("A")[n];
+	  }
+	  if (n == "1") {
       x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
-      /*check if the two rows should switch place,
+	  y = rows[i + 1].getElementsByTagName("TD")[n];
+	  }      /*check if the two rows should switch place,
       based on the direction, asc or desc:*/
       if (dir == "asc") {
         if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
