@@ -104,7 +104,7 @@ title: Shared Resources
     <td>2018/11/09</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf">Lecture notes - Operating Systems - Threads, locks</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf">Lecture slides - Operating Systems - Threads, locks</a></td>
     <td>2018/11/30</td>
   </tr>
   <tr>
