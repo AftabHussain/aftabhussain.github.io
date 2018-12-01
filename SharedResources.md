@@ -104,6 +104,18 @@ title: Shared Resources
     <td>2018/11/09</td>
   </tr>
   <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf">Lecture notes - Operating Systems - Threads, locks</a></td>
+    <td>2018/11/30</td>
+  </tr>
+  <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1">Lecture video - Operating Systems - Threads, locks</a></td>
+    <td>2018/11/30</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c">Lecture code - Operating Systems - Threads, locks</a></td>
+    <td>2018/11/30</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs">FAQs - Operating Systems</a></td>
     <td>2018/11/19</td>
   </tr>   
