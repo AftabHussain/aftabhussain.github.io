@@ -31,6 +31,7 @@ ____________
 - [Discussion 05 - xv6 Booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) ([Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]))
 <br>↳ Lecture notes - [Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)
 - [Discussion 06 - ELF Header, Real Mode Segmentation, Paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
+- [Discussion 07 - Threads, Locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
 ____________
