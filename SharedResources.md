@@ -116,6 +116,14 @@ title: Shared Resources
     <td>2018/11/30</td>
   </tr>
   <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf">Lecture slides - Operating Systems - Final review, system call chain</a></td>
+    <td>2018/12/07</td>
+  </tr>
+    <tr>
+    <td><a href="https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1">Lecture video - Operating Systems - Final review, System call chain</a></td>
+    <td>2018/12/07</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs">FAQs - Operating Systems</a></td>
     <td>2018/11/19</td>
   </tr>   
