@@ -115,6 +115,10 @@ title: Shared Resources
     <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c">Lecture code - Operating Systems - Threads, locks</a></td>
     <td>2018/11/30</td>
   </tr>
+    <tr>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf">Lecture notes - Operating Systems - Counting Semaphores</a></td>
+    <td>2018/11/30</td>
+  </tr>
   <tr>
     <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf">Lecture slides - Operating Systems - Final review, system call chain</a></td>
     <td>2018/12/07</td>

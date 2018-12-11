@@ -32,6 +32,7 @@ ____________
 <br>↳ Lecture notes - [Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)
 - [Discussion 06 - ELF Header, Real Mode Segmentation, Paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
 - [Discussion 07 - Threads, Locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
+<br>↳ Lecture notes - [Counting Semaphores](../documents/teaching/uci/cs238p/fall2018/discussion07-threads-locks.pdf)
 - [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) ([Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1))
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
