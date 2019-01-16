@@ -20,7 +20,7 @@ ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focusses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
-- I am serving as a TA for this course in **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on concepts and xv6 implementation.
+- I am serving as a TA for this course in **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Winter 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, code, etc.):
