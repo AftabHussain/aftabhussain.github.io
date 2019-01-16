@@ -25,7 +25,7 @@ ____________
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, code, etc.):
 
-- [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf)
+- [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
 <br>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
 <br>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)
 
