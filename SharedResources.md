@@ -44,91 +44,91 @@ title: Shared Resources
 <table id="tch">
   <tr>
    <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->  
-    <th onclick='sortTable(0,"tch")'>Item&nbsp;<i class="fa fa-sort" style="font-size:20px"></i></th>
+    <th onclick='sortTable(0,"tch")'>CS238P Operating Systems - Fall 2018&nbsp;<i class="fa fa-sort" style="font-size:20px"></i></th>
     <th onclick='sortTable(1,"tch")'>Date&nbsp;<i class="fa fa-sort" style="font-size:20px"></i></th>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf">Lecture slides - Operating Systems - Shell, vim</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf">Lecture slides - Shell, vim</a></td>
     <td>2018/10/05</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf">Lecture slides - Operating Systems - C basics, pointers, arrays</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf">Lecture slides - C basics, pointers, arrays</a></td>
     <td>2018/10/12</td>
   </tr>
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1">Lecture video - Operating Systems - C basics, pointers, arrays</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1">Lecture video - C basics, pointers, arrays</a></td>
     <td>2018/10/12</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code">Lecture code - Operating Systems - C basics, pointers, arrays</a></td>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code">Lecture code - C basics, pointers, arrays</a></td>
     <td>2018/10/12</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf">Lecture slides - Operating Systems - C strings, structures, function pointers</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf">Lecture slides - C strings, structures, function pointers</a></td>
     <td>2018/10/19</td>
   </tr>
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - Operating Systems - C strings, structures, function pointers</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - C strings, structures, function pointers</a></td>
     <td>2018/10/19</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code">Lecture code - Operating Systems - C strings, structures, function pointers</a></td>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code">Lecture code - C strings, structures, function pointers</a></td>
     <td>2018/10/19</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf">Lecture slides - Operating Systems - C bit fields, xv6 setup, gdb</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf">Lecture slides - C bit fields, xv6 setup, gdb</a></td>
     <td>2018/10/26</td>
   </tr>
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - Operating Systems - C bit fields, xv6 setup, gdb</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1">Lecture video - C bit fields, xv6 setup, gdb</a></td>
     <td>2018/10/26</td>
   </tr>
     <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf">Lecture slides - Operating Systems - xv6 boot: 16 bit to 32 bit mode</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf">Lecture slides - xv6 boot: 16 bit to 32 bit mode</a></td>
     <td>2018/11/03</td>
   </tr>
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]">Lecture video - Operating Systems - xv6 boot: 16 bit to 32 bit mode</a> (Offline)</td>
+    <td><a href="https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]">Lecture video - xv6 boot: 16 bit to 32 bit mode</a> (Offline)</td>
     <td>2018/11/12</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf">Lecture notes - Operating Systems - Memory layout after booting xv6</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf">Lecture notes - Memory layout after booting xv6</a></td>
     <td>2018/11/12</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf">Lecture slides - Operating Systems - ELF Header, Real mode segmentation, paging</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf">Lecture slides - ELF Header, Real mode segmentation, paging</a></td>
     <td>2018/11/09</td>
   </tr>  
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1">Lecture video - Operating Systems - ELF Header, Real mode segmentation, paging</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1">Lecture video - ELF Header, Real mode segmentation, paging</a></td>
     <td>2018/11/09</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf">Lecture slides - Operating Systems - Threads, locks</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf">Lecture slides - Threads, locks</a></td>
     <td>2018/11/30</td>
   </tr>
   <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1">Lecture video - Operating Systems - Threads, locks</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1">Lecture video - Threads, locks</a></td>
     <td>2018/11/30</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c">Lecture code - Operating Systems - Threads, locks</a></td>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c">Lecture code - Threads, locks</a></td>
     <td>2018/11/30</td>
   </tr>
     <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf">Lecture notes - Operating Systems - Counting Semaphores</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf">Lecture notes - Counting Semaphores</a></td>
     <td>2018/11/30</td>
   </tr>
   <tr>
-    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf">Lecture slides - Operating Systems - Final review, system call chain</a></td>
+    <td><a href="/documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf">Lecture slides - Final review, system call chain</a></td>
     <td>2018/12/07</td>
   </tr>
     <tr>
-    <td><a href="https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1">Lecture video - Operating Systems - Final review, System call chain</a></td>
+    <td><a href="https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1">Lecture video - Final review, System call chain</a></td>
     <td>2018/12/07</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs">FAQs - Operating Systems</a></td>
+    <td><a href="https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs">FAQs</a></td>
     <td>2018/11/19</td>
   </tr>   
 </table>
