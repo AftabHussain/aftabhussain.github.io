@@ -39,7 +39,11 @@ title: Shared Resources
    <tr>
     <td><a href="/documents/pubs/tech-report15-graphdtc.pdf">Tech report - GraphDTC</a></td>
     <td>2015</td>
-  </tr> 
+  </tr>
+  <tr>
+    <td><a href="/documents/pubs/tech-report15-re-gaming.pdf">Tech report - Requirements engineering in the gaming industry</a></td>
+    <td>2015</td>
+  </tr>  
   <tr>
     <td><a href="/documents/pubs/imc13-l-shaped-drawing.pdf">Paper - L-shaped drawings of series-parallel graphs (IMC `13)</a></td>
     <td>2013</td>
@@ -48,6 +52,7 @@ title: Shared Resources
     <td><a href="/documents/pubs/isec13-soft-clustering.pdf">Paper - A new hierarchical clustering technique for restructuring software at the function level (ISEC `13)</a></td>
     <td>2013</td>
   </tr>   
+  
 
 </table>
 
