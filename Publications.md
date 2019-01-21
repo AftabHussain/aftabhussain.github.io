@@ -58,7 +58,7 @@ DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain**
 
 A Study on Memory Consistency Approaches in Distributed Shared Memory Systems, **Aftab Hussain** and Isaac Scherson, Department of Computer Science, University of California, Irvine, 2016
 
-[Graphdtc: A Graph Processing System for Scalable and Precise Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf), **Aftab Hussain** and Guoqing (Harry) Xu, Department of Computer Science, University of California, Irvine, 2015
+[GraphDTC: A Graph Processing System for Scalable and Precise Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf), **Aftab Hussain** and Guoqing (Harry) Xu, Department of Computer Science, University of California, Irvine, 2015
 
 [A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
 

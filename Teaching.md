@@ -6,7 +6,7 @@ title: Teaching
 I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Winter `19 - [Shared files](#cs250p-wint19-files)) 
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Fall `18 - [Shared files](#cs238p-fall18-files)) 
-- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18, Winter `17)
+- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18 - [Shared files](#cs142-winter18-files), Winter `17)
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer \`18, Fall `17)
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> (Winter `14)
@@ -55,8 +55,14 @@ ____________
 ## <a name="cs142"></a>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** compiler design using the traditional compiler design approach, starting with the front-end and proceeding toward the back-end. Students learn the phases of the approach, hands-on, by incrementally building a compiler for the [crux language](http://cruxlang.org/).  
-- I served as a TA for this course in **Winter 2018** and in **Winter 2017**  under [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts.
+- I served as a TA for this course in **Winter 2018** and in **Winter 2017**  under [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 - The **course page** for Winter 2018 is available [here](http://web.cs.ucla.edu/~harryxu/courses/142/CourseReference.html).
+
+> <a name="cs142-winter18-files"></a>CS142 Winter 2018 files:
+
+- [Lecture - LR(0) and LR(1) Parsing](../documents/teaching/uci/cs142/winter2018/handles-lr-bottom-up-parsing.pdf)
+- [Autograder - Crux Compiler Project](https://github.com/AftabHussain/CS142-Compilers-AutoGrader)
+
 
 ____________
 
