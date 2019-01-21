@@ -40,6 +40,11 @@ title: Shared Resources
     <td><a href="/documents/pubs/imc13-l-shaped-drawing.pdf">Paper - L-shaped drawings of series-parallel graphs (IMC `13)</a></td>
     <td>2013</td>
   </tr>   
+  <tr>
+    <td><a href="/documents/pubs/isec13-soft-clustering.pdf">Paper - A new hierarchical clustering technique for restructuring software at the function level (ISEC `13)</a></td>
+    <td>2013</td>
+  </tr>   
+
 </table>
 
 
