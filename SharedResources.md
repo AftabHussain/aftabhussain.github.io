@@ -35,7 +35,11 @@ title: Shared Resources
   <tr>
     <td><a href="/documents/pubs/asplos17-graspan-poster.pdf">Poster - Graspan (ASPLOS `17)</a></td>
     <td>2017</td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td><a href="/documents/pubs/imc13-l-shaped-drawing.pdf">Paper - L-shaped drawings of series-parallel graphs (IMC `13)</a></td>
+    <td>2013</td>
+  </tr>   
 </table>
 
 
