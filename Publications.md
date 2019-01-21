@@ -54,9 +54,11 @@ Common Vulnerabilities and Exposures in the Cloud, **Aftab Hussain** and Anton B
 
 DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
 
-[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report-big-data-perspective.pdf), Harry Xu, Zhiqiang Zuo, Kai Wang, **Aftab Hussain**, and Khanh Nguyen, University of California, Irvine, 2017 
+[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf), Guoqing (Harry) Xu, Zhiqiang Zuo, Kai Wang, **Aftab Hussain**, and Khanh Nguyen, University of California, Irvine, 2017 
 
 A Study on Memory Consistency Approaches in Distributed Shared Memory Systems, **Aftab Hussain** and Isaac Scherson, Department of Computer Science, University of California, Irvine, 2016
+
+[Graphdtc: A Graph Processing System for Scalable and Precise Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf), **Aftab Hussain** and Guoqing (Harry) Xu, Department of Computer Science, University of California, Irvine, 2015
 
 [A Holistic Look at Requirements Engineering Practices in the Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf), **Aftab Hussain**, Omar Asadi, Debra Richardson, Department of Informatics, University of California, Irvine, 2015
 
