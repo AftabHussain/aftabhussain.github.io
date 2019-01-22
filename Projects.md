@@ -7,6 +7,7 @@ title: Research Projects
 - [IDL generation for Linux kernel security](#idl-gen) 
 - [Graspan](#graspan)
 - [Analysis of Stack Overflow code snippets](#sof)
+- [Software restructuring using hierarchical clustering](#sw-cluster)
 
 _____________
 
@@ -73,9 +74,43 @@ to be the languages with the lowest usability rate.
 
 [⊕Paper](https://arxiv.org/pdf/1605.04464.pdf) 
 
+- Compiled 300,000+ StackOverflow Java snippets. Used heuristics to improve their parse rate from 6.22% to 19.24%.
 - Accepted in [MSR '16](http://2016.msrconf.org/#/home).  
 
- 
+_____________
+
+## Software Restructuring using Hierarchical Clustering {#sw-cluster}
+
+Ill-structured code is difficult to understand and thereby,
+costly to maintain and reuse. Software restructuring techniques
+based on hierarchical agglomerative clustering (HAC)
+algorithms have been widely used to restructure large modules
+with low cohesion into smaller modules with high cohesion,
+without changing the overall behaviour of the software.
+These techniques generate clustering trees, of modules,
+that are sliced at different cut-points to obtain desired
+restructurings. 
+
+Choosing appropriate cut-points has always
+been a difficult problem in clustering. Previous HAC techniques
+generate clustering trees that have large number of
+cut-points. Moreover, many of those cut-points return clusters
+of which only a few lead to a meaningful restructuring
+of the software. 
+
+In this work, we develop a new hierarchical
+clustering technique for restructuring software at the function
+level that **improves refactoring visualization by at least 30% over 3
+widely popular clustering algorithms, is 60% faster, and
+yields the same code quality improvements on Java functions
+extracted from real-life industrial programs.**
+
+[⊕Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
+&nbsp;&nbsp;[⊕Thesis](/documents/pubs/ms-thesis.pdf) 
+
+
+- Accepted in [ISEC '13](https://isoft.acm.org/isec2013/).
+- Invited for presentation in GDGA (Graph Drawing and Graph Algorithms) '13 .  
 
 
 
