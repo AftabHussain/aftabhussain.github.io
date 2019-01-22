@@ -38,7 +38,7 @@ ____________
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
-- [Discussion 01 - Basic shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
+- [Discussion 01 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 - [Discussion 02 - C basics, arrays, pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
 - [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
 - [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
