@@ -6,16 +6,17 @@ title: Research Projects
 - [Glue code generation for Linux kernel security](#glue-gen) 
 - [IDL generation for Linux kernel security](#idl-gen) 
 - [Graspan](#graspan)
+- [Analysis of Stack Overflow code snippets](#sof)
 
 _____________
 
 ## Glue code generation for Linux kernel security  {#glue-gen}
 
 Generating glue code from IDL syntax for Linux kernel security using
-vembyr code parser.
+vembyr code parser generator.
 
-[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8/tools/lcd/idl)
-
+[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl)
+&nbsp;&nbsp;[⊕IDL Compiler Documentation](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation)
 
 _____________
 
@@ -48,11 +49,33 @@ existing checkers; these augmented checkers found **132 new NULL pointer bugs** 
 &nbsp;&nbsp;[⊕Poster](/documents/pubs/asplos17-graspan-poster.pdf) 
 &nbsp;&nbsp;[⊕Tutorial](/documents/pubs/asplos17-graspan-tutorial.pdf)
 
-- Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China  
-- Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17.  
+- Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China.  
+- Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17. 
+- Invited for presentation at [SoCal PLS `16](http://socalpls.github.io/archive/2016nov/).
+- Invited for poster presentation at [PLDI SRC `16](https://conf.researchr.org/track/pldi-2016/Student+Research+Competition+(SRC)).
 		
 
-    
+_____________
+
+## From Query to Usable Code: An Analysis of Stack Overflow Code Snippets  {#sof}
+
+Besides being useful for software developers, annotated Stack Overflow snippets 
+can potentially serve
+as the basis for automated tools that provide working code
+solutions to specific natural language queries.
+Towards this goal, we investigated the compilability of
+Stack Overflow code snippets. A total of 3 million 
+code snippets were analyzed across four languages:
+C\#, Java, JavaScript, and Python. Python and
+JavaScript proved to be the languages for which the most
+code snippets are usable. Conversely, Java and C\# proved
+to be the languages with the lowest usability rate.
+
+[⊕Paper](https://arxiv.org/pdf/1605.04464.pdf) 
+
+- Accepted in [MSR '16](http://2016.msrconf.org/#/home).  
+
+ 
 
 
 
