@@ -28,6 +28,8 @@ ____________
 - [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
 <br>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
 <br>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)
+- [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
+
 
 ____________
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
