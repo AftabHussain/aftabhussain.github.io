@@ -29,6 +29,7 @@ ____________
 <br>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
 <br>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)
 - [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
+- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1))
 
 
 ____________
