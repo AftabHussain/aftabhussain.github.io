@@ -30,6 +30,13 @@ ____________
 <br>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)
 - [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1))
+- Discussion 04 - Out of order execution (Design) ([Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1))
+- Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
+<br>↳ Lecture notes - [Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)
+- Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
+- Midterm Solutions
+<br>↳ [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)
+<br>↳ [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)
 
 
 ____________
