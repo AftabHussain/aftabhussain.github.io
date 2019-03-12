@@ -1,0 +1,99 @@
+Midterm - 02/11/2019
+Solutions to Questions 1 to 3
+=============================
+=============================
+
+Question 1 
+==========
+
+(a) Processor B
+
+	**Explanation**
+	As per specs in question, it uses less power.
+
+(b) Processor A
+
+	**Explanation**
+	B's energy = 1 x 1 = 1 J (Assuming B uses 1W in 1s)
+	A's energy = 1.3 x 0.7 = 0.91 J
+
+(c) Processor A
+
+	**Explanation**
+	As per specs in question, it finishes the task quicker.
+
+Question 2 
+==========
+
+(a) 2400 J
+
+	**Explanation**
+	old frequency = 3 GHz
+	old cycle time = 1/3 ns
+	new frequency = 3/2 GHz
+	new cycle time = 2/3 ns
+	new time taken = 2/3 x 3 x 20 = 40 s
+	new dynamic power = 80/2 = 40 W [Dynamic power has linear relationship with frequency.]
+	new power consumed = 40 + 20 = 60 W [Static power is unaffected by change in frequency.]
+	new energy consumed = 60 W x 40 s = 2400 J 	
+
+(b) 976 J
+
+	**Explanation**
+	new frequency = 3 x 0.6 = 1.8 GHz
+	new cycle time = 1/1.8 ns
+	new time taken = 1/1.8 x 20 s
+	new dynamic power = 80 x 0.6 x 0.6 x 0.6 [Dynamic power has linear relationship with freq., and quadratic 
+						  relationship with voltage.]
+			  = 17.28 W
+	new static power = 20 x 0.6 = 12 W [Static power has linear relationship with voltage.]
+	new energy consumed = (17.28 + 12) x 1/1.8 x 20 s = 976 J
+
+Question 3 
+==========
+
+(a) 1.5 ns
+
+	**Explanation**
+	After adding 0.2 ns to each stage, we get the following times for each stage in ns:
+	1.2, 1, 1.5, 1.5, 1.1
+	The cycle time has to be the same for all stages, and thus would be the maximum time that any stage
+	would need.
+
+(b) 0.666 GHz
+
+	**Explanation**
+	clock speed = 1 / cycle time = 1 / 1.5 = 0.666 GHz
+
+(c) 1
+
+	**Explanation**
+	On average, a new instruction completes every clock cycle, hence
+	clock cycles per instruction (CPI) = 1. IPC is 1/CPI, thus, IPC = 1.
+
+(d) 7.5 ns
+
+	**Explanation**
+	An instruction would need to go past 5 stages, i.e., 5 clock cycles, each of which take 1.5 ns.
+	Hence, total time an instruction would take to finish = 5 x 1.5 = 7.5 ns.
+
+(e) 4.13
+
+	**Explanation**
+	old frequency = 1/6.2
+	new frequency = 1/1.5
+	speedup = new frequency / old frequency = 6.2/1.5 = 4.13
+
+(f) 26
+
+	**Explanation**
+	Let,
+		T be Unpipelined time to process instruction, 
+		Tovh be latching time per circuit, and
+		N be the number of stages for pipelining.
+	We get,
+		Speed up = (T + Tovh)/(T/N + Tovh)
+	We can get maximum speedup from pipelining if N -> infinity. This gives us, 
+		Speed up = (T + Tovh)/Tovh
+			 = (6 + 0.2)/0.2
+			 = 31
