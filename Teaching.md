@@ -5,7 +5,7 @@ title: Teaching
 
 I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Winter `19 - [Shared files](#cs250p-wint19-files)) 
-- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Fall `18 - [Shared files](#cs238p-fall18-files)) 
+- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring \`19, Fall \`18 - [Shared files](#cs238p-fall18-files)) 
 - [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18 - [Shared files](#cs142-winter18-files), Winter `17)
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer \`18, Fall `17)
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
@@ -20,7 +20,7 @@ ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focusses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
-- I am serving as a TA for this course in **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I hold lectures and discussion sessions on computer architecture design concepts.
+- I served as a TA for this course in **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Winter 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, code, etc.):
@@ -43,8 +43,8 @@ ____________
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
-- I served as a TA for this course in **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
-- The **course page** for Fall 2018 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
+- I am serving and also previously served as a TA for this course in **Spring 2019** and **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
+- The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
