@@ -5,7 +5,7 @@ title: Teaching
 
 I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Winter `19 - [Shared files](#cs250p-wint19-files)) 
-- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring \`19, Fall \`18 - [Shared files](#cs238p-fall18-files)) 
+- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring \`19 - [Shared files](#cs238p-spring19-files), Fall \`18 - [Shared files](#cs238p-fall18-files)) 
 - [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18 - [Shared files](#cs142-winter18-files), Winter `17)
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer \`18, Fall `17)
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
@@ -45,6 +45,12 @@ ____________
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
 - I am serving and also previously served as a TA for this course in **Spring 2019** and **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 - The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
+
+> <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lectures, code, etc.):
+- Winter 2018 Midterm Solutions
+<br>↳ [Question 1](../documents/teaching/uci/cs250p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
+- Fall 2018 Midterm Solutions
+<br>↳ [Question 2](../documents/teaching/uci/cs250p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
