@@ -49,9 +49,9 @@ ____________
 > <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lectures, code, etc.):
 
 - Winter 2018 Midterm Solutions
-<br>↳ [Question 1](../documents/teaching/uci/cs250p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
+<br>↳ [Question 1](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
 - Fall 2018 Midterm Solutions
-<br>↳ [Question 2](../documents/teaching/uci/cs250p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
+<br>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
 
