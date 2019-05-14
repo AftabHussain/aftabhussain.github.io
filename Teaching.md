@@ -51,8 +51,8 @@ ____________
 - [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
 - Winter 2018 Midterm Solutions
 <br>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
-<br>↳ [Questions 2, 3](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf)
-- Fall 2018 Midterm Solutions
+<br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)
+- Fall 2018 Midterm Solution
 <br>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
 <br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)
 
