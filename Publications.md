@@ -15,7 +15,9 @@ ____________
 ## Conference Papers 
 <!-- <a href="#top">⬆</a> {#conference-papers}  -->
 
-[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253Bj%252FWF7nPxSumRpdx0FsthYQ%253D%253D), Kai Wang, **Aftab Hussain**, Zhiqiang Zuo, Guoqing Xu, Ardalan Amiri Sani, 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17'), Xi'an, China, 2017 ([Paper](./documents/pubs/asplos17-graspan.pdf)) 
+[LXDs: Towards Isolation of Kernel Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan), Vikram Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall, Scott Bauer, Michael Quigley, **Aftab Hussain**, Abdullah Younis, Junjie Shen, Moinak Bhattacharyya, Anton Burtsev, 2019 USENIX Annual Technical Conference (USENIX ATC `19) ([Paper](./documents/pubs/lxds-usenix19.pdf))
+
+[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_view_base%253Bj%252FWF7nPxSumRpdx0FsthYQ%253D%253D), Kai Wang, **Aftab Hussain**, Zhiqiang Zuo, Guoqing Xu, Ardalan Amiri Sani, 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17), Xi'an, China, 2017 ([Paper](./documents/pubs/asplos17-graspan.pdf)) 
 
 [From Query to Usable code: An Analysis of Stack Overflow code snippets](https://dl.acm.org/citation.cfm?id=2901767), Di Yang, **Aftab Hussain**, Cristina Videira Lopes, 13th International Conference on Mining Software Repositories (MSR '16), Austin, Texas, 2016 ([Paper](https://arxiv.org/pdf/1605.04464.pdf))
 
