@@ -18,6 +18,8 @@ vembyr code parser generator.
 
 [⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl)
 &nbsp;&nbsp;[⊕IDL Compiler Documentation](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation)
+&nbsp;&nbsp;[⊕Paper](/documents/pubs/lxds-usenix19.pdf) 
+
 
 _____________
 
