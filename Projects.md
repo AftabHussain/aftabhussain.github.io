@@ -11,7 +11,7 @@ title: Research Projects
 
 _____________
 
-## Glue code generation for Linux kernel security  {#glue-gen}
+## Glue code generation for Linux kernel security <font color="gray">2018-2019</font> {#glue-gen}
 
 Generating glue code from IDL syntax for Linux kernel security using
 vembyr code parser generator.
@@ -23,7 +23,7 @@ vembyr code parser generator.
 
 _____________
 
-## IDL generation for Linux kernel security  {#idl-gen}
+## IDL generation for Linux kernel security  <font color="gray">2017-2019</font> {#idl-gen}
 														
 Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to automatically generate interface definition language code for isolating kernel modules for enhancing security.
 
@@ -34,7 +34,7 @@ Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to auto
 
 _____________
 
-## Graspan: A scalable graph processing system for scalable big code analysis  {#graspan}
+## Graspan: A scalable graph processing system for scalable big code analysis <font color="gray">2015-2017</font> {#graspan}
 
 We built a disk-based parallel graph system, Graspan, that uses a novel
 edge-pair centric computation model to compute dynamic
@@ -60,7 +60,7 @@ existing checkers; these augmented checkers found **132 new NULL pointer bugs** 
 
 _____________
 
-## From Query to Usable Code: An Analysis of Stack Overflow Code Snippets  {#sof}
+## From Query to Usable Code: An Analysis of Stack Overflow Code Snippets  <font color="gray">2013-2014</font> {#sof}
 
 Besides being useful for software developers, annotated Stack Overflow snippets 
 can potentially serve
@@ -81,7 +81,7 @@ to be the languages with the lowest usability rate.
 
 _____________
 
-## Software Restructuring using Hierarchical Clustering {#sw-cluster}
+## Software Restructuring using Hierarchical Clustering <font color="gray">2011-2013</font> {#sw-cluster}
 
 Ill-structured code is difficult to understand and thereby,
 costly to maintain and reuse. Software restructuring techniques
