@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 I served as a Teaching Assistant (TA) for the following courses at UCI:
-- [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Winter `19 - [Shared files](#cs250p-wint19-files)) 
+- [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Fall \`19 - [Shared files](#cs250p-fall19-files), Winter `19 - [Shared files](#cs250p-wint19-files)) 
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring \`19 - [Shared files](#cs238p-spring19-files), Fall \`18 - [Shared files](#cs238p-fall18-files)) 
 - [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter \`18 - [Shared files](#cs142-winter18-files), Winter `17)
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer \`18, Fall `17)
@@ -20,10 +20,14 @@ ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focusses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
-- I served as a TA for this course in **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
-- The **course page** for Winter 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
+- I am serving and also previously served as a TA for this course in **Fall 2019** and **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
+- The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 
-> <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, code, etc.):
+> <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
+
+
+
+> <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
 - [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
 <br>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
@@ -35,6 +39,7 @@ ____________
 <br>↳ Solution workout - [Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)
 - Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
 - Midterm Solutions
+<br>↳ [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)
 <br>↳ [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)
 <br>↳ [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)
 
@@ -43,10 +48,10 @@ ____________
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
-- I am serving and also previously served as a TA for this course in **Spring 2019** and **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
+- I served as a TA for this course in **Spring 2019** and **Fall 2018** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 - The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
-> <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lectures, code, etc.):
+> <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lecture, midterm solutions, etc.):
 
 - [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
 - Winter 2018 Midterm Solutions
