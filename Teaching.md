@@ -28,6 +28,7 @@ ____________
 - [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) ([Video](https://uci.yuja.com/V/Video?v=503521&a=102598196))
 <br>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)
 - [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) ([Video](https://uci.yuja.com/V/Video?v=509537&a=764174958))
+<br>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)
 
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
