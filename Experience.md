@@ -19,7 +19,7 @@ _____________
 
 # Teaching <a href="#top">⬆</a> {#teach}
 
- **Teaching Assistant** -- 2014, 2017 to present<br>Bren School of Information and Computer Sciences<br>University of California, Irvine<br> *Courses: <br> CS 250P Computer Systems Architecture (Winter 2019)<br> CS 238P Operating Systems (Fall 2018) <br> ICS 141 Concepts in Programming Languages (Summer 2018, Fall 2017) <br> ICS 53 Principles of System Design (Spring 2018) <br> CS 142 Compilers and Interpreters (Winter 2018, Winter 2017) <br> ICS 31 Introduction to Programming (Winter 2014) <br> INF 113 Requirements Analysis and Engineering (Winter 2014)*
+ **Teaching Assistant** -- 2014, 2017 to present<br>Bren School of Information and Computer Sciences<br>University of California, Irvine<br> *Courses: <br> CS 250P Computer Systems Architecture (Fall 2019, Winter 2019)<br> CS 238P Operating Systems (Spring 2019, Fall 2018) <br> ICS 141 Concepts in Programming Languages (Summer 2018, Fall 2017) <br> ICS 53 Principles of System Design (Spring 2018) <br> CS 142 Compilers and Interpreters (Winter 2018, Winter 2017) <br> ICS 31 Introduction to Programming (Winter 2014) <br> INF 113 Requirements Analysis and Engineering (Winter 2014)*
 
  **Reader** -- 2013<br>Bren School of Information and Computer Sciences<br> University of California, Irvine<br> *Course: <br> INF 43 Introduction to Software Engineering (Fall 2013)* 
 
