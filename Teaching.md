@@ -22,7 +22,7 @@ ____________
 - The **course teaches** the architecture of complex modern microprocessors. It focusses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
 - I am serving and also previously served as a TA for this course in **Fall 2019** and **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
-- My office hours and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
+- My **office hours** and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
 
 > <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
 
