@@ -19,7 +19,7 @@ I served as a Reader for the following course at UCI:
 ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
-- The **course teaches** the architecture of complex modern microprocessors. It focusses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
+- The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
 - I am serving and also previously served as a TA for this course in **Fall 2019** and **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 - My **office hours** and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
@@ -33,6 +33,7 @@ ____________
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=516078&a=906737907))
 - [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
 - [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) ([Video](https://uci.yuja.com/V/Video?v=531822&a=902935491))
+- [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
