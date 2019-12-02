@@ -34,7 +34,10 @@ ____________
 - [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
 - [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) ([Video](https://uci.yuja.com/V/Video?v=531822&a=902935491))
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
-
+- Discussion 06 - HW2 Team Contest
+- [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
+<br>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)
+<br>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
