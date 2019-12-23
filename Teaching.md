@@ -38,6 +38,9 @@ ____________
 - [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
 <br>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)
 <br>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)
+- [Discussion 08 - Virtual Memory and Caches Workout](https://uci.yuja.com/V/Video?v=553397&a=1701996347)
+<br>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)
+<br>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf))
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
