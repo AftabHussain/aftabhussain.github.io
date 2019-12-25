@@ -54,7 +54,8 @@ ____________
 
 Common Vulnerabilities and Exposures in the Cloud, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
 
-[DSA-IDL-Generator : Execution Flow and Indirect Call Handling](/documents/pubs/tech-report18-dsa-idl.pdf), **Aftab
+[An Implementation Overview of an IDL Generation Framework
+Based on DSA](/documents/pubs/tech-report18-dsa-idl.pdf), **Aftab
 Hussain** and Anton Burtsev, Department of Computer Science, University of
 California, Irvine, 2018 
 
