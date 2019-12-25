@@ -54,7 +54,9 @@ ____________
 
 Common Vulnerabilities and Exposures in the Cloud, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
 
-DSA-IDL-Generator : Execution Flow and Indirect Call Handling, **Aftab Hussain** and Anton Burtsev, Department of Computer Science, University of California, Irvine, 2018 (under preparation) 
+[DSA-IDL-Generator : Execution Flow and Indirect Call Handling](/documents/pubs/tech-report18-dsa-idl.pdf), **Aftab
+Hussain** and Anton Burtsev, Department of Computer Science, University of
+California, Irvine, 2018 
 
 [Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf), Guoqing (Harry) Xu, Zhiqiang Zuo, Kai Wang, **Aftab Hussain**, and Khanh Nguyen, University of California, Irvine, 2017 
 
