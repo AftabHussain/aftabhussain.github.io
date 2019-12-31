@@ -36,7 +36,7 @@ Hussain, Cristina Videira Lopes <br><i>13th International Conference on Mining
 Software Repositories (MSR '16), Austin, Texas, 2016
 
 
-<small><font color="#4E74AB">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
+<small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
 Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><i>International Mathematics Conference, Dhaka, Bangladesh, 2013
 
 
@@ -56,7 +56,7 @@ Code](http://socalpls.github.io/archive/2016nov/) [[slides](/documents/pubs/soca
 SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
         
 
-<small><font color="#4E74AB">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 ____________
 
@@ -69,7 +69,7 @@ on Programming Language Design and Implementation (PLDI '16), Santa
 Barbara, California, 2016
        
 
-<small><font color="#4E74AB">Graspan: A Single-machine Disk-based Graph System for
+<small><font color="#3F5E8C">Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems Code</font> <br><i>Computer Science Research Showcase, University of California,
 Irvine, 2016     
 
@@ -87,7 +87,7 @@ ____________
 
 ## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
 
-<small><font color="#841212">Common Vulnerabilities and Exposures in the Cloud</font> <br>Aftab
+<small><font color="#3F5E8C">Common Vulnerabilities and Exposures in the Cloud</font> <br>Aftab
 Hussain and Anton Burtsev <br><i>Department of Computer Science, University of
 California, Irvine, 2018 (under preparation) 
 
@@ -98,7 +98,7 @@ California, Irvine, 2018
 
 <small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><i>University of California, Irvine, 2017 
 
-<small><font color="#4E74AB">A Study on Memory Consistency Approaches in Distributed Shared
+<small><font color="#3F5E8C">A Study on Memory Consistency Approaches in Distributed Shared
 Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><i>Department of
 Computer Science, University of California, Irvine, 2016
 
