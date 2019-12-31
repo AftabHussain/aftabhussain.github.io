@@ -2,7 +2,15 @@
 layout: page
 title: Teaching
 ---
+<style>
+            /* https://www.dafont.com/ */
+                @font-face { font-family: JuneBug; src: url('youtherdemo.ttf'); } 
+                h1 {
+                   font-family: JuneBug
+                }
+          </style>
 
+<h1>
 I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font color="gray">CS250P</font> (Fall \`19 - [Shared files](#cs250p-fall19-files), Winter `19 - [Shared files](#cs250p-wint19-files))  
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring \`19 - [Shared files](#cs238p-spring19-files), Fall \`18 - [Shared files](#cs238p-fall18-files)) 
@@ -11,7 +19,7 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> (Winter `14)
 - [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> (Winter `14)
-
+</h1>
 I served as a Reader for the following course at UCI:
 
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> (Fall `13)
