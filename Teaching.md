@@ -10,8 +10,8 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring `18)
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> (Winter `14)
 - [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> (Winter `14)
-I served as a Reader for the following course at UCI:
 
+I served as a Reader for the following course at UCI:
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> (Fall `13)
 
 ____________
