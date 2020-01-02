@@ -19,7 +19,9 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 
 I served as a Reader for the following course at UCI:
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> Fall 2013
+
 ____________
+
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
