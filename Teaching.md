@@ -6,7 +6,7 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font
   color="gray">CS250P</font> Fall 2019, Winter 2019  
 ↳ [Shared files for Fall 2019](#cs250p-fall19-files)
-<br>↳ [Shared files for Winter 2019](#cs250p-winter19-files)
+<br><small>↳ [Shared files for Winter 2019](#cs250p-winter19-files)
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> Spring 2019, Fall 2018 
 <br>↳ [Shared files for Spring 2019](#cs238p-spring19-files)
 <br>↳ [Shared files for Fall 2018](#cs238p-fall18-files)
@@ -19,9 +19,7 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 
 I served as a Reader for the following course at UCI:
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> Fall 2013
-
 ____________
-
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
