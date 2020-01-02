@@ -4,20 +4,21 @@ title: Teaching
 ---
 I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font
-  color="gray">CS250P</font> (Fall 19 - [Shared
-files](#cs250p-fall19-files), Winter 19 - [Shared
-files](#cs250p-wint19-files))  
-↳ [Shared files for Fall 19](#cs250p-fall19-files)
-- [Operating Systems](#cs238p) <font color="gray">CS238P</font> (Spring 19 - [Shared files](#cs238p-spring19-files), Fall 18 - [Shared files](#cs238p-fall18-files)) 
-- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> (Winter 18 - [Shared files](#cs142-winter18-files), Winter 17)
-- [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> (Summer 18, Fall 17)
-- [Principles of System Design](#ics53) <font color="gray">ICS53</font> (Spring 18)
-- [Introduction to Programming](#ics31) <font color="gray">ICS31</font> (Winter 14)
-- [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> (Winter 14)
+  color="gray">CS250P</font> Fall 2019, Winter 2019  
+↳ [Shared files for Fall 2019](#cs250p-fall19-files)
+↳ [Shared files for Winter 2019](#cs250p-winter19-files)
+- [Operating Systems](#cs238p) <font color="gray">CS238P</font> Spring 2019, Fall 2018 
+↳ [Shared files for Spring 2019](#cs238p-spring19-files)
+↳ [Shared files for Fall 2018](#cs238p-fall18-files)
+- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> Winter 2018, Winter 2017
+↳ [Shared files for Winter 2018](#cs142-winter18-files)
+- [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> Summer 2018, Fall 2017
+- [Principles of System Design](#ics53) <font color="gray">ICS53</font> Spring 2018
+- [Introduction to Programming](#ics31) <font color="gray">ICS31</font> Winter 2014
+- [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> Winter 2014
 
 I served as a Reader for the following course at UCI:
-- [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> (Fall 13)
-
+- [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> Fall 2013
 ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
