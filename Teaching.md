@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-I served as a Teaching Assistant (TA) for the following courses at UCI:
+I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font
   color="gray">CS250P</font> Fall 2019, Winter 2019  
 <small>↳ [Shared files for Fall 2019](#cs250p-fall19-files)</small>
@@ -17,7 +17,7 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> Winter 2014
 - [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> Winter 2014
 
-I served as a Reader for the following course at UCI:
+I have worked as a Reader for the following course at UCI:
 - [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> Fall 2013
 
 ____________
@@ -25,14 +25,15 @@ ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
-- I served as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
+- I worked as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 - My **office hours** and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
 
 > <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
 
-- [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) ([Video](https://uci.yuja.com/V/Video?v=503521&a=102598196))
-<br>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)
+- [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
+<br><small>↳Video(https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
+<br><small>↳[Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
 - [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) ([Video](https://uci.yuja.com/V/Video?v=509537&a=764174958))
 <br>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=516078&a=906737907))
@@ -68,7 +69,7 @@ ____________
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
-- I served as a TA for this course in **Spring 2019** and **Fall 2018** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
+- I worked as a TA for this course in **Spring 2019** and **Fall 2018** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 - The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
 > <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lecture, midterm solutions, etc.):
@@ -101,7 +102,7 @@ ____________
 ## <a name="cs142"></a>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** compiler design using the traditional compiler design approach, starting with the front-end and proceeding toward the back-end. Students learn the phases of the approach, hands-on, by incrementally building a compiler for the [crux language](http://cruxlang.org/).  
-- I served as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
+- I worked as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 - The **course page** for Winter 2018 is available [here](http://web.cs.ucla.edu/~harryxu/courses/142/CourseReference.html).
 
 > <a name="cs142-winter18-files"></a>CS142 Winter 2018 files:
@@ -115,7 +116,7 @@ ____________
 ## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, and functional and imperative languages.
-- I served as a TA for this course in **Summer 2018** with [Prof. Shannon
+- I worked as a TA for this course in **Summer 2018** with [Prof. Shannon
   Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro),
 and in **Fall 2017** with [Prof. Ray
 Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL
@@ -126,7 +127,7 @@ ____________
 ## <a name="ics53"></a>Principles of System Design <font color="gray"><small>ICS53 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** UNIX programming, scripting, and socket programming. 
-- I served as a TA for this course in **Spring 2018** with [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
+- I worked as a TA for this course in **Spring 2018** with [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
 
 
 ____________
@@ -134,7 +135,7 @@ ____________
 ## <a name="ics31"></a>Introduction to Programming <font color="gray"><small>ICS31 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 -  The **course teaches** systematic problem solving and how to implement the solutions using basic data structures in Python. 
--  I served as a TA for this course in **Winter 2014** with [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
+-  I worked as a TA for this course in **Winter 2014** with [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
 - The **course page** for Winter 2014 is available [here](https://www.ics.uci.edu/~kay/courses/31/w14.html).
 
 ____________
@@ -142,7 +143,7 @@ ____________
 ## <a name="inf113"></a>Requirements Analysis and Engineering <font color="gray"><small>INF113 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** how to leverage requirements analysis techniques and requirements engineering towards developing software-intensive systems.  
-- I served as a TA for this course in **Winter 2014** with [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
+- I worked as a TA for this course in **Winter 2014** with [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
 - The **course page** for Winter 2014 is available [here](https://eee.uci.edu/14w/37030).
 
 
@@ -152,6 +153,6 @@ ____________
 ## <a name="inf43"></a>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 -  The **course teaches** concepts (e.g. life cycle models), methods, and current practices in software engineering (e.g. agile development), in the industry. 
-- I served as a Reader for this course during **Fall 2013** with [Prof. Hadar Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My role was to evaluate student assignments on software engineering practices. <br>
+- I worked as a Reader for this course during **Fall 2013** with [Prof. Hadar Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My role was to evaluate student assignments on software engineering practices. <br>
 
 ____________
