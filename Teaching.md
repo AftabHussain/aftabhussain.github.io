@@ -25,7 +25,8 @@ ____________
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
-- I served as a TA for this course in **Fall 2019** and **Winter 2019** under [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
+- Course Instructor, Sessions: [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/), Fall 2019, Winter 2019 
+- I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
 - My **office hours** and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
 
@@ -68,7 +69,8 @@ ____________
 ## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system.
-- I served as a TA for this course in **Spring 2019** and **Fall 2018** taught by [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
+- Course Instructor, Sessions: [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/), Spring 2019, Fall 2018
+- I held lectures and discussion sessions on concepts and xv6 implementation.
 - The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
 > <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lecture, midterm solutions, etc.):
