@@ -6,12 +6,12 @@ I served as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font
   color="gray">CS250P</font> Fall 2019, Winter 2019  
 ↳ [Shared files for Fall 2019](#cs250p-fall19-files)
-↳ [Shared files for Winter 2019](#cs250p-winter19-files)
+<br>↳ [Shared files for Winter 2019](#cs250p-winter19-files)
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> Spring 2019, Fall 2018 
-↳ [Shared files for Spring 2019](#cs238p-spring19-files)
-↳ [Shared files for Fall 2018](#cs238p-fall18-files)
+<br>↳ [Shared files for Spring 2019](#cs238p-spring19-files)
+<br>↳ [Shared files for Fall 2018](#cs238p-fall18-files)
 - [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> Winter 2018, Winter 2017
-↳ [Shared files for Winter 2018](#cs142-winter18-files)
+<br>↳ [Shared files for Winter 2018](#cs142-winter18-files)
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> Summer 2018, Fall 2017
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> Spring 2018
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> Winter 2014
