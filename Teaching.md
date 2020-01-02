@@ -34,8 +34,9 @@ ____________
 - [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small>↳[Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
 <br><small>↳[Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
-- [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) ([Video](https://uci.yuja.com/V/Video?v=509537&a=764174958))
-<br>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)
+- [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
+<br><small>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)</small>
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=516078&a=906737907))
 - [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
 - [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) ([Video](https://uci.yuja.com/V/Video?v=531822&a=902935491))
@@ -152,7 +153,7 @@ ____________
 
 ## <a name="inf43"></a>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
 
--  The **course teaches** concepts (e.g. life cycle models), methods, and current practices in software engineering (e.g. agile development), in the industry. 
+-  The **course teaches** concepts (e.g. life cycle models), methods, and current practices in software engineering (e.g. agile development) used in the industry. 
 - I worked as a Reader for this course during **Fall 2013** with [Prof. Hadar Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My role was to evaluate student assignments on software engineering practices. <br>
 
 ____________
