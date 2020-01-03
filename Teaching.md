@@ -52,13 +52,13 @@ ____________
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
 - [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
-<br><small>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
-<br><small>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
+<br><small>↳ [Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
+<br><small>↳ [Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
 - [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1))
 - Discussion 04 - Out of order execution (Design) ([Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1))
 - Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
-<br><small>↳ Solution workout - [Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
+<br><small>↳ [Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
 - Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
 - Midterm Solutions
 <br><small>↳ [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
@@ -94,7 +94,7 @@ ____________
 <br>↳ Lecture notes - [Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)
 - [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
 - [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
-<br>↳ Lecture notes - [Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)
+<br><small>↳ [Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
 - [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) ([Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1))
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
