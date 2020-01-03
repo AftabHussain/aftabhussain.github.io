@@ -80,8 +80,8 @@ ____________
 <br>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
 <br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)
 - Fall 2018 Midterm Solution
-<br><small>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
-<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)
+<br><small>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
+<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
 
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
