@@ -5,13 +5,13 @@ title: Teaching
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 - [Computer Systems Architecture](#cs250p) <font
   color="gray">CS250P</font> Fall 2019, Winter 2019  
-<small>↳ [Shared files for Fall 2019](#cs250p-fall19-files)</small>
-<br><small>↳ [Shared files for Winter 2019](#cs250p-winter19-files)
+<small>$ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
+<br><small>$ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
 - [Operating Systems](#cs238p) <font color="gray">CS238P</font> Spring 2019, Fall 2018 
-<br><small>↳ [Shared files for Spring 2019](#cs238p-spring19-files)</small>
-<br><small>↳ [Shared files for Fall 2018](#cs238p-fall18-files)</small>
+<br><small>$ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
+<br><small>$ndash; [Shared files for Fall 2018](#cs238p-fall18-files)</small>
 - [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> Winter 2018, Winter 2017
-<br><small>↳ [Shared files for Winter 2018](#cs142-winter18-files)</small>
+<br><small>$ndash; [Shared files for Winter 2018](#cs142-winter18-files)</small>
 - [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> Summer 2018, Fall 2017
 - [Principles of System Design](#ics53) <font color="gray">ICS53</font> Spring 2018
 - [Introduction to Programming](#ics31) <font color="gray">ICS31</font> Winter 2014
@@ -32,21 +32,21 @@ ____________
 > <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
 
 - [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
-<br><small>↳[Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
-<br><small>↳[Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
+<br><small>$ndash;[Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
+<br><small>$ndash;[Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
 - [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
-<br><small>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
+<br><small>$ndash; [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)</small>
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=516078&a=906737907)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=516078&a=906737907)</small>
 - [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
 - [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
-<br><small> ↳[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
+<br><small> $ndash;[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 - Discussion 06 - HW2 Team Contest
 - [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
-<br><small>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)</small>
-<br><small>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)</small>
+<br><small>$ndash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)</small>
+<br><small>$ndash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)</small>
 - [Discussion 08 - Virtual Memory and Caches Workout](https://uci.yuja.com/V/Video?v=553397&a=1701996347)
 <br><small>&mdash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)</small>
 <br><small>&mdash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf)</small>
@@ -54,22 +54,22 @@ ____________
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
 - [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
-<br><small>↳ [Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
-<br><small>↳ [Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
+<br><small>$ndash; [Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
+<br><small>$ndash; [Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
 - [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1)</small>
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1)</small>
 - Discussion 04 - Out of order execution (Design) 
-<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1)</small>
+<br><small>$ndash; [Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1)</small>
 - Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
-<br><small>↳ [Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
+<br><small>$ndash; [Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
 - Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
 - Midterm Solutions
-<br><small>↳ [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
-<br><small>↳ [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)</small>
-<br><small>↳ [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)</small>
+<br><small>$ndash; [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
+<br><small>$ndash; [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)</small>
+<br><small>$ndash; [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)</small>
 
 
 ____________
@@ -83,11 +83,11 @@ ____________
 
 - [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
 - Winter 2018 Midterm Solutions
-<br><small>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)</small>
-<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)</small>
+<br><small>$ndash; [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)</small>
+<br><small>$ndash; [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)</small>
 - Fall 2018 Midterm Solution
-<br><small>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
-<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
+<br><small>$ndash; [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
+<br><small>$ndash; [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
 
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
@@ -97,10 +97,10 @@ ____________
 - [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
 - [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
 - [Discussion 05 - xv6 booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) ([Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]))
-<br><small>↳ [Lecture notes - Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)</small>
+<br><small>$ndash; [Lecture notes - Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)</small>
 - [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
 - [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
-<br><small>↳ [Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
+<br><small>$ndash; [Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
 - [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) ([Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1))
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
