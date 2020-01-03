@@ -77,8 +77,8 @@ ____________
 
 - [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
 - Winter 2018 Midterm Solutions
-<br>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
-<br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)
+<br><small>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)</small>
+<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)</small>
 - Fall 2018 Midterm Solution
 <br><small>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
 <br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
@@ -91,7 +91,7 @@ ____________
 - [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
 - [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
 - [Discussion 05 - xv6 booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) ([Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]))
-<br>↳ Lecture notes - [Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)
+<br><small>↳ [Lecture notes - Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)</small>
 - [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
 - [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
 <br><small>↳ [Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
