@@ -43,27 +43,27 @@ ____________
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 - Discussion 06 - HW2 Team Contest
 - [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
-<br>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)
-<br>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)
+<br><small>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)</small>
+<br><small>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)</small>
 - [Discussion 08 - Virtual Memory and Caches Workout](https://uci.yuja.com/V/Video?v=553397&a=1701996347)
-<br>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)
-<br>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf)
+<br><small>↳ [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)</small>
+<br><small>↳ [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf)</small>
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
 - [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
-<br>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
-<br>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)
+<br><small>↳ Lecture notes - [GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)
+<br><small>↳ Lecture notes - [IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
 - [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
 - [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1))
 - Discussion 04 - Out of order execution (Design) ([Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1))
 - Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
-<br>↳ Solution workout - [Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)
+<br><small>↳ Solution workout - [Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
 - Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
 - Midterm Solutions
-<br>↳ [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)
-<br>↳ [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)
-<br>↳ [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)
+<br><small>↳ [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
+<br><small>↳ [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)</small>
+<br><small>↳ [Questions 4 to 6](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf)</small>
 
 
 ____________
@@ -80,8 +80,8 @@ ____________
 <br>↳ [Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)
 <br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)
 - Fall 2018 Midterm Solution
-<br>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
-<br>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)
+<br><small>↳ [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)
+<br><small>↳ [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)
 
 
 > <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
