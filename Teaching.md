@@ -37,9 +37,11 @@ ____________
 - [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
 <br><small>↳ [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
 <br><small>↳ [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)</small>
-- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=516078&a=906737907))
+- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=516078&a=906737907)</small>
 - [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
-- [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) ([Video](https://uci.yuja.com/V/Video?v=531822&a=902935491))
+- [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
+<br><small> ↳[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 - Discussion 06 - HW2 Team Contest
 - [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
@@ -51,12 +53,16 @@ ____________
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
-- [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) ([Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1))
+- [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
 <br><small>↳ [Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
 <br><small>↳ [Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
-- [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) ([Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1))
-- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) ([Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1))
-- Discussion 04 - Out of order execution (Design) ([Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1))
+- [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1)</small>
+- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1)</small>
+- Discussion 04 - Out of order execution (Design) 
+<br><small>↳ [Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1)</small>
 - Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
 <br><small>↳ [Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
 - Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
