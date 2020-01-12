@@ -9,20 +9,27 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <br><small>&ndash; [Shared files](#cs201p-winter20-files)</small>
 - [CS250P - Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
-<small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
+<br><small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
 <br><small>&ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
-- <font color="gray">CS238P</font> [Operating Systems](#cs238p) Spring 2019, Fall 2018 
+- [CS238P - Operating Systems](#cs238p) 
+<small><font color="gray">Spring 2019, Fall 2018</font></small> 
 <br><small>&ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
 <br><small>&ndash; [Shared files for Fall 2018](#cs238p-fall18-files)</small>
-- <font color="gray">CS142</font> [Compilers and Interpreters](#cs142) Winter 2018, Winter 2017
+- [CS142 Compilers and Interpreters](#cs142) 
+<small><font color="gray">Winter 2018, Winter 2017</font></small> 
 <br><small>&ndash; [Shared files for Winter 2018](#cs142-winter18-files)</small>
-- <font color="gray">CS141</font> [Concepts in Programming Languages](#cs141) Summer 2018, Fall 2017
-- <font color="gray">ICS53</font> [Principles of System Design](#ics53) Spring 2018
-- <font color="gray">ICS31</font> [Introduction to Programming](#ics31) Winter 2014
-- <font color="gray">INF113</font> [Requirements Analysis and Engineering](#inf113) Winter 2014
+- [CS141 - Concepts in Programming Languages](#cs141) 
+<small><font color="gray">Summer 2018, Fall 2017</font></small> 
+- [ICS53 - Principles of System Design](#ics53) 
+<small><font color="gray">Spring 2018</font></small> 
+- [ICS31 - Introduction to Programming](#ics31) 
+<small><font color="gray">Winter 2014</font></small> 
+- [INF113 - Requirements Analysis and Engineering](#inf113) 
+<small><font color="gray">Winter 2014</font></small> 
 
 I have worked as a Reader for the following course at UCI:
-- <font color="gray">INF43</font> [Introduction to Software Engineering](#inf43) Fall 2013
+- [INF43 - Introduction to Software Engineering](#inf43) 
+<small><font color="gray">Fall 2013</font></small> 
 
 ____________
 
