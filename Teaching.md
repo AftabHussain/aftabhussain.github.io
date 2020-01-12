@@ -3,20 +3,20 @@ layout: page
 title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-- <font color="gray">CS250P</font> [Computer Security](#cs201p) Winter 2020  
+- <font color="gray">CS250P</font>[Computer Security](#cs201p) Winter 2020  
 <small>&ndash; [Shared files](#cs201p-winter20-files)</small>
-- <font color="gray">CS250P</font> [Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
+- <font color="gray">CS250P</font>[Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
 <small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
-<br><small>&ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
-- <font color="gray">CS238P</font> [Operating Systems](#cs238p) Spring 2019, Fall 2018 
+<br><small>&ndash;[Shared files for Winter 2019](#cs250p-winter19-files)
+- <font color="gray">CS238P</font>[Operating Systems](#cs238p) Spring 2019, Fall 2018 
 <br><small>&ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
 <br><small>&ndash; [Shared files for Fall 2018](#cs238p-fall18-files)</small>
-- <font color="gray">CS142</font> [Compilers and Interpreters](#cs142) Winter 2018, Winter 2017
+- <font color="gray">CS142</font>[Compilers and Interpreters](#cs142) Winter 2018, Winter 2017
 <br><small>&ndash; [Shared files for Winter 2018](#cs142-winter18-files)</small>
-- <font color="gray">CS141</font> [Concepts in Programming Languages](#cs141) Summer 2018, Fall 2017
-- <font color="gray">ICS53</font> [Principles of System Design](#ics53) Spring 2018
-- <font color="gray">ICS31</font> [Introduction to Programming](#ics31) Winter 2014
-- <font color="gray">INF113</font> [Requirements Analysis and Engineering](#inf113) Winter 2014
+- <font color="gray">CS141</font>[Concepts in Programming Languages](#cs141) Summer 2018, Fall 2017
+- <font color="gray">ICS53</font>[Principles of System Design](#ics53) Spring 2018
+- <font color="gray">ICS31</font>[Introduction to Programming](#ics31) Winter 2014
+- <font color="gray">INF113</font>[Requirements Analysis and Engineering](#inf113) Winter 2014
 
 I have worked as a Reader for the following course at UCI:
 - <font color="gray">INF43</font> [Introduction to Software Engineering](#inf43) Fall 2013
@@ -34,7 +34,7 @@ ____________
 
 > <a name="cs201p-winter20-files"></a>CS201P Winter 2020 files:
 
-- Lab Discussion 01 - 
+- Lab Discussion 01 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=653337&a=1957587991)</small>
 <br><small>&ndash; [Lab 1, SEED project links](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion01-seed-lab-setup.pdf)</small>
