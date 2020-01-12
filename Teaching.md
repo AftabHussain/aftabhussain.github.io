@@ -3,22 +3,41 @@ layout: page
 title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-- [Computer Systems Architecture](#cs250p) <font
-  color="gray">CS250P</font> Fall 2019, Winter 2019  
+- <font color="gray">CS250P</font> [Computer Security](#cs201p) Winter 2020  
+<small>&ndash; [Shared files](#cs201p-winter20-files)</small>
+- <font color="gray">CS250P</font> [Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
 <small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
 <br><small>&ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
-- [Operating Systems](#cs238p) <font color="gray">CS238P</font> Spring 2019, Fall 2018 
+- <font color="gray">CS238P</font> [Operating Systems](#cs238p) Spring 2019, Fall 2018 
 <br><small>&ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
 <br><small>&ndash; [Shared files for Fall 2018](#cs238p-fall18-files)</small>
-- [Compilers and Interpreters](#cs142) <font color="gray">CS142</font> Winter 2018, Winter 2017
+- <font color="gray">CS142</font> [Compilers and Interpreters](#cs142) Winter 2018, Winter 2017
 <br><small>&ndash; [Shared files for Winter 2018](#cs142-winter18-files)</small>
-- [Concepts in Programming Languages](#cs141) <font color="gray">CS141</font> Summer 2018, Fall 2017
-- [Principles of System Design](#ics53) <font color="gray">ICS53</font> Spring 2018
-- [Introduction to Programming](#ics31) <font color="gray">ICS31</font> Winter 2014
-- [Requirements Analysis and Engineering](#inf113) <font color="gray">INF113</font> Winter 2014
+- <font color="gray">CS141</font> [Concepts in Programming Languages](#cs141) Summer 2018, Fall 2017
+- <font color="gray">ICS53</font> [Principles of System Design](#ics53) Spring 2018
+- <font color="gray">ICS31</font> [Introduction to Programming](#ics31) Winter 2014
+- <font color="gray">INF113</font> [Requirements Analysis and Engineering](#inf113) Winter 2014
 
 I have worked as a Reader for the following course at UCI:
-- [Introduction to Software Engineering](#inf43) <font color="gray">INF43</font> Fall 2013
+- <font color="gray">INF43</font> [Introduction to Software Engineering](#inf43) Fall 2013
+
+____________
+
+## <a name="cs201p"></a>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#top">⬆</a>  
+
+- The **course teaches** the principles of practical computer security,
+  providing an overview of threats on computer systems and techniques to counteract these threats. 
+- I am working as a TA for this course in **Winter 2020** with [Prof. Stanislaw Jarecki](https://www.ics.uci.edu/~stasio/).
+- The **course page** for Winter 2020 is available [here](https://sites.google.com/view/ucicompsci201p/home).
+- **Lab discussion class time and place**: Fridays, 6pm to 6.50pm at Steinhaus Hall (SH) 174
+- My **office hours** & room: Mondays, 11am to 1pm, Donald Bren Hall (DBH) 3059A 
+
+> <a name="cs201p-winter20-files"></a>CS201P Winter 2020 files:
+
+- Lab Discussion 01 - 
+<br><small><font color="gray">January 10, 2020</font></small> 
+<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=653337&a=1957587991)</small>
+<br><small>&ndash; [Lab 1, SEED project links](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion01-seed-lab-setup.pdf)</small>
 
 ____________
 
@@ -27,7 +46,8 @@ ____________
 - The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. 
 - I worked as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 - The **course page** for Fall 2019 is available [here](https://www.ics.uci.edu/~aburtsev/250P/index.html).
-- My **office hours** and location: Tuesdays, 2pm to 3pm at DBH (Donald Bren Hall) 3059A 
+- **Discussion class time and place**: Mondays, 8pm to 8.50pm at Physical Sciences Classroom Building (PCSB) 140
+- My **office hours** & room: Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
 
 > <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
 
