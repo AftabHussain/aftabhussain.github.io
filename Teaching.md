@@ -42,7 +42,7 @@ ____________
 - **Lab discussion class time and place**: Fridays, 6pm to 6.50pm at Steinhaus Hall (SH) 174
 - My **office hours** & room: Mondays, 11am to 1pm, Donald Bren Hall (DBH) 3059A 
 
-<a name="cs201p-winter20-files"></a>CS201P Winter 2020 files:
+<a name="cs201p-winter20-files"></a>CS201P **shared files** for Winter 2020:
 
 - Lab Discussion 01 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
@@ -59,7 +59,7 @@ ____________
 - **Discussion class time and place**: Mondays, 8pm to 8.50pm at Physical Sciences Classroom Building (PCSB) 140
 - My **office hours** & room: Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
 
-> <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
+<a name="cs250p-fall19-files"></a>CS250P **shared files** for Fall 2019 (lectures, midterm solutions, etc.):
 
 - [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small><font color="gray">October 7, 2019</font></small> 
