@@ -42,7 +42,7 @@ ____________
 - **Lab discussion class time and place**: Fridays, 6pm to 6.50pm at Steinhaus Hall (SH) 174
 - My **office hours** & room: Mondays, 11am to 1pm, Donald Bren Hall (DBH) 3059A 
 
-> <a name="cs201p-winter20-files"></a>CS201P Winter 2020 files:
+<a name="cs201p-winter20-files"></a>CS201P Winter 2020 files:
 
 - Lab Discussion 01 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
