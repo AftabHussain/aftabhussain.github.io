@@ -42,7 +42,7 @@ ____________
 - **Lab discussion class time and place**: Fridays, 6pm to 6.50pm at Steinhaus Hall (SH) 174
 - My **office hours** & room: Mondays, 11am to 1pm, Donald Bren Hall (DBH) 3059A 
 
-<a name="cs201p-winter20-files"></a>CS201P **shared files** for Winter 2020:
+<a name="cs201p-winter20-files"></a>**CS201P Shared Files for Winter 2020**
 
 - Lab Discussion 01 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
@@ -59,7 +59,7 @@ ____________
 - **Discussion class time and place**: Mondays, 8pm to 8.50pm at Physical Sciences Classroom Building (PCSB) 140
 - My **office hours** & room: Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
 
-<a name="cs250p-fall19-files"></a>CS250P **shared files** for Fall 2019 (lectures, midterm solutions, etc.):
+<a name="cs250p-fall19-files"></a>**CS250P Shared Files for Fall 2019 (lectures, midterm solutions, etc.)**
 
 - [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small><font color="gray">October 7, 2019</font></small> 
@@ -91,7 +91,7 @@ ____________
 <br><small>&ndash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)</small>
 <br><small>&ndash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf)</small>
 
-> <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
+<a name="cs250p-wint19-files"></a>**CS250P Shared Files for Winter 2019 - lectures, midterm solutions, etc.**
 
 - [Discussion 1 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
@@ -119,7 +119,7 @@ ____________
 - I worked as a TA for this course in **Spring 2019** and **Fall 2018** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 - The **course page** for Spring 2019 is available [here](https://www.ics.uci.edu/~aburtsev/238P/index.html).
 
-> <a name="cs238p-spring19-files"></a>CS238P Spring 2019 files (lecture, midterm solutions, etc.):
+<a name="cs238p-spring19-files"></a>**CS238P Shared Files for Spring 2019 - lecture, midterm solutions, etc.**
 
 - [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
 - Winter 2018 Midterm Solutions
@@ -130,7 +130,7 @@ ____________
 <br><small>&ndash; [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
 
 
-> <a name="cs238p-fall18-files"></a>CS238P Fall 2018 files (lectures, code, etc.):
+<a name="cs238p-fall18-files"></a>**CS238P Shared Files for Fall 2018 - lectures, code, etc.**
 
 - [Discussion 01 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 - [Discussion 02 - C basics, arrays, pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
@@ -152,7 +152,7 @@ ____________
 - I worked as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 - The **course page** for Winter 2018 is available [here](http://web.cs.ucla.edu/~harryxu/courses/142/CourseReference.html).
 
-> <a name="cs142-winter18-files"></a>CS142 Winter 2018 files:
+<a name="cs142-winter18-files"></a>**CS142 Shared Files for Winter 2018**
 
 - [Lecture - LR(0) and LR(1) Parsing](../documents/teaching/uci/cs142/winter2018/handles-lr-bottom-up-parsing.pdf)
 - [Autograder - Crux Compiler Project](https://github.com/AftabHussain/CS142-Compilers-AutoGrader)
