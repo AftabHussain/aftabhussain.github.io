@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-- test <font color="gray">CS250P</font>[Computer Security](#cs201p) Winter 2020  
+-&nbsp;<font color="gray">CS250P</font>[Computer Security](#cs201p) Winter 2020  
 <small>&ndash; [Shared files](#cs201p-winter20-files)</small>
 - <font color="gray">CS250P</font>[Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
 <small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
-<br><small>&ndash;[Shared files for Winter 2019](#cs250p-winter19-files)
+<br><small>&ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
 - <font color="gray">CS238P</font>[Operating Systems](#cs238p) Spring 2019, Fall 2018 
 <br><small>&ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
 <br><small>&ndash; [Shared files for Fall 2018](#cs238p-fall18-files)</small>
@@ -66,13 +66,13 @@ ____________
 <br><small><font color="gray">October 28, 2019</font></small> 
 - [Discussion 5 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
 <br><small><font color="gray">November 4, 2019</font></small> 
-<br><small> &ndash;[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
+<br><small> &ndash; [Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 - Discussion 6 - HW2 Team Contest
 <br><small><font color="gray">November 18, 2019</font></small> 
 - Discussion 7 - Caches Workout
-<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=550302&a=140106279)</small>
 <br><small><font color="gray">November 25, 2019</font></small> 
+<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=550302&a=140106279)</small>
 <br><small>&ndash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)</small>
 <br><small>&ndash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)</small>
 - Discussion 8 - Virtual Memory and Caches Workout
