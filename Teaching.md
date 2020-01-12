@@ -4,7 +4,7 @@ title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 
-- CS250P [Computer Security](#cs201p) <font color = "gray">Winter 2020</font>  
+- [CS201P - Computer Security](#cs201p) <font color = "gray">Winter 2020</font>  
 <small>&ndash; [Shared files](#cs201p-winter20-files)</small>
 - <font color="gray">CS250P</font> [Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
 <small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
