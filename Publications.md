@@ -55,9 +55,9 @@ Interprocedural Static Analyses of Large-scale Systems
 Code](http://socalpls.github.io/archive/2016nov/) [[slides](/documents/pubs/socalpls16-graspan-presentation.pdf)] <br><i>17th
 SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
         
-
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
+<small><font color="3F5E8C">Open Problems in Graph Drawing</font> [[slides](/documents/pubs/gdga13-open-problems-presentation.pdf)]<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 ____________
 
 ## Posters <a href="#top">⬆</a>  {#posters}
@@ -65,10 +65,9 @@ ____________
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
 Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About) [[poster](/documents/pubs/asplos17-graspan-poster.pdf)]<br><i>Student Research Competition, 37th ACM SIGPLAN conference
-on Programming Language Design and Implementation (PLDI '16), Santa
+on Programming Language Design and Implementation (PLDI `16), Santa
 Barbara, California, 2016
        
-
 <small><font color="#3F5E8C">Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems Code</font> <br><i>Computer Science Research Showcase, University of California,
 Irvine, 2016     
