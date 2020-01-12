@@ -108,7 +108,7 @@ yields the same code quality improvements on Java functions
 extracted from real-life industrial programs.**
 
 [⊕Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
-&nbsp;&nbsp;[⊕Thesis](/documents/pubs/ms-thesis.pdf) 
+&nbsp;&nbsp;[⊕Thesis](/documents/pubs/ms-thesis.pdf)&nbsp;&nbsp;[⊕CohesionOptimizer Tool](tools/CohesionOptimizer.jar)&nbsp;&nbsp;[⊕Tool Manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
 
 
 - Accepted in [ISEC '13](https://isoft.acm.org/isec2013/).
