@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-- <font color="gray">CS250P</font>[Computer Security](#cs201p) Winter 2020  
+- test <font color="gray">CS250P</font>[Computer Security](#cs201p) Winter 2020  
 <small>&ndash; [Shared files](#cs201p-winter20-files)</small>
 - <font color="gray">CS250P</font>[Computer Systems Architecture](#cs250p) Fall 2019, Winter 2019  
 <small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
@@ -51,41 +51,51 @@ ____________
 
 > <a name="cs250p-fall19-files"></a>CS250P Fall 2019 files (lectures, midterm solutions, etc.):
 
-- [Discussion 01 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
+- [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
+<br><small><font color="gray">October 7, 2019</font></small> 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
 <br><small>&ndash; [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
-- [Discussion 02 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
+- [Discussion 2 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
+<br><small><font color="gray">October 14, 2019</font></small> 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
 <br><small>&ndash; [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips-notes.pdf)</small>
-- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) 
+- [Discussion 3 - Pipelining](../documents/teaching/uci/cs250p/fall2019/discussions/discussion03-pipelining.pdf) 
+<br><small><font color="gray">October 21, 2019</font></small> 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=516078&a=906737907)</small>
-- [Discussion 04 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
-- [Discussion 05 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
+- [Discussion 4 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
+<br><small><font color="gray">October 28, 2019</font></small> 
+- [Discussion 5 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
+<br><small><font color="gray">November 4, 2019</font></small> 
 <br><small> &ndash;[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
-- Discussion 06 - HW2 Team Contest
-- [Discussion 07 - Caches Workout](https://uci.yuja.com/V/Video?v=550302&a=140106279)
+- Discussion 6 - HW2 Team Contest
+<br><small><font color="gray">November 18, 2019</font></small> 
+- Discussion 7 - Caches Workout
+<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=550302&a=140106279)</small>
+<br><small><font color="gray">November 25, 2019</font></small> 
 <br><small>&ndash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-questions.pdf)</small>
 <br><small>&ndash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion07-caches-workout-solns.pdf)</small>
-- [Discussion 08 - Virtual Memory and Caches Workout](https://uci.yuja.com/V/Video?v=553397&a=1701996347)
+- Discussion 8 - Virtual Memory and Caches Workout
+<br><small><font color="gray">December 2, 2019</font></small> 
+<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=553397&a=1701996347)</small>
 <br><small>&ndash; [Workout questions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-questions.pdf)</small>
 <br><small>&ndash; [Workout solutions](../documents/teaching/uci/cs250p/fall2019/discussions/discussion08-workout-solutions.pdf)</small>
 
 > <a name="cs250p-wint19-files"></a>CS250P Winter 2019 files (lectures, midterm solutions, etc.):
 
-- [Discussion 01 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
+- [Discussion 1 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
 <br><small>&ndash; [Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
 <br><small>&ndash; [Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
-- [Discussion 02 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) 
+- [Discussion 2 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1)</small>
-- [Discussion 03 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) 
+- [Discussion 3 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1)</small>
-- Discussion 04 - Out of order execution (Design) 
+- Discussion 4 - Out of order execution (Design) 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1)</small>
-- Discussion 05 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
+- Discussion 5 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
 <br><small>&ndash; [Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
-- Discussion 06 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
+- Discussion 6 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
 - Midterm Solutions
 <br><small>&ndash; [Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
 <br><small>&ndash; [Questions 1 to 3](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt)</small>
