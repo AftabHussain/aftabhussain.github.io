@@ -22,7 +22,7 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
 - [ICS53 - Principles of System Design](#ics53) 
 <small><font color="gray">Spring 2018</font></small> 
-- [ICS31 - Introduction to Programming](#ics31) 
+- [ICS31 - Introduction to Programming](#ics31)  
 <small><font color="gray">Winter 2014</font></small> 
 - [INF113 - Requirements Analysis and Engineering](#inf113) 
 <small><font color="gray">Winter 2014</font></small> 
