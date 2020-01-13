@@ -91,9 +91,9 @@ ____________
 Hussain and Anton Burtsev <br><i>Department of Computer Science, University of
 California, Irvine, 2018 (under preparation) 
 
-<small>[An Implementation Overview of an IDL Generation Framework
-Based on DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab
-Hussain and Anton Burtsev <br><i>Department of Computer Science, University of
+<small>[An Implementation Overview of an IDL Generation Framework Based on
+DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
+Narayanan, Anton Burtsev <br><i>Department of Computer Science, University of
 California, Irvine, 2018 
 
 <small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><i>University of California, Irvine, 2017 
