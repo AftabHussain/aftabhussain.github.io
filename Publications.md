@@ -19,7 +19,7 @@ ____________
 Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
 Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
 Scott Bauer, Michael Quigley, Aftab Hussain, Abdullah Younis, Junjie Shen,
-Moinak Bhattacharyya, Anton Burtsev <br><i>2019 USENIX Annual Technical
+Moinak Bhattacharyya, Anton Burtsev <br><small><i>2019 USENIX Annual Technical
 Conference (USENIX ATC `19), Renton, Washington, 2019
 
 
