@@ -51,7 +51,7 @@ ____________
 
 ## Presentations <a href="#top">⬆</a>  {#presentations}
 
-<small><b>Conferences and Workshops
+<small><b>(Talks at conferences and workshops)
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -60,13 +60,16 @@ SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
         
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
-<small><font color="3F5E8C">Open Problems in Graph Drawing</font> [[slides](/documents/pubs/gdga13-open-problems-presentation.pdf)]<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+<small>[Open Problems in Graph Drawing](/documents/pubs/gdga13-open-problems-presentation.pdf)<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 <small><font color="3F5E8C">A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level</font> <br><i>6th India Software Engineering Conference, New Delhi, India, 2013
 
-<small><b>>Various Venues
+<small><b>(Various other research talks)
 
+<small>[A New approach for fixing bugs in Code Clones: Fix It There Too
+(FITT)](/documents/pubs/presentation14-fitt.pdf)<br>(co-presented with Vaibhav Saini)<br><i> INF219 Software Envirnoments class Spring `14, Department of Informatics, University of
+California, Irvine, 2014
 
 
 ____________
