@@ -112,6 +112,16 @@ Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf)<br>Aftab
 Hussain, Omar Asadi, Debra Richardson <br><i> Department of Informatics,
 University of California, Irvine, 2015
 
+<small>[Instant Clone Finder: Detecting Clones During Software
+Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
+Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><i> Department
+of Informatics, University of California, Irvine, 2015
+
+<small>[A New approach for fixing bugs in Code Clones: Fix It
+There Too (FITT)](/documents/pubs/tech-report14-fitt.pdf)<br>Vaibhav Saini, Aftab
+Hussain<br><i> Department of Informatics, University of California, Irvine,
+2014
+
 <small>[Effect of Follow and Watch Relationships in Pull Requests (in
 Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
 Hussain, Cristina Videira Lopes<br><i>Department of Informatics, University
