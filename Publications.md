@@ -51,7 +51,7 @@ ____________
 
 ## Presentations <a href="#top">⬆</a>  {#presentations}
 
-<br>Conferences and Workshops
+<small><b>Conferences and Workshops
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -65,7 +65,7 @@ SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
 <small><font color="3F5E8C">A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level</font> <br><i>6th India Software Engineering Conference, New Delhi, India, 2013
 
-Various Venues
+<small><b>>Various Venues
 
 
 
