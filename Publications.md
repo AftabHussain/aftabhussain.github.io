@@ -51,7 +51,8 @@ ____________
 
 ## Presentations <a href="#top">⬆</a>  {#presentations}
 
-Conferences and Workshops
+<br>Conferences and Workshops
+
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
 Code](http://socalpls.github.io/archive/2016nov/) [[slides](/documents/pubs/socalpls16-graspan-presentation.pdf)] <br><i>17th
