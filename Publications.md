@@ -119,8 +119,7 @@ of Informatics, University of California, Irvine, 2015
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/tech-report14-fitt.pdf)
-[[slides](/documents/pubs/presentation14-fitt.pdf)] [[slides (arch &
-design)](/documents/pubs/presentation14-fitt-arch-design.pdf)]<br>Vaibhav
+[[slides](/documents/pubs/presentation14-fitt.pdf)] [[architecture](/documents/pubs/presentation14-fitt-arch-design.pdf)]<br>Vaibhav
 Saini, Aftab Hussain<br><i> Department of Informatics, University of
 California, Irvine, 2014
 
