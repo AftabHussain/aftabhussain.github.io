@@ -19,7 +19,7 @@ ____________
 Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
 Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
 Scott Bauer, Michael Quigley, Aftab Hussain, Abdullah Younis, Junjie Shen,
-Moinak Bhattacharyya, Anton Burtsev <br><small><i>2019 USENIX Annual Technical
+Moinak Bhattacharyya, Anton Burtsev <br><i>2019 USENIX Annual Technical
 Conference (USENIX ATC `19), Renton, Washington, 2019
 
 
@@ -52,7 +52,6 @@ ____________
 ## Presentations <a href="#top">⬆</a>  {#presentations}
 
 Conferences and Workshops
-
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
 Code](http://socalpls.github.io/archive/2016nov/) [[slides](/documents/pubs/socalpls16-graspan-presentation.pdf)] <br><i>17th
