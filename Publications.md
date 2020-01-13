@@ -117,6 +117,11 @@ Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
 Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><i> Department
 of Informatics, University of California, Irvine, 2015
 
+<small>[Analyzing StackOverflow Response Time for Java Topics using Code
+Clustering](/documents/pubs/tech-report14-sof-resp-time.pdf) <br> Rezvan
+Ghaderi, Shahrzad Ahmadpour, Aftab Hussain<br><i> Department of Informatics,
+University of California, Irvine, 2014
+
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/tech-report14-fitt.pdf)
 [[slides](/documents/pubs/presentation14-fitt.pdf)] [[architecture](/documents/pubs/presentation14-fitt-arch-design.pdf)]<br>Vaibhav
