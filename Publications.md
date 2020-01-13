@@ -69,11 +69,11 @@ at the Function level</font> <br><i>6th India Software Engineering Conference, N
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/presentation14-fitt.pdf)<br>(co-presented with Vaibhav
-Saini)<br><i> INF219 Software Envirnoments Class, Department of Informatics,
+Saini)<br><i> INF219 Software Environments Class (Spring 2019), Department of Informatics,
 University of California, Irvine, 2014
 
 <small>[Building and Extending IDEs](/documents/pubs/presentation14-ides.pdf)<br>(co-presented with Vaibhav
-Saini)<br><i> INF219 Software Envirnoments Class, Department of Informatics,
+Saini)<br><i> INF219 Software Environments Class (Spring 2019), Department of Informatics,
 University of California, Irvine, 2014
 
 ____________
