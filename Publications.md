@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-- [Conference Proceedings](#conference-papers) 
-- [Workshop Talks](#workshop-talks)
+- [Conference and Workshop Papers](#papers) 
+- [Presentations](#presentations)
 - [Posters](#posters)
 - [Master's Thesis](#masters-thesis)
 - [Technical Reports](#tech-reports)
@@ -12,8 +12,8 @@ title: Publications
 ____________
 
 
-## Conference Proceedings 
-<!-- <a href="#top">⬆</a> {#conference-papers}  -->
+## Conference and Workshop Papers 
+<!-- <a href="#top">⬆</a> {#papers}  -->
 
 <small>[LXDs: Towards Isolation of Kernel
 Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
@@ -39,6 +39,7 @@ Software Repositories (MSR '16), Austin, Texas, 2016
 <small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
 Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><i>International Mathematics Conference, Dhaka, Bangladesh, 2013
 
+<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 <small>[A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level](https://dl.acm.org/citation.cfm?id=2442761) [[paper](/documents/pubs/isec13-soft-clustering.pdf)] <br> Aftab
@@ -48,7 +49,9 @@ New Delhi, India, 2013
 
 ____________
 
-## Workshop Talks <a href="#top">⬆</a>  {#workshop-talks}
+## Presentations <a href="#top">⬆</a>  {#presentations}
+
+Conferences and Workshops
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -58,6 +61,13 @@ SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 <small><font color="3F5E8C">Open Problems in Graph Drawing</font> [[slides](/documents/pubs/gdga13-open-problems-presentation.pdf)]<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+
+<small><font color="3F5E8C">A New Hierarchical Clustering Technique for Restructuring Software
+at the Function level</font> <br><i>6th India Software Engineering Conference, New Delhi, India, 2013
+
+Various Venues
+
+
 
 ____________
 
