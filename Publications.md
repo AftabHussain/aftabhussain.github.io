@@ -104,6 +104,8 @@ ____________
 
 ## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
 
+<small><font color="3F5E8C"><b>Area - Security<b>
+
 <small><font color="#3F5E8C">Common Vulnerabilities and Exposures in the Cloud</font> <br>Aftab
 Hussain and Anton Burtsev <br><i>Department of Computer Science, University of
 California, Irvine, 2018 (under preparation) 
@@ -113,18 +115,23 @@ DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
 Narayanan, Anton Burtsev <br><i>Department of Computer Science, University of
 California, Irvine, 2018 
 
-<small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><i>University of California, Irvine, 2017 
+<small><font color="3F5E8C"><b>Area - Big Data Systems<b>
 
-<small><font color="#3F5E8C">A Study on Memory Consistency Approaches in Distributed Shared
-Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><i>Department of
-Computer Science, University of California, Irvine, 2016
+<small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><i>University of California, Irvine, 2017 
 
 <small>[GraphDTC: A Graph Processing System for Scalable and Precise
 Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf)<br>Aftab
 Hussain and Guoqing Xu <br><i>Department of Computer Science, University
 of California, Irvine, 2015
 
-<small><font color="3F5E8C"><b>Requirements Engineering<b></font>
+<small><font color="3F5E8C"><b>Area - Shared Memory Systems<b>
+
+<small><font color="#3F5E8C">A Study on Memory Consistency Approaches in Distributed Shared
+Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><i>Department of
+Computer Science, University of California, Irvine, 2016
+
+
+<small><font color="3F5E8C"><b>Area - Requirements Engineering<b>
 
 <small>[A Holistic Look at Requirements Engineering Practices in the
 Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf)<br>Aftab
@@ -136,21 +143,25 @@ Document](/documents/pubs/tech-report15-re-eurotruck.pdf)<br>Omar Asadi and
 Aftab Hussain <br><i> Department of Informatics, University of California,
 Irvine, 2015
 
+<small><font color="3F5E8C"><b>Area - Code Cloning<b>
+
 <small>[Instant Clone Finder: Detecting Clones During Software
 Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
 Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><i> Department
 of Informatics, University of California, Irvine, 2015
-
-<small>[Analyzing StackOverflow Response Time for Java Topics using Code
-Clustering](/documents/pubs/tech-report14-sof-resp-time.pdf) <br> Rezvan
-Ghaderi, Shahrzad Ahmadpour, Aftab Hussain<br><i> Department of Informatics,
-University of California, Irvine, 2014
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/tech-report14-fitt.pdf)
 [[slides](/documents/pubs/presentation14-fitt.pdf)] [[architecture](/documents/pubs/presentation14-fitt-arch-design.pdf)]<br>Vaibhav
 Saini, Aftab Hussain<br><i> Department of Informatics, University of
 California, Irvine, 2014
+
+<small><font color="3F5E8C"><b>Area - Software Mining<b>
+
+<small>[Analyzing StackOverflow Response Time for Java Topics using Code
+Clustering](/documents/pubs/tech-report14-sof-resp-time.pdf) <br> Rezvan
+Ghaderi, Shahrzad Ahmadpour, Aftab Hussain<br><i> Department of Informatics,
+University of California, Irvine, 2014
 
 <small>[Effect of Follow and Watch Relationships in Pull Requests (in
 Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
