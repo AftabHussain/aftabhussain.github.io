@@ -124,7 +124,7 @@ Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf)<br>Aftab
 Hussain and Guoqing Xu <br><i>Department of Computer Science, University
 of California, Irvine, 2015
 
-<span style="background-color: #3F5E8C"><small>REQUIREMENTS ENGINEERING</small></span>
+<span style="background-color: #3F5E8C"><small><font color="FFFFFF">REQUIREMENTS ENGINEERING</font></small></span>
 
 <small>[A Holistic Look at Requirements Engineering Practices in the
 Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf)<br>Aftab
