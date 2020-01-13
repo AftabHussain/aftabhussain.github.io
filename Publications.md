@@ -129,6 +129,11 @@ Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf)<br>Aftab
 Hussain, Omar Asadi, Debra Richardson <br><i> Department of Informatics,
 University of California, Irvine, 2015
 
+<small>[Euro Truck Simulator 2: Reverse Engineered Requirements
+Document](/documents/pubs/tech-report15-re-eurotruck.pdf)<br>Omar Asadi and
+Aftab Hussain <br><i> Department of Informatics, University of California,
+Irvine, 2015
+
 <small>[Instant Clone Finder: Detecting Clones During Software
 Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
 Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><i> Department
