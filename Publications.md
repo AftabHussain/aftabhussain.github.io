@@ -17,12 +17,6 @@ ____________
 
 <small><font color="3F5E8C"><b>Kernel Security<b>
 
-<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><i>Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
-
-<small>[A New Hierarchical Clustering Technique for Restructuring Software
-at the Function level](https://dl.acm.org/citation.cfm?id=2442761) [[paper](/documents/pubs/isec13-soft-clustering.pdf)] <br> Aftab
-Hussain and Md. Saidur Rahman <br><i>6th India Software Engineering Conference,
-New Delhi, India, 2013
 <small>[LXDs: Towards Isolation of Kernel
 Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
 Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
@@ -38,14 +32,12 @@ Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_
 22nd ACM International Conference on Architectural Support for Programming
 Languages and Operating Systems (ASPLOS '17), Xi'an, China, 2017
  
-
 <small><font color="3F5E8C"><b>Mining Software Repositories<b>
 
 <small>[From Query to Usable code: An Analysis of Stack Overflow code
 snippets](https://dl.acm.org/citation.cfm?id=2901767) [[paper](https://arxiv.org/pdf/1605.04464.pdf)] <br>Di Yang, Aftab
 Hussain, Cristina Videira Lopes <br><i>13th International Conference on Mining
 Software Repositories (MSR '16), Austin, Texas, 2016
-
 
 <small><font color="3F5E8C"><b>Software Clustering<b>
 
@@ -60,8 +52,6 @@ New Delhi, India, 2013
 
 <small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
 Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><i>International Mathematics Conference, Dhaka, Bangladesh, 2013
-
-
 
 ____________
 
@@ -122,7 +112,6 @@ ____________
 <small>[Software Restructuring using Hierarchical
 Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271) [[thesis](/documents/pubs/ms-thesis.pdf)]<br><i>Department of Computer Science, Bangladesh
 University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012
-   
                                                 
 ____________
 
