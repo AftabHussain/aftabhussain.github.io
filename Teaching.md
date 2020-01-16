@@ -9,8 +9,8 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <br><small>&ndash; [Shared files](#cs201p-winter20-files)</small>
 - [CS250P - Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
-<br><small>&ndash; [Shared files for Fall 2019](#cs250p-fall19-files)</small>
-<br><small>&ndash; [Shared files for Winter 2019](#cs250p-winter19-files)
+<br><small>[Shared files for Fall 2019](#cs250p-fall19-files)</small>
+<br><small>[Shared files for Winter 2019](#cs250p-winter19-files)
 - [CS238P - Operating Systems](#cs238p)  
 <small><font color="gray">Spring 2019, Fall 2018</font></small> 
 <br><small>&ndash; [Shared files for Spring 2019](#cs238p-spring19-files)</small>
@@ -46,8 +46,8 @@ ____________
 
 - Lab Discussion 01 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
-<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=653337&a=1957587991)</small>
-<br><small>&ndash; [Lab 1, SEED project links](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion01-seed-lab-setup.pdf)</small>
+<br><small>[Video](https://uci.yuja.com/V/Video?v=653337&a=1957587991)</small>
+<br><small>[Lab 1, SEED project links](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion01-seed-lab-setup.pdf)</small>
 
 ____________
 
