@@ -6,7 +6,8 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 
 - [CS201P - Computer Security](#cs201p)  
 <small><font color="gray">Winter 2020</font></small> 
-<br><small>&ndash; [Shared files](#cs201p-winter20-files)</small>
+<br><small>[Shared files](#cs201p-winter20-files)</small>
+
 - [CS250P - Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
 <br><small>[Shared files for Fall 2019](#cs250p-fall19-files)</small>
@@ -63,8 +64,9 @@ ____________
 
 - [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small><font color="gray">October 7, 2019</font></small> 
-<br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
-<br><small>&ndash; [Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
+<br><small>[Video](https://uci.yuja.com/V/Video?v=503521&a=102598196)</small>
+<br><small>[Lecture notes](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro-notes.pdf)</small>
+
 - [Discussion 2 - More MIPS (mem. organization, shifting, branching)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion02-more-mips.pdf) 
 <br><small><font color="gray">October 14, 2019</font></small> 
 <br><small>&ndash; [Video](https://uci.yuja.com/V/Video?v=509537&a=764174958)</small>
