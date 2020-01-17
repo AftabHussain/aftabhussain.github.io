@@ -167,30 +167,40 @@ ____________
 <a name="cs238p-fall18-files"></a>**CS238P Shared Files for Fall 2018 (lectures, code, etc.)**
 
 - [Discussion 01 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
+<br><small><font color="gray">October 5, 2018</font></small> 
 
-- [Discussion 02 - C basics, arrays, pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
-<br><small>[Video]( )</small>
+- [Discussion 02 - C basics, arrays, pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf)		
+<br><small><font color="gray">October 12, 2018</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)</small>
+<br><small>[Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code)</small>
 
-- [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
-<br><small>[Video]( )</small>
+- [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) 
+<br><small><font color="gray">October 19, 2018</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)</small>
+<br><small>[Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code)</small>
 
 - [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) 
+<br><small><font color="gray">October 26, 2018</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)</small>
 <br><small>[References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt)</small>
 
 - [Discussion 05 - xv6 booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) 
+<br><small><font color="gray">November 3, 2018</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1)</small>
 <br><small>[Lecture notes - Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)</small>
 
 - [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) 
+<br><small><font color="gray">November 9, 2018</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1)</small>
 
 - [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf)
+<br><small><font color="gray">November 30, 2018</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)</small>
 <br><small>[Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c)</small>
 <br><small>[Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
 
 - [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) 
+<br><small><font color="gray">December 7, 2018</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1)</small>
 
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
@@ -206,6 +216,7 @@ ____________
 <a name="cs142-winter18-files"></a>**CS142 Shared Files for Winter 2018**
 
 - [Lecture - LR(0) and LR(1) Parsing](../documents/teaching/uci/cs142/winter2018/handles-lr-bottom-up-parsing.pdf)
+<br><small><font color="gray">February 5, 2018</font></small> 
 
 - [Autograder - Crux Compiler Project](https://github.com/AftabHussain/CS142-Compilers-AutoGrader)
 
@@ -215,7 +226,7 @@ ____________
 ## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 - The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, and functional and imperative languages.
-- I worked as a TA for this course in **Summer 2018** with [Prof. Shannon
+- I worked as a TA for this course in **Summer 2018** with [Shannon
   Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro),
 and in **Fall 2017** with [Prof. Ray
 Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL
