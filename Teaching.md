@@ -18,7 +18,7 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <br><small>[Shared files for Spring 2019](#cs238p-spring19-files)</small>
 <br><small>[Shared files for Fall 2018](#cs238p-fall18-files)</small>
 
-- [CS142 Compilers and Interpreters](#cs142)  
+- [CS142 - Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
 <br><small>[Shared files for Winter 2018](#cs142-winter18-files)</small>
 
