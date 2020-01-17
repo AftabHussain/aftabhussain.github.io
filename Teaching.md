@@ -88,6 +88,7 @@ ____________
 - [Discussion 5 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
 <br><small><font color="gray">November 4, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
+
 - [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
 
 - Discussion 6 - HW2 Team Contest
@@ -108,23 +109,31 @@ ____________
 <a name="cs250p-winter19-files"></a>**CS250P Shared Files for Winter 2019 (lectures, midterm solutions, etc.)**
 
 - [Discussion 1 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
+<br><small><font color="gray">January 14, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=292047&node=1391687&a=619844670&autoplay=1)</small>
 <br><small>[Lecture notes - GM inconsistency](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-gm-inconsistency.jpg)</small>
 <br><small>[Lecture notes - IPC performance equation derivation](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01/discussion01-ipc-perf-equation.jpg)</small>
 
 - [Discussion 2 - Dynamic frequency scaling, Dynamic voltage and frequency scaling](../documents/teaching/uci/cs250p/winter2019/discussions/discussion02-dfs-dvfs.pdf) 
+<br><small><font color="gray">January 28, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=303606&node=1471805&a=1085203200&autoplay=1)</small>
 
 - [Discussion 3 - Pipelining](../documents/teaching/uci/cs250p/winter2019/discussions/discussion03-pipelining.pdf) 
+<br><small><font color="gray">February 4, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=308594&node=1505180&a=960561786&autoplay=1)</small>
 
 - Discussion 4 - Out of order execution (Design) 
+<br><small><font color="gray">February 25, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=320977&node=1570222&a=1012282312&autoplay=1)</small>
 
-- Discussion 5 - Out of order execution (Handling LD and STR instructions) ([Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1))
+- Discussion 5 - Out of order execution (Handling LD and STR instructions)
+<br><small><font color="gray">March 4, 2019</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=324182&node=1584208&a=209613252&autoplay=1)</small>
 <br><small>[Solution workout - Finding LD and STR activity times](../documents/teaching/uci/cs250p/winter2019/discussions/discussion05-ooo-ldstr-prob.pdf)</small>
 
-- Discussion 6 - Caches ([Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1))
+- Discussion 6 - Caches 
+<br><small><font color="gray">March 11, 2019</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=327114&node=1595895&a=831184556&autoplay=1)</small>
 
 - Midterm Solutions
 <br><small>[Midterm](../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf)</small>
