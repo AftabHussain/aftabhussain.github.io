@@ -82,8 +82,9 @@ ____________
 <br><small><font color="gray">October 21, 2019</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=516078&a=906737907)</small>
 
-- [Discussion 4 - HW1 Team Contest (Video only)](https://uci.yuja.com/V/Video?v=525472&a=2044534544)
+- Discussion 4 - HW1 Team Contest
 <br><small><font color="gray">October 28, 2019</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=525472&a=2044534544)</small>
 
 - [Discussion 5 - Team Quiz - Compiler-based ILP (with solutions)](../documents/teaching/uci/cs250p/fall2019/discussions/discussion05-teamquiz-compiler-based-ilp.pdf) 
 <br><small><font color="gray">November 4, 2019</font></small> 
@@ -150,14 +151,17 @@ ____________
 
 <a name="cs238p-spring19-files"></a>**CS238P Shared Files for Spring 2019 (lecture, midterm solutions, etc.)**
 
-- [Lecture - Review: Paging and Stack Mgt](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf) ([Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1))
+- [Lecture - Review: Paging and Stack Management](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf)
+<br><small><font color="gray">December 13, 2019</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=408342&node=1775009&a=714649601&autoplay=1)</small>
+
 - Winter 2018 Midterm Solutions
 <br><small>[Question 1a](../documents/teaching/uci/cs238p/spring2019/cs238p-winter18-midterm-sol-q1.pdf)</small>
-<br><small>[Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) (Ref: Vikram Narayanan's rubric for some questions)</small>
+<br><small>[Remaining Questions (Borrowed from Vikram's rubric for some questions) ](../documents/teaching/uci/cs238p/spring2019/midterm-winter18.pdf) </small>
 
 - Fall 2018 Midterm Solution
-<br><small>&ndash; [Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
-<br><small>&ndash; [Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
+<br><small>[Question 2](../documents/teaching/uci/cs238p/spring2019/cs238p-fall18-midterm-sol-q2.pdf)</small>
+<br><small>[Remaining Questions](../documents/teaching/uci/cs238p/spring2019/midterm-fall18.pdf)</small>
 
 
 <a name="cs238p-fall18-files"></a>**CS238P Shared Files for Fall 2018 (lectures, code, etc.)**
@@ -165,20 +169,30 @@ ____________
 - [Discussion 01 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 
 - [Discussion 02 - C basics, arrays, pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs.pdf) ([Video](https://uci.yuja.com/V/Video?v=240411&node=1072078&a=65016006&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion02-c-basics-ptrs-code))		
+<br><small>[Video]( )</small>
 
 - [Discussion 03 - C string manipulation, structures, function pointers](../documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps.pdf) ([Video](https://uci.yuja.com/V/Video?v=243526&node=1086536&a=2084311206&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion03-c-strings-structs-fps-code))
+<br><small>[Video]( )</small>
 
-- [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) ([Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)) ([References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt))
+- [Discussion 04 - C bitfields, xv6 setup, GDB](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb.pdf) 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=247835&node=1100321&a=1620216767&autoplay=1)</small>
+<br><small>[References](../documents/teaching/uci/cs238p/fall2018/discussions/discussion04-c-bitfields-xv6-setup-gdb/resources.txt)</small>
 
-- [Discussion 05 - xv6 booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) ([Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1]))
+- [Discussion 05 - xv6 booting: Transitioning from 16 to 32 bit mode](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-boot-16-to-32-bit-mode.pdf) 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=255600&node=1137599&a=1045716679&autoplay=1)</small>
 <br><small>[Lecture notes - Memory layout after booting xv6](../documents/teaching/uci/cs238p/fall2018/discussions/discussion05-xv6-memory-layout-after-boot.pdf)</small>
 
-- [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) ([Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1))
+- [Discussion 06 - ELF header, real mode segmentation, paging](../documents/teaching/uci/cs238p/fall2018/discussions/discussion06-elf-real-mode-seg-paging.pdf) 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=254197&node=1132959&a=791908170&autoplay=1)</small>
 
-- [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf) ([Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)) ([Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c))
+- [Discussion 07 - Threads, locks](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks.pdf)
+<br><small>[Video](https://uci.yuja.com/V/Video?v=262901&node=1253106&a=409160793&autoplay=1)</small>
+<br><small>[Code](https://github.com/AftabHussain/aftabhussain.github.io/blob/master/documents/teaching/uci/cs238p/fall2018/discussions/discussion07-threads-locks-code/snippets.c)</small>
 <br><small>[Lecture notes - Counting semaphores](../documents/teaching/uci/cs238p/fall2018/discussions/discussion07-counting-semaphores.pdf)</small>
 
-- [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) ([Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1))
+- [Discussion 08 - Final review, system call chain](../documents/teaching/uci/cs238p/fall2018/discussions/discussion08-final-review-syscall-chain.pdf) 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=267950&node=1278903&a=150909503&autoplay=1)</small>
+
 - [FAQs](https://github.com/AftabHussain/aftabhussain.github.io/tree/master/documents/teaching/uci/cs238p/fall2018/faqs)
 
 ____________
