@@ -59,6 +59,7 @@ ____________
 - [Lab Discussion 2 - Process, OS Interfaces, and getting hands-on with UNIX and C](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-disc-2-process-os-interfaces-unix-c.pdf)
 <br><small><font color="gray">January 17, 2020</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=659537&a=995290548)</small>
+
 ____________
 
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
