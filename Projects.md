@@ -54,8 +54,8 @@ existing checkers; these augmented checkers found **132 new NULL pointer bugs** 
 
 - Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China.  
 - Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17. 
-- Invited for presentation at [SoCal PLS `16](http://socalpls.github.io/archive/2016nov/).
-- Invited for poster presentation at [PLDI SRC `16](https://conf.researchr.org/track/pldi-2016/Student+Research+Competition+(SRC)).
+- Invited for presentation at [SoCal PLS '16](http://socalpls.github.io/archive/2016nov/).
+- Invited for poster presentation at [PLDI SRC '16](https://conf.researchr.org/track/pldi-2016/Student+Research+Competition+(SRC)).
 		
 
 _____________

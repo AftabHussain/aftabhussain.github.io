@@ -22,7 +22,7 @@ Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[pa
 Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
 Scott Bauer, Michael Quigley, Aftab Hussain, Abdullah Younis, Junjie Shen,
 Moinak Bhattacharyya, Anton Burtsev <br><i>2019 USENIX Annual Technical
-Conference (USENIX ATC `19), Renton, Washington, 2019
+Conference (USENIX ATC '19), Renton, Washington, 2019
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
@@ -99,7 +99,7 @@ ____________
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
 Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About) [[poster](/documents/pubs/asplos17-graspan-poster.pdf)]<br><i>Student Research Competition, 37th ACM SIGPLAN conference
-on Programming Language Design and Implementation (PLDI `16), Santa
+on Programming Language Design and Implementation (PLDI '16), Santa
 Barbara, California, 2016
        
 <small><font color="#3F5E8C">Graspan: A Single-machine Disk-based Graph System for
