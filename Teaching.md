@@ -51,11 +51,14 @@ ____________
 
 <a name="cs201p-winter20-files"></a>**CS201P Shared Files for Winter 2020**
 
-- Lab Discussion 01 - Setting up the SEED Lab Environment 
+- Lab Discussion 1 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=653337&a=1957587991)</small>
 <br><small>[Lab 1, SEED project links](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion01-seed-lab-setup.pdf)</small>
 
+- [Lab Discussion 2 - Process, OS Interfaces, and getting hands-on with UNIX and C](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-disc-2-process-os-interfaces-unix-c.pdf)
+<br><small><font color="gray">January 17, 2020</font></small> 
+<br><small>[Video](https://uci.yuja.com/V/Video?v=659537&a=995290548)</small>
 ____________
 
 ## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
