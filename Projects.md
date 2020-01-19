@@ -16,6 +16,8 @@ Vikram Narayanan<sup>1</sup>, Yongzhe Huang<sup>2</sup>, Aftab Hussain<sup>1</su
 <br> 2017 to 2019</font> 
 
 
+_____________
+
 ## <font color="3F5E8C"> <b>Big Data Systems<b>
 
 ## [Graspan](../project-graspan/index.html) {#graspan-menu}
@@ -24,6 +26,7 @@ Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
 Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen 
 <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation, ACM<br>2015 to 2017</font> 
 
+_____________
 
 ## <font color="3F5E8C"> <b>Mining Software Repositories<b>
 
@@ -31,6 +34,8 @@ Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen
 Di Yang, Aftab Hussain, Cristina Lopes 
 <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br>2013 to 2014</font> 
 
+
+_____________
 
 ## <font color="3F5E8C"> <b>Software Clustering<b>
 

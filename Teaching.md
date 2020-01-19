@@ -57,7 +57,7 @@ The **course teaches** the principles of practical computer security,
 ________________________________
 
 
-<a name="cs201p-winter20-files"></a><font color="3F5E8C"><b>CS201P Winter 2020 Shared material<b>
+<a name="cs201p-winter20-files"></a><font color="3F5E8C"><b>CS201P Shared material<b>
 
 Lab Discussion 1 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
