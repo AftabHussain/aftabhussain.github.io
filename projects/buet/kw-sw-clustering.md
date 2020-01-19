@@ -3,9 +3,11 @@ layout: page
 title: Software Restructuring using Hierarchical Clustering
 ---
 
-Aftab Hussain, Md. Saidur Rahman <small>
-<br> <font color="gray">Bangladesh University of Engineering and Technology 
-<br> Supported by CodeCrafters International
+Aftab Hussain, Md. Saidur Rahman 
+<small><br> <font color="gray"><a href="https://cse.buet.ac.bd/research/group/gd/">Graph Drawing and Information Visualization Lab</a> 
+<br> Department of Computer Science and Engineering 
+<br> Bangladesh University of Engineering and Technology 
+<br> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
 <br>2011 to 2013</font> 
 
 Ill-structured code is difficult to understand and thereby,
@@ -32,12 +34,13 @@ widely popular clustering algorithms, is 60% faster, and
 yields the same code quality improvements on Java functions
 extracted from real-life industrial programs.**
 
-- Accepted in [India Software Engineering Conference (ISEC) 2013](https://isoft.acm.org/isec2013/).
+- Accepted in [India Software Engineering Conference (ISEC) 2013](https://isoft.acm.org/isec2013/), New Delhi, India.
 - Invited for presentation in Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Bangladesh University of Engineering and Technology.  
 
 _________________________
 
-<b>Download:<br>[Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
+<b>Download:
+<br>[Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
 <br>[Thesis](/documents/pubs/ms-thesis.pdf)
 <br>[CohesionOptimizer tool](tools/CohesionOptimizer.jar)
 <br>[Tool manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
