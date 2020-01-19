@@ -1,56 +1,77 @@
 ---
 layout: page
-title: Research Projects
+title: Projects
 ---
 
-- [Glue code generation for Linux kernel security](#glue-gen) 
-- [IDL generation for Linux kernel security](#idl-gen) 
-- [Graspan](#graspan)
-- [Analysis of Stack Overflow code snippets](#sof)
-- [Software restructuring using hierarchical clustering](#sw-cluster)
+## <b>Security<b>
+
+## [Glue code generation for Linux kernel security](#glue-gen) {#glue-gen-menu}
+Vikram Narayanan, Aftab Hussain, Anton Burtsev <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br> 2017 to 2019</font> 
+<br>
+
+## [IDL generation for Linux kernel security](#idl-gen) {#idl-gen-menu}
+Vikram Narayanan, Yongzhe Huang, Aftab Hussain, Anton Burtsev, Gang Tang, Trent Jaeger <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br>2017 to 2019</font> 
+
+
+## <b>Big Data Systems<b>
+
+## [Graspan](#graspan) {#graspan-menu}
+
+Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
+Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation, ACM<br>2015 to 2017</font> 
+
+
+## <b>Mining Software Repositories<b>
+
+## [From Query to Usable Code in Stack Overflow](#sof) {#sof-menu}
+Di Yang, Aftab Hussain, Cristina Lopes <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br>2013 to 2014</font> 
+
+
+## <b>Software Clustering<b>
+
+## [Software restructuring using hierarchical clustering](../projects/uci/kw-sw-clustering/index.html) {#sw-cluster-menu}
+Aftab Hussain, Md. Saidur Rahman <small><br> <font color="gray">Bangladesh University of Engineering and Technology <br> Supported by CodeCrafters International<br>2011 to 2013</font> 
 
 _____________
 
-## Glue code generation for Linux kernel security <font color="gray">2018-2019</font> {#glue-gen}
+## <a name="glue-gen"></a>Glue code generation for Linux kernel security {#glue-gen}
 
 Generating glue code from IDL syntax for Linux kernel security using
 vembyr code parser generator.
 
-[⊕Source Code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl)
-&nbsp;&nbsp;[⊕IDL Compiler Documentation](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation)
-&nbsp;&nbsp;[⊕Paper](/documents/pubs/lxds-usenix19.pdf) 
-
+<small>[Source code](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl)
+<br>[IDL Compiler Documentation](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation)
+<br>[Paper](/documents/pubs/lxds-usenix19.pdf)</small>
 
 _____________
 
-## IDL generation for Linux kernel security  <font color="gray">2017-2019</font> {#idl-gen}
+## <a name="idl-gen"></a>IDL generation for Linux kernel security <a href="#idl-gen-menu">⬆</a> 
 														
 Analyzing Linux kernel using Data Structure Analysis (DSA) based on LLVM to automatically generate interface definition language code for isolating kernel modules for enhancing security.
 
-<!-- **⛁** Resources  -->
 [⊕Source Code](https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8) 
-
-
 
 _____________
 
-## Graspan: A scalable graph processing system for scalable big code analysis <font color="gray">2015-2017</font> {#graspan}
+## <a name="graspan"></a>Graspan <a href="#graspan-menu">⬆</a> 
 
 We built a disk-based parallel graph system, Graspan, that uses a novel
-edge-pair centric computation model to compute dynamic
-transitive closures on very large program graphs.
-We implement context-sensitive pointer/alias and dataflow analyses on Graspan. An evaluation of these analyses on
-large codebases such as Linux shows that their Graspan
-implementations scale to millions of lines of code and are
-much simpler than their original implementations. 
+edge-pair centric computation model to compute dynamic transitive closures on
+very large program graphs.  We implement context-sensitive pointer/alias and
+dataflow analyses on Graspan. An evaluation of these analyses on large
+codebases such as Linux shows that **their Graspan implementations scale to
+millions of lines of code** and are much simpler than their original
+implementations. 
 
-These analyses were used to augment the
-existing checkers; these augmented checkers found **132 new NULL pointer bugs** and **1308 unnecessary NULL tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd 2.2.18**.
+These analyses were used to augment the existing checkers; these augmented
+checkers found **132 new NULL pointer bugs** and **1308 unnecessary NULL
+tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd
+2.2.18**.
 
 [⊕Source Code](https://github.com/Graspan/graspan-java) 
-&nbsp;&nbsp;[⊕Paper](/documents/pubs/asplos17-graspan.pdf) 
-&nbsp;&nbsp;[⊕Poster](/documents/pubs/asplos17-graspan-poster.pdf) 
-&nbsp;&nbsp;[⊕Tutorial](/documents/pubs/asplos17-graspan-tutorial.pdf)
+<br>[⊕Paper](/documents/pubs/asplos17-graspan.pdf) 
+<br>[⊕Poster](/documents/pubs/asplos17-graspan-poster.pdf) 
+<br>[⊕Tutorial](/documents/pubs/asplos17-graspan-tutorial.pdf)
 
 - Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China.  
 - Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17. 
@@ -60,7 +81,7 @@ existing checkers; these augmented checkers found **132 new NULL pointer bugs** 
 
 _____________
 
-## From Query to Usable Code: An Analysis of Stack Overflow Code Snippets  <font color="gray">2013-2014</font> {#sof}
+## <a name="sof"></a>From Query to Usable Code in Stack Overflow<a href="#sof-menu">⬆</a> 
 
 Besides being useful for software developers, annotated Stack Overflow snippets 
 can potentially serve
@@ -79,40 +100,6 @@ to be the languages with the lowest usability rate.
 - Compiled 300,000+ StackOverflow Java snippets. Used heuristics to improve their parse rate from 6.22% to 19.24%.
 - Accepted in [MSR '16](http://2016.msrconf.org/#/home).  
 
-_____________
-
-## Software Restructuring using Hierarchical Clustering <font color="gray">2011-2013</font> {#sw-cluster}
-
-Ill-structured code is difficult to understand and thereby,
-costly to maintain and reuse. Software restructuring techniques
-based on hierarchical agglomerative clustering (HAC)
-algorithms have been widely used to restructure large modules
-with low cohesion into smaller modules with high cohesion,
-without changing the overall behaviour of the software.
-These techniques generate clustering trees, of modules,
-that are sliced at different cut-points to obtain desired
-restructurings. 
-
-Choosing appropriate cut-points has always
-been a difficult problem in clustering. Previous HAC techniques
-generate clustering trees that have large number of
-cut-points. Moreover, many of those cut-points return clusters
-of which only a few lead to a meaningful restructuring
-of the software. 
-
-In this work, we develop a new hierarchical
-clustering technique for restructuring software at the function
-level that **improves refactoring visualization by at least 30% over 3
-widely popular clustering algorithms, is 60% faster, and
-yields the same code quality improvements on Java functions
-extracted from real-life industrial programs.**
-
-[⊕Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
-&nbsp;&nbsp;[⊕Thesis](/documents/pubs/ms-thesis.pdf)&nbsp;&nbsp;[⊕CohesionOptimizer Tool](tools/CohesionOptimizer.jar)&nbsp;&nbsp;[⊕Tool Manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
-
-
-- Accepted in [ISEC '13](https://isoft.acm.org/isec2013/).
-- Invited for presentation in GDGA (Graph Drawing and Graph Algorithms) '13 .  
 
 
 
