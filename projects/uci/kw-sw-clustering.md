@@ -3,9 +3,10 @@ layout: page
 title: Software Restructuring using Hierarchical Clustering
 ---
 
-Aftab Hussain, Md. Saidur Rahman <small><br> <font color="gray">Bangladesh University of Engineering and Technology <br> Supported by CodeCrafters International<br>2011 to 2013</font> 
-
-
+Aftab Hussain, Md. Saidur Rahman <small>
+<br> <font color="gray">Bangladesh University of Engineering and Technology 
+<br> Supported by CodeCrafters International
+<br>2011 to 2013</font> 
 
 Ill-structured code is difficult to understand and thereby,
 costly to maintain and reuse. Software restructuring techniques
@@ -31,12 +32,15 @@ widely popular clustering algorithms, is 60% faster, and
 yields the same code quality improvements on Java functions
 extracted from real-life industrial programs.**
 
-[⊕Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
-&nbsp;&nbsp;[⊕Thesis](/documents/pubs/ms-thesis.pdf)&nbsp;&nbsp;[⊕CohesionOptimizer Tool](tools/CohesionOptimizer.jar)&nbsp;&nbsp;[⊕Tool Manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
+- Accepted in [India Software Engineering Conference (ISEC) 2013](https://isoft.acm.org/isec2013/).
+- Invited for presentation in Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Bangladesh University of Engineering and Technology.  
 
+_________________________
 
-- Accepted in [ISEC '13](https://isoft.acm.org/isec2013/).
-- Invited for presentation in GDGA (Graph Drawing and Graph Algorithms) '13 .  
+<b>Download:<br>[Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
+<br>[Thesis](/documents/pubs/ms-thesis.pdf)
+<br>[CohesionOptimizer tool](tools/CohesionOptimizer.jar)
+<br>[Tool manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
 
 
 
