@@ -41,7 +41,7 @@ I have worked as a Reader for the following course at UCI:
 
 ____________
 
-## <a name="cs201p"></a>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** the principles of practical computer security,
   providing an overview of threats on computer systems and techniques to counteract these threats. I am working as a TA for this course in **Winter 2020** with [Prof. Stanislaw Jarecki](https://www.ics.uci.edu/~stasio/).
@@ -70,7 +70,7 @@ Lab Discussion 1 - Setting up the SEED Lab Environment
 
 ____________
 
-## <a name="cs250p"></a>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. I worked as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 
@@ -163,7 +163,7 @@ Midterm Solutions
 
 
 ____________
-## <a name="cs238p"></a>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs238p"></a><b>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system. I worked as a TA for this course in **Spring 2019** and **Fall 2018** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 
@@ -232,7 +232,7 @@ ________________
 
 ____________
 
-## <a name="cs142"></a>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="cs142"></a><b>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** compiler design using the traditional compiler design approach, starting with the front-end and proceeding toward the back-end. Students learn the phases of the approach, hands-on, by incrementally building a compiler for the [crux language](http://cruxlang.org/). I worked as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 
@@ -251,7 +251,7 @@ ________________
 
 ____________
 
-## <a name="cs141"></a>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="cs141"></a><b>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, and functional and imperative languages. I worked as a TA for this course in **Summer 2018** with [Shannon
   Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro),
@@ -261,14 +261,14 @@ concepts and implement them in C, C++, and Java.
 
 ____________
 
-## <a name="ics53"></a>Principles of System Design <font color="gray"><small>ICS53 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="ics53"></a><b>Principles of System Design <font color="gray"><small>ICS53 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** UNIX programming, scripting, and socket programming. I worked as a TA for this course in **Spring 2018** with [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
 
 
 ____________
 
-## <a name="ics31"></a>Introduction to Programming <font color="gray"><small>ICS31 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="ics31"></a><b>Introduction to Programming <font color="gray"><small>ICS31 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** systematic problem solving and how to implement the solutions using basic data structures in Python. I worked as a TA for this course in **Winter 2014** with [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
 
@@ -276,7 +276,7 @@ The **course teaches** systematic problem solving and how to implement the solut
 
 ____________
 
-## <a name="inf113"></a>Requirements Analysis and Engineering <font color="gray"><small>INF113 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="inf113"></a><b>Requirements Analysis and Engineering <font color="gray"><small>INF113 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** how to leverage requirements analysis techniques and requirements engineering towards developing software-intensive systems. I worked as a TA for this course in **Winter 2014** with [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
 
@@ -284,7 +284,7 @@ The **course teaches** how to leverage requirements analysis techniques and requ
 
 ____________
 
-## <a name="inf43"></a>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="inf43"></a><b>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
 
 The **course teaches** concepts (e.g. life cycle models), methods, and current practices in software engineering (e.g. agile development) used in the industry.I worked as a Reader for this course during **Fall 2013** with [Prof. Hadar Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My role was to evaluate student assignments on software engineering practices. <br>
 
