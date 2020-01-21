@@ -32,7 +32,7 @@ _____________
 
 ## [From Query to Usable Code in Stack Overflow](../project-query-sof/index.html) {#query-sof-menu}
 Di Yang, Aftab Hussain, Cristina Lopes 
-<small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br>2013 to 2014</font> 
+<small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br>2013 to 2015</font> 
 
 
 _____________

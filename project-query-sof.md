@@ -8,7 +8,7 @@ Di Yang, Aftab Hussain, Cristina Lopes
 <br> Bren School of Information and Computer Sciences
 <br> University of California, Irvine 
 <br> Supported by <a href = "https://www.nsf.gov/">National Science Foundation</a>
-<br>2013 to 2014</font> 
+<br>2013 to 2015</font> 
 <br><b><a href="../Projects/index.html#query-sof-menu">Return to Projects</a></b>
 
 Besides being useful for software developers, annotated Stack Overflow snippets 

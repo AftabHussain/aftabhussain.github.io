@@ -4,7 +4,7 @@ title: Glue code generation for Linux Kernel Security
 ---
 
 Vikram Narayanan, Aftab Hussain, Anton Burtsev <small>
-<br> <font color="gray">Mars Systems Lab
+<br> <font color="gray">Mars Systems
 <br> Department of Computer Science
 <br> University of California, Irvine 
 <br> Supported by National Science Foundation

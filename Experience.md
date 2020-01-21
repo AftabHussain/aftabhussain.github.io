@@ -43,7 +43,7 @@ _____________
 Computer Sciences<br>University of California, Irvine 
 <br> <font color="gray">2013 to present
 <br> <small>Labs: 
-<br>Mars Systems Lab 
+<br>Mars Systems 
 <br>Programming Languages and Systems Group 
 <br>Mondego Lab
 <br>Software Design and Collaboration Lab</small>
