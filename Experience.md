@@ -24,7 +24,7 @@ _____________
 
 **M.S. in Computer Science and Engineering** 
 <br>Department of Computer Science and Engineering
-<br>Bangladesh Univeristy of Engineering and Technology
+<br>Bangladesh University of Engineering and Technology
 <br> <font color="gray">2010 to 2012
 
 **B.Tech. in Computer Science and Engineering** 
