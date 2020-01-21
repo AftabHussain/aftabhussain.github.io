@@ -5,7 +5,7 @@ title: Graspan - A Big Data System for analyzing Large-scale Systems Code
 
 Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
 Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen 
-<small><br> <font color="gray">Programming Languages and Systems Group
+<small><br> <font color="gray"><a href="http://analysys.ics.uci.edu/index.html">Programming Languages and Systems Group</a>
 <br> Department of Computer Science 
 <br> University of California, Irvine 
 <br> Supported by National Science Foundation, ACM
