@@ -4,39 +4,39 @@ title: Teaching
 ---
 I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 
-[CS201P Computer Security](#cs201p)  
+- [CS201P Computer Security](#cs201p)  
 <small><font color="gray">Winter 2020</font></small> 
 <br><small>[Shared material](#cs201p-winter20-files)</small>
 
-[CS250P Computer Systems Architecture](#cs250p)  
+- [CS250P Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
 <br><small>[Shared material (Fall 2019)](#cs250p-fall19-files)</small>
 <br><small>[Shared material (Winter 2019)](#cs250p-winter19-files)
 
-[CS238P Operating Systems](#cs238p)  
+- [CS238P Operating Systems](#cs238p)  
 <small><font color="gray">Spring 2019, Fall 2018</font></small> 
 <br><small>[Shared material (Spring 2019)](#cs238p-spring19-files)</small>
 <br><small>[Shared material (Fall 2018)](#cs238p-fall18-files)</small>
 
-[CS142 Compilers and Interpreters](#cs142)  
+- [CS142 Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
 <br><small>[Shared material (Winter 2018)](#cs142-winter18-files)</small>
 
-[CS141 Concepts in Programming Languages](#cs141)  
+- [CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
 
-[ICS53 Principles of System Design](#ics53)  
+- [ICS53 Principles of System Design](#ics53)  
 <small><font color="gray">Spring 2018</font></small> 
 
-[ICS31 Introduction to Programming](#ics31)  
+- [ICS31 Introduction to Programming](#ics31)  
 <small><font color="gray">Winter 2014</font></small> 
 
-[INF113 Requirements Analysis and Engineering](#inf113)  
+- [INF113 Requirements Analysis and Engineering](#inf113)  
 <small><font color="gray">Winter 2014</font></small> 
 
 I have worked as a Reader for the following course at UCI:
 
-[INF43 Introduction to Software Engineering](#inf43)  
+- [INF43 Introduction to Software Engineering](#inf43)  
 <small><font color="gray">Fall 2013</font></small> 
 
 ____________
