@@ -18,7 +18,7 @@ _____________
 <br> <font color="gray">2015 to present
 
 **M.S. in Software Engineering** 
-<br>Department of Computer Science
+<br>Department of Informatics
 <br>University of California, Irvine 
 <br> <font color="gray">2013 to 2015
 
