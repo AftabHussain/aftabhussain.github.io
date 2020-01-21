@@ -286,6 +286,12 @@ ____________
 
 ## <a name="inf43"></a><b>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
 
-The **course teaches** concepts (e.g. life cycle models), methods, and current practices in software engineering (e.g. agile development) used in the industry.I worked as a Reader for this course during **Fall 2013** with [Prof. Hadar Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My role was to evaluate student assignments on software engineering practices. <br>
+The **course teaches** concepts (e.g. life cycle models), methods, and current
+practices in software engineering (e.g. agile development) used in the
+industry. I worked as a Reader for this course during **Fall 2013** with [Prof.
+Hadar
+Ziv](https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv/). My
+role was to evaluate student assignments on software engineering practices.
+<br>
 
 ____________
