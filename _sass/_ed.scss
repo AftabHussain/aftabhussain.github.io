@@ -14,7 +14,9 @@
 
 
 /* To apply a different color scheme to the whole scroll down to the themes section for instructions */
-
+@import url(//fonts.googleapis.com/css?family=Playfair+Display);
+@import url(//fonts.googleapis.com/css?family=Lora);
+@import url(//fonts.googleapis.com/css?family=Alata);
 
  /*
  * General
@@ -112,7 +114,8 @@ a:focus {
 /* Headings */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $heading-font;
+  //font-family: $heading-font;
+  font-family: "Alata";
   margin-bottom: .5rem;
   font-weight: 300;
   color: $heading-color;
@@ -282,9 +285,17 @@ tbody tr:nth-child(odd) th {
 }
 
 h3.masthead-title {
-	font-family: $main-font;
+	//font-family: $main-font;
+	//font-family: "Playfair Display";
+	//font-family: "Lora";
+	font-family: "Alata";
 	font-size: 1.8rem;
 	margin-top: 2px;
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 26.4px;
+
 }
 
 
