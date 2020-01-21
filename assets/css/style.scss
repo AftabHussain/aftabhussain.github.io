@@ -12,11 +12,20 @@ sitemap: false
 /* FONTS */
 
 @import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css?family=Crimson+Text);
+@import url(//fonts.googleapis.com/css?family=Dosis);
+@import url(//fonts.googleapis.com/css?family=Montserrat);
+@import url(//fonts.googleapis.com/css?family=Roboto);
 //$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 //$main-font: "Arial", "Helvetica", "Sans-serif";
 //$main-font: "PT Sans", Helvetica, Arial, sans-serif;
-$main-font: 'Open Sans', sans-serif;
-$heading-font: sans-serif;
+//$main-font: "Open Sans", sans-serif;
+$main-font: "Roboto", sans-serif;
+//$main-font: "Crimson Text", sans-serif;
+//$main-font: "Dosis", sans-serif;
+//$main-font: "Montserrat", sans-serif;
+$heading-font: "Roboto", sans-serif;
+//$heading-font: sans-serif;
 $regular-font-size: 18px;
 
 /* 
