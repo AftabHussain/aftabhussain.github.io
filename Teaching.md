@@ -21,6 +21,7 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 - [CS142 Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
 <br><small>[Shared material (Winter 2018)](#cs142-winter18-files)</small>
+<br><small>[Shared material (Fall 2017)](#cs142-fall17-files)</small>
 
 - [CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
@@ -114,6 +115,7 @@ Discussion 4 - HW1 Team Contest
 <br><small>[Video](https://uci.yuja.com/V/Video?v=531822&a=902935491)</small>
 
 [Solution to HW1 Problem 3](../documents/teaching/uci/cs250p/fall2019/solutions/cs250p-fall19-hw1-problem-3.pdf)
+<br><small><font color="gray">November 7, 2019</font></small> 
 
 Discussion 6 - HW2 Team Contest
 <br><small><font color="gray">November 18, 2019</font></small> 
@@ -253,7 +255,16 @@ ________________
 <br><small><font color="gray">February 5, 2018</font></small> 
 
 [Autograder - Crux Compiler Project](https://github.com/AftabHussain/CS142-Compilers-AutoGrader)
+<br><small><font color="gray">First released on January 12, 2018</font></small> 
 
+
+________________
+
+
+<a name="cs142-fall17-files"></a><font color="3F5E8C"><b>CS142 Shared material (Fall 2017)
+
+[Lecture - Global Optimization (Borrowed from Prof. Harry)](../documents/teaching/uci/cs142/fall2017/global-optimization-lecture.pdf)
+<br><small><font color="gray">March 10, 2017</font></small> 
 
 ____________
 
