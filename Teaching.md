@@ -24,6 +24,7 @@ I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 
 - [CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
+<br><small>[Shared material (Fall 2017)](#cs141-fall17-files)</small>
 
 - [ICS53 Principles of System Design](#ics53)  
 <small><font color="gray">Spring 2018</font></small> 
@@ -263,6 +264,14 @@ The **course teaches** the fundamentals of programming languages (PL) such as th
 and in **Fall 2017** with [Prof. Ray
 Klefstad](https://www.ics.uci.edu/~klefstad/). I helped students understand PL
 concepts and implement them in C, C++, and Java. 
+
+________________
+
+
+<a name="cs141-fall17-files"></a><font color="3F5E8C"><b>CS141 Shared material (Fall 2017)
+
+[Memory Layout of Struct and Union in C](../documents/teaching/uci/cs141/fall2017/structure-union-layout.pdf)
+<br><small><font color="gray">November 6, 2017</font></small> 
 
 ____________
 
