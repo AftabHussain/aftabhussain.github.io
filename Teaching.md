@@ -68,6 +68,11 @@ Lab Discussion 1 - Setting up the SEED Lab Environment
 <br><small><font color="gray">January 17, 2020</font></small> 
 <br><small>[Video](https://uci.yuja.com/V/Video?v=659537&a=995290548)</small>
 
+Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment variables and setuid programs)
+<br><small><font color="gray">January 24, 2020</font></small> 
+<br><small>[More details on fork and exec (CS238P OS Interfaces, Anton Burtsev)](https://www.ics.uci.edu/~aburtsev/238P/lectures/lecture02-os-interface/lecture02-os-interface.pdf)
+[(Video)](https://uci.yuja.com/V/Video?v=338525&node=1639440&a=1029648338&autoplay=1i)</small>
+
 ____________
 
 ## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
