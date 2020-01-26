@@ -61,7 +61,8 @@ set). 777 gives maximum access to all users of a file.
 
 `x` - You can enter it, i.e., you can change directory into it, and access any of its files.
 
-<small>Reference: [File and Directory Permissions in UFS and NFS, MIT](http://web.mit.edu/sipb/doc/working/afs/html/subsection3.1.html)</small>
+<small>Reference: 
+<br> [File and Directory Permissions in UFS and NFS, MIT](http://web.mit.edu/sipb/doc/working/afs/html/subsection3.1.html)</small>
 
 <hr>
 
