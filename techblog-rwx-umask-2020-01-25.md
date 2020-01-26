@@ -3,7 +3,7 @@ layout: page
 title: Playing with permissions using umask & chmod
 ---
 
-<small><font color="gray">January 25, 2020</font><br><b><a href="../Tech-Blog/index.html#unix">Return to Blogs</a></b></small>
+<small><font color="gray">January 25, 2020</font><br><b><a href="../Tech-blog/index.html#unix">Return to Blogs</a></b></small>
 <br>
 
 
