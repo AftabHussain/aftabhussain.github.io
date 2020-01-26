@@ -11,6 +11,6 @@ ____________
 ## Unix 
 <!-- <a href="#top">⬆</a> {#unix}  -->
 
-[Playing with permissions using umask & chmod](../techblog-rwx-umask-2020-01-25/index.html)
+[Playing with permissions using umask & chmod](../techblogs/2020-01-25-rwx-umask/index.html)
 <br><small><font color="gray">January 25, 2020</font></small>
 
