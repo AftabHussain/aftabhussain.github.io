@@ -81,11 +81,16 @@ ____________
 
 The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. I worked as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 
-[**Course page (Fall 2019)**](https://www.ics.uci.edu/~aburtsev/250P/index.html)
+[**Course page (Fall 2019)**](https://www.ics.uci.edu/~aburtsev/250P/index.html)<br>
+[**Course page (Winter 2019)**](https://www.ics.uci.edu/~aburtsev/250P/2019winter/index.html)
 
-**Discussion class time and place**: <br> Mondays, 8pm to 8.50pm, Physical Sciences Classroom Building (PCSB) 140
+**Discussion class time and place (Fall 2019):** <br> Mondays, 8pm to 8.50pm, Physical Sciences Classroom Building (PCSB) 140
 
-**My office hours and room:**<br> Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
+**My office hours and room (Fall 2019):**<br> Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
+
+**Discussion class time and place (Winter 2019):** <br> Mondays, 8pm to 8.50pm, Steinhaus Hall (SH) 128
+
+**My office hours and room (Winter 2019):**<br> Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
 
 ________________
 
@@ -177,6 +182,15 @@ The **course teaches** the fundamentals of operating systems, by diving into MIT
 
 [**Course page (Spring 2019)**](https://www.ics.uci.edu/~aburtsev/238P/index.html)
 
+**My office hours and room (Spring 2019):** 
+<br>Tuesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3059A 
+
+**Discussion class time and place (Fall 2018)**: 
+<br> Fridays, 4pm to 4.50pm, Physical Sciences Classroom Building (PCSB) 120
+
+**My office hours and room (Fall 2018):** 
+<br>Wednesdays, 2pm to 3pm, Donald Bren Hall (DBH) 3241 
+
 ________________
 
 
@@ -245,6 +259,12 @@ ____________
 The **course teaches** compiler design using the traditional compiler design approach, starting with the front-end and proceeding toward the back-end. Students learn the phases of the approach, hands-on, by incrementally building a compiler for the [crux language](http://cruxlang.org/). I worked as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 
 [**Course page (Winter 2018)**](http://web.cs.ucla.edu/~harryxu/courses/142/CourseReference.html)
+
+**Lab session time and place (Winter 2018):** 
+<br>Fridays, 9am to 11.50am, Information and Computer Sciences Building (ICS) 189
+
+**My office hours and room (Winter 2018):** 
+<br>Wednesdays, 11am to 12pm, Donald Bren Hall (DBH) 3241 
 
 ________________
 
