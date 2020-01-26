@@ -4,7 +4,6 @@ title: Playing with permissions using umask & chmod
 ---
 
 <small><font color="gray">January 25, 2020</font><br><b><a href="../Tech-blog/index.html#unix">Return to Blogs</a></b></small>
-<br>
 
 <hr>
 
@@ -108,7 +107,7 @@ You can change the mask as follows:
 <small>Reference: 
 <br>[Practical Unix & Security](http://web.deu.edu.tr/doc/oreily/networking/puis/ch05_03.htm)</small>
     
-### Example
+## Example
 
 Using the default settings, say we created a file `testfile.txt`. Here are the permission info:
 
