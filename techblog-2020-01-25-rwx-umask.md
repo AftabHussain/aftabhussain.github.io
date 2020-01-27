@@ -90,7 +90,7 @@ of the file is obtained as follows:
 Alternately, 
 
     R = P - M 
-    (Using their decimal representations)
+    (Using their octal representations)
 
 Pre-defined initial permissions for files and directories are 666 and 777
 respectively.  Default umask permissions for root user and the rest of the
