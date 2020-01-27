@@ -3,13 +3,13 @@ layout: page
 title: Tech Blog
 ---
 
-- [Unix](#unix) 
+- [Unix System Administration](#unix-sys-admin) 
 
 ____________
 
 
-## Unix 
-<!-- <a href="#top">⬆</a> {#unix}  -->
+## Unix System Administration
+<!-- <a href="#top">⬆</a> {#unix-sys-admin}  -->
 
 [Playing with permissions using umask & chmod](../techblog-2020-01-25-rwx-umask/index.html)
 <br><small><font color="gray">January 25, 2020</font></small>

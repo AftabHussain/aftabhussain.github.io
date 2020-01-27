@@ -3,8 +3,8 @@ layout: page
 title: Playing with permissions using umask & chmod
 ---
 
-<small><font color="gray">January 25, 2020</font><br><b><a href="../Tech-blog/index.html#unix">Return to Blogs</a></b></small>
-
+<small>Aftab Hussain <br><font color="gray">January 25, 2020</font>
+<br><b><a href="../Tech-blog/index.html#unix-sys-admin"><small><i class="fa fa-tag" style="font-size:15px"></i>&nbsp;&nbsp;UNIX SYSTEM ADMINISTRATION</small></a></b></small>
 <hr>
 
 ## **r, w, x**
