@@ -119,4 +119,19 @@ using is 666, and the M value is 002.  Subtracting, we get 664. This is
 representation). Translating this binary sequence into the rwx-character
 sequence gives us, `rw-rw-r--`.
 
+<hr>
+
+## **The Access Control List**
+<br>
+For more subtle management of permissions, we have something known as the access control list in Unix. 
+
+> Access control list (ACL) provides an additional, more flexible permission mechanism for file systems. 
+It is designed to assist with UNIX file permissions. ACL allows you to give 
+permissions for any user or group to any disk resource. - [Access Control Lists, wiki.archlinux.org](https://wiki.archlinux.org/index.php/Access_Control_Lists)
+
+`getfacl` (get full acl) and `setfacl` are the commands that would come handy. Check out the above link for details.
+
+
+
+
 
