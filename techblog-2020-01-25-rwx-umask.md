@@ -64,6 +64,8 @@ set). 777 gives maximum access to all users of a file.
 <small>Reference: 
 <br> [File and Directory Permissions in UFS and NFS, MIT](http://web.mit.edu/sipb/doc/working/afs/html/subsection3.1.html)</small>
 
+To know how to see octal permissions of a file, check out [How to get octal file permissions on Linux/Unix command line, nixCraft.](https://www.cyberciti.biz/faq/get-octal-file-permissions-from-command-line-on-linuxunix/)
+
 <hr>
 
 ## **umask**
