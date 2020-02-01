@@ -9,7 +9,6 @@ title: The Unix way of storing passwords
 
 ## **The etc/passwd file**
 <br>
-
 This file stores the information for each user of a Unix operating system. Each user has a record dedicated to it. Here's an example.
 
     mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
@@ -47,7 +46,6 @@ The 7th attribute is the full path of the default shell for the user.
 
 ## **The /etc/group file**
 <br>
-
 This is the file where we store information about the users in different groups
 in the operating system. A record structure similar to the passwd file is used.
 To learn about the attributes in this file and different cool ways about

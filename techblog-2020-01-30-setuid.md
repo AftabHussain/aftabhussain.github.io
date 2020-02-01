@@ -9,7 +9,6 @@ title: The SetUID Motivation
 
 ## **SetUID programs in brief**
 <br>
-    
 SetUID programs allow any user to run a program with the privileges of the owner of a program. 
 You can create any program as a setUID program. 
 
@@ -28,7 +27,6 @@ Now let's dive into this setUID business and see what's it all about, for real.
 
 ## **What do SetUID programs look like, and how to create one?**
 <br>
-
 Any program can be a setUID program. Unix provides what is known as a setUID bit for 
 any program. 
 
@@ -62,7 +60,6 @@ Just use `chmod 4XYZ` (where XYZ are 3 octal digits). There are other ways, but 
 
 ## **So how do setUID programs work?**
 <br>
-
 The key behind understanding the setUID mechanism is understanding who's in
 charge of the setUID program, while the program is running.
 
@@ -129,7 +126,6 @@ and the setuid program are the same. (For example a process owned by root callin
 
 ## **Why have setuid?**
 <br>
-
 It allows users to carry out necessary functionalities without giving them total control over how to do it. 
 `su` is one example. `/usr/bin/passwd` is another.
 
