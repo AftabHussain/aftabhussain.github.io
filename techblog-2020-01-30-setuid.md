@@ -90,7 +90,7 @@ and the saved user ID (saved uid, or suid).*
 Here's how the relevant line in the status file looks like, showing the above 3 values (we are mainly
 concerned here with the first two):
 
-> Uid:    1000    1000    1000    1000
+	Uid:    1000    1000    1000    1000
 
 The fourth number is the file system id, which is discussed [here](https://unix.stackexchange.com/a/45863).
 
@@ -110,7 +110,7 @@ You can use `pstree -hp`, store it in a file if it is too big, and search there.
 Then show the status of the process using it's process id, using the method shown earlier.
 You'll see:
 
-> Uid:    1000    0    0    0
+	Uid:    1000    0    0    0
 
 The effective userid of the process running `su` is 0 (the id of the 
 owner of the program; that owner is root).
@@ -118,7 +118,7 @@ owner of the program; that owner is root).
 Now what about the userid of the process that called `su`. That process is the one running bash. We can
 similarly find Uid information for this process as shown below:
 
-> Uid:    1000    1000    1000    1000
+	Uid:    1000    1000    1000    1000
 
 This little experiment tells us a lot about how setuid programs work. A setuid program in execution
 uses the permissions of the owner of the program to do its job. It does not use the permissions of the
