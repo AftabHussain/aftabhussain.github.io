@@ -75,6 +75,28 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 <br><small>[More details on fork and exec (CS238P OS Interfaces, Anton Burtsev)](https://www.ics.uci.edu/~aburtsev/238P/lectures/lecture02-os-interface/lecture02-os-interface.pdf)
 [(Video)](https://uci.yuja.com/V/Video?v=338525&node=1639440&a=1029648338&autoplay=1i)</small>
 
+Lab Discussion 4 - Recap: SetUID, Environment Variables
+<br>(Session Cancelled -- Recorded videos and material posted below)
+<br><small><font color="gray">January 31, 2020 to February 2, 2020</font></small> 
+<br><small><a target="blank" href="../techblog-2020-01-30-setuid/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../techblog-2020-01-30-setuid/index.html">Post - The SetUID Motivation</a> (Ref. videos 1, 2, 4, 5)</small>
+<br><small><a target="blank" href="../techblog-2020-01-31-setuid-bad/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../techblog-2020-01-31-setuid-bad/index.html">Post - SetUID is Bad</a> (Ref. Video 6)</small>
+<br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/unix-file-permission-representations.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/unix-file-permission-representations.pdf">Slides - Unix file permission representations</a> (Ref. Video 3)</small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677129&node=2956248&a=653970490&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677129&node=2956248&a=653970490&autoplay=1">1 - The basic idea of setUID</a> <font color="gray">(02:28)</font> </small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677133&node=2956252&a=1787565339&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677133&node=2956252&a=1787565339&autoplay=1">2 - What setUID programs look like</a> <font color="gray">(11:08)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677130&node=2956249&a=89673266&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677130&node=2956249&a=89673266&autoplay=1">3 - Unix file permission representations</a> <font color="gray">(08:21)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677131&node=2956250&a=1032154675&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677131&node=2956250&a=1032154675&autoplay=1">4 - Visualizing the setUID mechanism</a> <font color="gray">(15:32)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677132&node=2956251&a=1796303847&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677132&node=2956251&a=1796303847&autoplay=1">5 - The purpose of setUID programs</a> <font color="gray">(03:30)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677649&node=2958479&a=1407962969&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677649&node=2958479&a=1407962969&autoplay=1">6 - Shell setUID vulnerability demo</a> <font color="gray">(18:08)</font></small>
+
 ____________
 
 ## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
