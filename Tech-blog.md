@@ -11,6 +11,8 @@ ____________
 ## Unix System Administration
 <!-- <a href="#top">⬆</a> {#unix-sys-admin}  -->
 <br>
+[SetUID is Bad](../techblog-2020-01-31-setuid-bad/index.html)
+<br><small><font color="gray">January 31, 2020</font></small>
 
 [The SetUID Motivation](../techblog-2020-01-30-setuid/index.html)
 <br><small><font color="gray">January 30, 2020</font></small>
