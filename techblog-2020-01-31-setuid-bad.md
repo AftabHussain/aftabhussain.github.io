@@ -35,5 +35,7 @@ I'm guessing due to the dangerous potential of the setuid bit, recent Unix distr
 with setuid functionality. As for binaries, they are still executable with setuid functionality. Check out this detailed [post](https://unix.stackexchange.com/a/2910) on this from 
 Unix StackExchange.
 
+<hr>
 
-
+<b>Reference:</b>
+<br><small>1. Computer Security Course by Prof. Wenliang (Kevin) Du, Syracuse University, New York</small>

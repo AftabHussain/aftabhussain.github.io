@@ -135,7 +135,10 @@ wouldn't this be a breach of security? If we don't, how do we change the passwor
 calls this the "password dilemma". The trick is to use a program trusted by the root to do the change. The user
 is only able to invoke this program, not how it carries out the job.
 
+<hr>
 
+<b>Reference:</b>
+<br><small>1. Computer Security Course by Prof. Wenliang (Kevin) Du, Syracuse University, New York</small>
 
 
 
