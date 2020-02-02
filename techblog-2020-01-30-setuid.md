@@ -47,7 +47,7 @@ just to check out their octal representation, as follows:
     $1777
 
 For a setUID program the first octal digit would have a value of at least 4. 
-To know why, take a look [here]().
+To know why, take a look [here](../documents/teaching/uci/cs201p/winter2020/lab-discussions/unix-file-permission-representations.pdf).
 
 <small> 1. I admit this word is already getting a bit repetitive, but
 I can't think of a cuter synonym as of now, so I would need to stick to it. Sorry.</small>
