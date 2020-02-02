@@ -90,6 +90,10 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
  <a target="blank" href="https://uci.yuja.com/V/Video?v=677132&node=2956251&a=1796303847&autoplay=1">5 - The purpose of setUID programs</a> <font color="gray">(03:30)</font></small>
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677649&node=2958479&a=1407962969&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
  <a target="blank" href="https://uci.yuja.com/V/Video?v=677649&node=2958479&a=1407962969&autoplay=1">6 - Shell setUID vulnerability demo</a> <font color="gray">(18:08)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677702&node=2958792&a=846948954&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677702&node=2958792&a=846948954&autoplay=1">7 - Environment variable sharing across processes</a> <font color="gray">(05:13)</font></small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=677712&node=2958835&a=1406099710&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=677712&node=2958835&a=1406099710&autoplay=1">8 - More subtleties in variable sharing, safeguarding against dynamic loading attacks</a> <font color="gray">(18:14)</font></small>
 <br><small><a target="blank" href="../techblog-2020-01-30-setuid/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
  <a target="blank" href="../techblog-2020-01-30-setuid/index.html">Post - The SetUID Motivation</a> (Refer to videos 1, 2, 4, 5)</small>
 <br><small><a target="blank" href="../techblog-2020-01-31-setuid-bad/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
