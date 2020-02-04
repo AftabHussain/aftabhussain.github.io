@@ -3,10 +3,10 @@ layout: page
 title: Experience
 ---
 
-- [Education](#edu)
-- [Research](#rsrch) 
-- [Teaching](#teach)
-- [Industry](#industry)
+[Education](#edu)
+<br>[Research](#rsrch) 
+<br>[Teaching](#teach)
+<br>[Industry](#industry)
 
 _____________
 

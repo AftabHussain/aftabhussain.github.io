@@ -3,12 +3,12 @@ layout: page
 title: Publications
 ---
 
-- [Conference and Workshop Papers](#papers) 
-- [Presentations](#presentations)
-- [Posters](#posters)
-- [Master's Thesis](#masters-thesis)
-- [Technical Reports](#tech-reports)
-- [Technical Articles](#tech-articles)
+[Conference and Workshop Papers](#papers) 
+<br>[Presentations](#presentations)
+<br>[Posters](#posters)
+<br>[Master's Thesis](#masters-thesis)
+<br>[Technical Reports](#tech-reports)
+<br>[Technical Articles](#tech-articles)
 
 ____________
 
