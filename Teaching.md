@@ -92,6 +92,10 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 <br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/unix-file-permission-representations.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/unix-file-permission-representations.pdf">Slides - Unix file permission representations</a> (Refer to Video 3)</small>
 
+[Lab Discussion 5 - The buffer overflow attack: Exploring the stack and the attack strategy](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion05-buffer-overflow.pdf)
+<br><small><font color="gray">February 7, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=712782&a=908508012"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (37:32)</font> </small>
+
 ____________
 
 ## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
