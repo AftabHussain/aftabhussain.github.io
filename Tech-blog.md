@@ -3,7 +3,7 @@ layout: page
 title: Tech Blog
 ---
 
-- [Unix System Administration](#unix-sys-admin) 
+[Unix System Administration](#unix-sys-admin) 
 
 ____________
 
