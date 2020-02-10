@@ -85,6 +85,11 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 <small>[Naiad: A Timely Dataflow System by Derek G. Murray et al. from Microsoft Research]()
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, 2015
 
+<small><font color="3F5E8C"><b>Program Synthesis<b>
+
+<small>[A Comparative Analysis of the Usability of Stack Overflow Code Snippets Across Languages](/documents/pubs/presentation15-prog-synth.pdf)
+<br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, 2015
+
 <small><font color="3F5E8C"><b>Software Environments & Code Cloning<b>
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
