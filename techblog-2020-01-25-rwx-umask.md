@@ -12,16 +12,17 @@ title: Playing with permissions using umask & chmod
 Files and directories have permissions in UNIX, with respect to a user, a group, and others.
 
 For example (output by `ll`),
-
-    -rw-rw-r--  1 aftab aftab  74150 Jan 20 19:45 favicon1.ico
+```
+-rw-rw-r--  1 aftab aftab  74150 Jan 20 19:45 favicon1.ico
+```
     
 A total of 10 characters are used for determining a file's permission.
 The first character is a dash, which shows that this is the information for a file. 
 
 For a directory the first character would be a `d`. For example,
-
-    drwxrwxr-x  2 aftab aftab   4096 Jan 20 18:57 css/
-
+```
+drwxrwxr-x  2 aftab aftab   4096 Jan 20 18:57 css/
+```
 The next 9 characters show the permissions, of which the first 3 show the
 access permissions for the file/directory available to a user. The next 3
 characters show the access permissions available for the group. The last set of
@@ -41,9 +42,9 @@ does not have execute permissions.
 ## **chmod**
 <br>
 The `chmod` command can be used to change the permissions of that file. Here's an example
-
-    chmod 777 favicon1.ico
-
+```
+chmod 777 favicon1.ico
+```
 Each digit in the numeric input to chmod corresponds to a set of 3 characters
 of the file's permission. As such, the characters are set based on the binary
 representation of a digit. For example the first 7, is 111 in binary (by
@@ -101,9 +102,9 @@ users are 0022 and 0002 respectively.
 <br>[How to change Default Umask Permission in Linux, ComputerNetworkingNotes.com](https://www.computernetworkingnotes.com/rhce-study-guide/how-to-change-default-umask-permission-in-linux.html)
 
 You can change the mask as follows:
-
-    umask 0007
-
+```
+umask 0007
+```
 (Note the extra 0 in the beginning. This is because, by convention, UNIX represents these values using 4-bit octal numbers (0-7).)
 
 <small>Reference: 
