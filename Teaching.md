@@ -3,37 +3,37 @@ layout: page
 title: Teaching
 ---
 <br>I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-<br><br>[CS201P Computer Security](#cs201p)  
+<br><br><a name="cs201p-entry"></a>[CS201P Computer Security](#cs201p)  
 <small><font color="gray">Winter 2020</font></small> 
-<br><small>[Shared material](#cs201p-winter20-files)</small>
-<br><br>[CS250P Computer Systems Architecture](#cs250p)  
+<br><small><a href="#cs201p-winter20-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lab Discussion Classes and Shared Material](#cs201p-winter20-files)</small>
+<br><br><a name="cs250p-entry"></a>[CS250P Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
-<br><small>[Shared material (Fall 2019)](#cs250p-fall19-files)</small>
-<br><small>[Shared material (Winter 2019)](#cs250p-winter19-files)</small>
-<br><br>[CS238P Operating Systems](#cs238p)  
+<br><small><a href="#cs250p-fall19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Fall 2019)](#cs250p-fall19-files)</small>
+<br><small><a href="#cs250p-winter19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Winter 2019)](#cs250p-winter19-files)</small>
+<br><br><a name="cs238p-entry"></a>[CS238P Operating Systems](#cs238p)  
 <small><font color="gray">Spring 2019, Fall 2018</font></small> 
-<br><small>[Shared material (Spring 2019)](#cs238p-spring19-files)</small>
-<br><small>[Shared material (Fall 2018)](#cs238p-fall18-files)</small>
-<br><br>[CS142 Compilers and Interpreters](#cs142)  
+<br><small><a href="#cs238p-spring19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture and Shared Material (Spring 2019)](#cs238p-spring19-files)</small>
+<br><small><a href="#cs238p-fall18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Fall 2018)](#cs238p-fall18-files)</small>
+<br><br><a name="cs142-entry"></a>[CS142 Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
-<br><small>[Shared material (Winter 2018)](#cs142-winter18-files)</small>
-<br><small>[Shared material (Fall 2017)](#cs142-fall17-files)</small>
-<br><br>[CS141 Concepts in Programming Languages](#cs141)  
+<br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Winter 2018)](#cs142-winter18-files)</small>
+<br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Fall 2017)](#cs142-fall17-files)</small>
+<br><br><a name="cs141-entry"></a>[CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
-<br><small>[Shared material (Fall 2017)](#cs141-fall17-files)</small>
-<br><br>[ICS53 Principles of System Design](#ics53)  
+<br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Fall 2017)](#cs141-fall17-files)</small>
+<br><br><a name="ics53-entry"></a>[ICS53 Principles of System Design](#ics53)  
 <small><font color="gray">Spring 2018</font></small> 
-<br><br>[ICS31 Introduction to Programming](#ics31)  
+<br><br><a name="ics31-entry"></a>[ICS31 Introduction to Programming](#ics31)  
 <small><font color="gray">Winter 2014</font></small> 
-<br><br>[INF113 Requirements Analysis and Engineering](#inf113)  
+<br><br><a name="inf113-entry"></a>[INF113 Requirements Analysis and Engineering](#inf113)  
 <small><font color="gray">Winter 2014</font></small> 
 <br><br>I have worked as a Reader for the following course at UCI:
-<br><br>[INF43 Introduction to Software Engineering](#inf43)  
+<br><br><a name="inf43-entry"></a>[INF43 Introduction to Software Engineering](#inf43)  
 <small><font color="gray">Fall 2013</font></small> 
 
 ____________
 
-## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
 
 The **course teaches** the principles of practical computer security,
   providing an overview of threats on computer systems and techniques to counteract these threats. I am working as a TA for this course in **Winter 2020** with [Prof. Stanislaw Jarecki](https://www.ics.uci.edu/~stasio/).
@@ -49,7 +49,7 @@ The **course teaches** the principles of practical computer security,
 ________________________________
 
 
-<a name="cs201p-winter20-files"></a><font color="3F5E8C"><b>CS201P Shared material<b>
+<a name="cs201p-winter20-files"></a><font color="3F5E8C"><b>CS201P Shared material <b><span style="cursor:pointer"><a href="#cs201p-entry">⬆</a></span>
 
 Lab Discussion 1 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
@@ -109,7 +109,7 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 
 ____________
 
-## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#cs250p-entry">⬆</a>  
 
 The **course teaches** the architecture of complex modern microprocessors. It focuses on the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. I worked as a TA for this course in **Fall 2019** and **Winter 2019** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on computer architecture design concepts.
 
@@ -127,7 +127,7 @@ The **course teaches** the architecture of complex modern microprocessors. It fo
 ________________
 
 
-<a name="cs250p-fall19-files"></a><font color="3F5E8C"><b>CS250P Shared material (Fall 2019)
+<a name="cs250p-fall19-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> CS250P Discussion Classes and Shared Material (Fall 2019)
 
 [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small><font color="gray">October 7, 2019</font></small> 
@@ -219,7 +219,7 @@ Midterm Solutions
 
 
 ____________
-## <a name="cs238p"></a><b>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#top">⬆</a>  
+## <a name="cs238p"></a><b>Operating Systems <font color="gray" family="JuneBug"><small>CS238P (Grad)</small></font><a href="#cs238p-entry">⬆</a>  
 
 The **course teaches** the fundamentals of operating systems, by diving into MIT PDOS's [xv6 kernel](https://pdos.csail.mit.edu/6.828/2018/xv6.html), a re-implementation of the UNIX version 6 operating system. I worked as a TA for this course in **Spring 2019** and **Fall 2018** with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/). I held lectures and discussion sessions on concepts and xv6 implementation.
 
@@ -307,7 +307,7 @@ ________________
 
 ____________
 
-## <a name="cs142"></a><b>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="cs142"></a><b>Compilers and Interpreters <font color="gray"><small>CS142 (Undergrad)</small></font><a href="#cs142-entry">⬆</a>  
 
 The **course teaches** compiler design using the traditional compiler design approach, starting with the front-end and proceeding toward the back-end. Students learn the phases of the approach, hands-on, by incrementally building a compiler for the [crux language](http://cruxlang.org/). I worked as a TA for this course in **Winter 2018** and in **Winter 2017**  with [Prof. Guoqing (Harry) Xu](http://web.cs.ucla.edu/~harryxu/). I conducted labs, guided student projects, took lectures on compiler design concepts, and developed an autograder for grading student projects.
 
@@ -341,7 +341,7 @@ ________________
 
 ____________
 
-## <a name="cs141"></a><b>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="cs141"></a><b>Concepts in Programming Languages <font color="gray"><small>CS141 (Undergrad)</small></font><a href="#cs141-entry">⬆</a>  
 
 The **course teaches** the fundamentals of programming languages (PL) such as the life cycle of a program, objected oriented concepts, and functional and imperative languages. I worked as a TA for this course in **Summer 2018** with [Shannon
   Alfaro](https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro),
@@ -359,14 +359,14 @@ ________________
 
 ____________
 
-## <a name="ics53"></a><b>Principles of System Design <font color="gray"><small>ICS53 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="ics53"></a><b>Principles of System Design <font color="gray"><small>ICS53 (Undergrad)</small></font><a href="#ics53-entry">⬆</a>  
 
 The **course teaches** UNIX programming, scripting, and socket programming. I worked as a TA for this course in **Spring 2018** with [Prof. Ray Klefstad](https://www.ics.uci.edu/~klefstad/). I conducted weekly programming sessions on coding problems and conducted bi-weekly quiz sessions. 
 
 
 ____________
 
-## <a name="ics31"></a><b>Introduction to Programming <font color="gray"><small>ICS31 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="ics31"></a><b>Introduction to Programming <font color="gray"><small>ICS31 (Undergrad)</small></font><a href="#ics31-entry">⬆</a>  
 
 The **course teaches** systematic problem solving and how to implement the solutions using basic data structures in Python. I worked as a TA for this course in **Winter 2014** with [Prof. David Kay](https://www.ics.uci.edu/~kay/). I guided students on programming problems in lab sessions.
 
@@ -374,7 +374,7 @@ The **course teaches** systematic problem solving and how to implement the solut
 
 ____________
 
-## <a name="inf113"></a><b>Requirements Analysis and Engineering <font color="gray"><small>INF113 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="inf113"></a><b>Requirements Analysis and Engineering <font color="gray"><small>INF113 (Undergrad)</small></font><a href="#inf113-entry">⬆</a>  
 
 The **course teaches** how to leverage requirements analysis techniques and requirements engineering towards developing software-intensive systems. I worked as a TA for this course in **Winter 2014** with [Prof. Birgit Penzenstadler](http://birgit.penzenstadler.de/). I co-designed the course framework, revised exam structure, and supervised student project groups.
 
@@ -382,7 +382,7 @@ The **course teaches** how to leverage requirements analysis techniques and requ
 
 ____________
 
-## <a name="inf43"></a><b>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#top">⬆</a>  
+## <a name="inf43"></a><b>Introduction to Software Engineering <font color="gray"><small>INF43 (Undergrad)</small></font><a href="#inf43-entry">⬆</a>  
 
 The **course teaches** concepts (e.g. life cycle models), methods, and current
 practices in software engineering (e.g. agile development) used in the
