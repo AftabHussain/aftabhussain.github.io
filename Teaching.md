@@ -98,6 +98,15 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 <br><small><a target="blank" href="http://yosefk.com/blog/getting-the-call-stack-without-a-frame-pointer.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
  <a target="blank" href="http://yosefk.com/blog/getting-the-call-stack-without-a-frame-pointer.html">Post - Getting the call stack without a frame (for reference)</a></small>
 
+
+[Lab Discussion 6 - Buffer-overflow Online Workout Task via Google Forms](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout.pdf)
+<br><small><font color="gray">February 14, 2020</font></small> 
+<br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/bufferoverflow-workout-analytics.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/bufferoverflow-workout-analytics.pdf">Response Analytics</a></small>
+<br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf">Solutions</a></small>
+
+
 ____________
 
 ## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#top">⬆</a>  
