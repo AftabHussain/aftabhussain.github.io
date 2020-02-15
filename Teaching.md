@@ -16,11 +16,11 @@ title: Teaching
 <br><small><a href="#cs238p-fall18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Fall 2018)](#cs238p-fall18-files)</small>
 <br><br><a name="cs142-entry"></a>[CS142 Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
-<br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Winter 2018)](#cs142-winter18-files)</small>
-<br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Fall 2017)](#cs142-fall17-files)</small>
+<br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture and Shared Material (Winter 2018)](#cs142-winter18-files)</small>
+<br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture (Fall 2017)](#cs142-fall17-files)</small>
 <br><br><a name="cs141-entry"></a>[CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
-<br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared material (Fall 2017)](#cs141-fall17-files)</small>
+<br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared Material (Fall 2017)](#cs141-fall17-files)</small>
 <br><br><a name="ics53-entry"></a>[ICS53 Principles of System Design](#ics53)  
 <small><font color="gray">Spring 2018</font></small> 
 <br><br><a name="ics31-entry"></a>[ICS31 Introduction to Programming](#ics31)  
