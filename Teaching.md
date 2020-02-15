@@ -101,7 +101,7 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 
 [Lab Discussion 6 - Buffer-overflow Online Workout Task via Google Forms](../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout.pdf)
 <br><small><font color="gray">February 14, 2020</font></small> 
-<br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/bufferoverflow-workout-analytics.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+<br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/bufferoverflow-workout-analytics.pdf"><i class="fa fa-bar-chart" style="font-size:15px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/bufferoverflow-workout-analytics.pdf">Response Analytics</a></small>
 <br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf">Solutions</a></small>
