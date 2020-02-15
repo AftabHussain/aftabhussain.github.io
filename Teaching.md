@@ -49,7 +49,7 @@ The **course teaches** the principles of practical computer security,
 ________________________________
 
 
-<a name="cs201p-winter20-files"></a><font color="3F5E8C"><b>CS201P Shared material <b><span style="cursor:pointer"><a href="#cs201p-entry">⬆</a></span>
+<a name="cs201p-winter20-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS201P Lab Discussion Classes and Shared Material</u> <b><a href="#cs201p-entry">⬆</a>
 
 Lab Discussion 1 - Setting up the SEED Lab Environment 
 <br><small><font color="gray">January 10, 2020</font></small> 
@@ -127,7 +127,7 @@ The **course teaches** the architecture of complex modern microprocessors. It fo
 ________________
 
 
-<a name="cs250p-fall19-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> CS250P Discussion Classes and Shared Material (Fall 2019)
+<a name="cs250p-fall19-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS250P Discussion Classes and Shared Material (Fall 2019)</u> <b><a href="#cs250p-entry">⬆</a>
 
 [Discussion 1 - MIPS Introduction](../documents/teaching/uci/cs250p/fall2019/discussions/discussion01-mips-intro.pdf) 
 <br><small><font color="gray">October 7, 2019</font></small> 
@@ -178,7 +178,7 @@ Discussion 8 - Virtual Memory and Caches Workout
 ________________
 
 
-<a name="cs250p-winter19-files"></a><font color="3F5E8C"><b>CS250P Shared material (Winter 2019)
+<a name="cs250p-winter19-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS250P Discussion Classes and Shared Material (Winter 2019)</u> <b><a href="#cs250p-entry">⬆</a>
 
 [Discussion 1 - CPU basics, performance metrics (execution time, power, energy)](../documents/teaching/uci/cs250p/winter2019/discussions/discussion01-cpu-basics-performance.pdf) 
 <br><small><font color="gray">January 14, 2019</font></small> 
@@ -237,7 +237,7 @@ The **course teaches** the fundamentals of operating systems, by diving into MIT
 ________________
 
 
-<a name="cs238p-spring19-files"></a><font color="3F5E8C"><b>CS238P Shared material (Spring 2019) 
+<a name="cs238p-spring19-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS238P Lecture and Shared Material (Spring 2019)</u> <b><a href="#cs238p-entry">⬆</a> 
 
 [Lecture - Review: Paging and Stack Management](../documents/teaching/uci/cs238p/spring2019/lecture-01-topics-review.pdf)
 <br><small><font color="gray">December 13, 2019</font></small> 
@@ -258,7 +258,7 @@ Fall 2018 Midterm Solution
 ________________
 
 
-<a name="cs238p-fall18-files"></a><font color="3F5E8C"><b>CS238P Shared material (Fall 2018) 
+<a name="cs238p-fall18-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS238P Discussion Classes and Shared Material (Fall 2018) 
 
 [Discussion 1 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 <br><small><font color="gray">October 5, 2018</font></small> 
@@ -322,7 +322,7 @@ The **course teaches** compiler design using the traditional compiler design app
 ________________
 
 
-<a name="cs142-winter18-files"></a><font color="3F5E8C"><b>CS142 Shared material (Winter 2018)
+<a name="cs142-winter18-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS142 Lecture and Shared Material (Winter 2018)</u> <b><a href="#cs142-entry">⬆</a>
 
 [Lecture - LR(0) and LR(1) Parsing](../documents/teaching/uci/cs142/winter2018/handles-lr-bottom-up-parsing.pdf)
 <br><small><font color="gray">February 5, 2018</font></small> 
@@ -334,7 +334,7 @@ ________________
 ________________
 
 
-<a name="cs142-fall17-files"></a><font color="3F5E8C"><b>CS142 Shared material (Fall 2017)
+<a name="cs142-fall17-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS142 Lecture (Fall 2017)</u> <b><a href="#cs142-entry">⬆</a>
 
 [Lecture - Global Optimization (Borrowed from Prof. Harry)](../documents/teaching/uci/cs142/fall2017/global-optimization-lecture.pdf)
 <br><small><font color="gray">March 10, 2017</font></small> 
@@ -352,7 +352,7 @@ concepts and implement them in C, C++, and Java.
 ________________
 
 
-<a name="cs141-fall17-files"></a><font color="3F5E8C"><b>CS141 Shared material (Fall 2017)
+<a name="cs141-fall17-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS141 Shared Material (Fall 2017)</u> <b><a href="#cs141-entry">⬆</a>
 
 [Memory Layout of Struct and Union in C](../documents/teaching/uci/cs141/fall2017/structure-union-layout.pdf)
 <br><small><font color="gray">November 6, 2017</font></small> 
