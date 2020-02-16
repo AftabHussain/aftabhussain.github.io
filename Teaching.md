@@ -258,7 +258,7 @@ Fall 2018 Midterm Solution
 ________________
 
 
-<a name="cs238p-fall18-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS238P Discussion Classes and Shared Material (Fall 2018) 
+<a name="cs238p-fall18-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS238P Discussion Classes and Shared Material (Fall 2018)</u><a href="#cs238p-entry">⬆</a> 
 
 [Discussion 1 - Basic UNIX shell commands, VIM](../documents/teaching/uci/cs238p/fall2018/discussions/discussion01-shell-vim.pdf)
 <br><small><font color="gray">October 5, 2018</font></small> 
