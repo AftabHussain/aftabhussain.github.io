@@ -52,7 +52,7 @@ To know why, take a look [here](../documents/teaching/uci/cs201p/winter2020/lab-
 <small> 1. I admit this word is already getting a bit repetitive, but
 I can't think of a cuter synonym as of now, so I would need to stick to it. Sorry.</small>
 
-### Creating a setUID program
+## Creating a setUID program
 
 Just use `chmod 4XYZ` (where XYZ are 3 octal digits). There are other ways, but this is the easiest.
 
@@ -94,7 +94,7 @@ The fourth number is the file system id, which is discussed [here](https://unix.
 The second number, the effective uid, is of most interest to us. This is the id 
 based upon which various accesses are granted by the operating system.
 
-### Getting process info with a setUID program in action
+## Getting process info with a setUID program in action
 
 Now, let's run a UNIX setUID program, say `su`, from bash, and check out it's effective user id. 
 After starting `su`, leave it running and open a new terminal. (To the best of my knowledge
