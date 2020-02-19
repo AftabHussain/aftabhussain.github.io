@@ -27,5 +27,5 @@ ____________
 
 
 ## Data Structures and Algorithms <a name="ds-and-algo" href="#top">⬆</a>   
-<br>[Deconstructring Implementations of some Sorting Algorithms](../techblog-2020-02-17-sort/index.html)
+<br>[Deconstructring Implementations of Merge Sort and Quick Sort](../techblog-2020-02-17-sort/index.html)
 <br><small><font color="gray">February 17, 2020</font></small>
