@@ -106,6 +106,13 @@ Lab Discussion 3 - Feedback and Issue Review for Lab Assignment 1 (Environment v
 <br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs201p/winter2020/lab-discussions/lab-discussion06-bufferoverflow-workout-sols.pdf">Solutions</a></small>
 
+Scapy Overview - Recorded videos and material
+<br><small><font color="gray">February 16, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=739284&node=3072258&a=1186546097&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a> <a target="blank" href="https://uci.yuja.com/V/Video?v=739284&node=3072258&a=1186546097&autoplay=1">Scapy Overview Part I (NOTE: Please lower volume)</a><font color="gray"> (14:41)</font> </small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=739285&node=3072259&a=1821749524&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a> <a target="blank" href="https://uci.yuja.com/V/Video?v=739285&node=3072259&a=1821749524&autoplay=1">Scapy Overview Part II</a><font color="gray"> (10:01)</font> </small>
+<br><small><a target="blank" href="https://www.youtube.com/watch?v=vUuHVXuIiE0"><i class="fa fa-youtube-square" style="font-size:18px"></i></a> <a target="blank" href="https://www.youtube.com/watch?v=vUuHVXuIiE0">Reference Video - Intro to Scapy by Stephen Haywood</a><font color="gray"> (55:46)</font> </small>
+<br><small><a target="blank" href="https://github.com/averagesecurityguy/scapy"><i class="fa fa-code-fork" style="font-size:18px"></i></a>
+ <a target="blank" href="https://github.com/averagesecurityguy/scapy">Code by AverageSecurityGuy (Stephen Haywood)</a></small>
 
 ____________
 
