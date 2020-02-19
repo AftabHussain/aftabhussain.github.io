@@ -9,7 +9,7 @@ title: Tech Blog
 ____________
 
 
-## Unix System Administration <a name="unix-sys-admin" href="#top">⬆</a> 
+## Unix System Administration <a name="unix-sys-admin"></a><!--<a href="#top">⬆</a> -->
 <br>
 [SetUID is Bad](../techblog-2020-01-31-setuid-bad/index.html)
 <br><small><font color="gray">January 31, 2020</font></small>
@@ -26,6 +26,6 @@ ____________
 ____________
 
 
-## Data Structures and Algorithms <a name="ds-and-algo" href="#top">⬆</a>   
+## Data Structures and Algorithms <a name="ds-and-algo"></a><a href="#top">⬆</a>   
 <br>[Deconstructring Implementations of Merge Sort and Quick Sort](../techblog-2020-02-17-sort/index.html)
 <br><small><font color="gray">February 17, 2020</font></small>
