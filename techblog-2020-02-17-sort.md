@@ -11,15 +11,16 @@ title: Deconstructring Implementations of Merge Sort and Quick Sort
 <style>
 /*Source+Code+Pro:500&display=swap*/
 code { 
-  font-family: "Source Code Pro";
-  font-size:90%
+  font-size:90%;
 }
 pre code { 
   font-family: "Source Code Pro";
-  font-size:110%
+  font-size:110%;
+  white-space: pre;
 }
 pre {
   background-color: #EAEADF;
+  overflow: auto;
 }
 /*#E6EEEC*/
 </style>
