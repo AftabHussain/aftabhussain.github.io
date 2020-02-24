@@ -113,7 +113,7 @@ Scapy Overview - Recorded videos and material
 <br><small><a target="blank" href="https://github.com/averagesecurityguy/scapy"><i class="fa fa-code-fork" style="font-size:18px"></i></a>
  <a target="blank" href="https://github.com/averagesecurityguy/scapy">Code by AverageSecurityGuy (Stephen Haywood)</a></small>
 
-Lab Discussion 7 - Lab Assignment 3 (Packet Sniffing and Spoofing): Setting up Virtual Box Network Settings, Subnet, Feedback and Issue Review for the task.  
+Lab Discussion 7 - Lab Assignment 3 (Packet Sniffing and Spoofing): Setting up Virtual Box Network Settings, Subnet, Feedback and Issue Review for the task  
 <small><font color="gray">February 21, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=745645&a=1294128107"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
  <a target="blank" href="https://uci.yuja.com/V/Video?v=745645&a=1294128107">Virtual Box Network Settings</a> <font color="gray">(03:08)</font> </small>
