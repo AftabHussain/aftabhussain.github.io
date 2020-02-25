@@ -112,7 +112,7 @@ merge_sort(int * arr, int low, int high){
 Once we have reached singletons, the final step we'd like to do is to start merging the elements
 back together. It is during this merge that the sorting is applied. This step is in fact, the trickiest
 and the most tedious part of the procedure. Let's encapsulate this step inside the function `merge`, which 
-we shall from `merge_sort`, right after recursively splitting the subparts (using `merge_sort`).
+we shall call from `merge_sort`, right after recursively splitting the subparts (using `merge_sort`).
 ```cpp
 merge_sort(int *arr, int low, int high){
   if (low < high){
