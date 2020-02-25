@@ -155,7 +155,7 @@ tracked by `k`. So continuing our `merge` function,
 
 ```cpp
   ...
-  int i = start, j = mid+1, k = 0;
+  int i = low, j = mid+1, k = 0;
 ```
 
 As we store elements into the temporary array, a number of things happen: 
@@ -210,7 +210,7 @@ using namespace std;
 
 void merge(int *arr, int low, int mid, int high) {
   int temp[high - low + 1]; //dealing with indexes, so add 1
-  int i = start, j = mid+1, k = 0;
+  int i = low, j = mid+1, k = 0;
   while(i <= mid && j <= high){
     if (arr[i]<=arr[j]){
       temp[k] = arr[i];
