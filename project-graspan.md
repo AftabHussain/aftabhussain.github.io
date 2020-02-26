@@ -35,7 +35,6 @@ img {
 
 <img src="../images/projects/graspan/tc-system.png" alt="drawing" width="500"/>
 
-
 - Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China.  
 - Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17. 
 - Invited for presentation at [SoCal PLS '16](http://socalpls.github.io/archive/2016nov/).
