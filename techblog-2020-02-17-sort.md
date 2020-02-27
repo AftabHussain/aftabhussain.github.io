@@ -78,7 +78,7 @@ int main() {
 Now let's begin writing our `merge_sort()` function, and get the median index.
 
 ```cpp
-merge_sort(int * arr, int low, int high){
+void merge_sort(int * arr, int low, int high){
   int mid = (low + high) / 2;
 ```
 
@@ -102,7 +102,7 @@ these two values would be equal. So we'd like to do all this while `low` is less
 makes sense to get the median, only if such is the case. Hence modifying the above, we get, 
 
 ```cpp
-merge_sort(int * arr, int low, int high){
+void merge_sort(int * arr, int low, int high){
   if (low < high){
     int mid = (low + high) / 2;
     merge_sort(arr, low, mid);
@@ -114,7 +114,7 @@ back together. It is during this merge that the sorting is applied. This step is
 and the most tedious part of the procedure. Let's encapsulate this step inside the function `merge`, which 
 we shall call from `merge_sort`, right after recursively splitting the subparts (using `merge_sort`).
 ```cpp
-merge_sort(int *arr, int low, int high){
+void merge_sort(int *arr, int low, int high){
   if (low < high){
     ...
     merge(arr, low, mid, high);
@@ -234,7 +234,7 @@ void merge(int *arr, int low, int mid, int high) {
   }
 }
 
-merge_sort(int * arr, int low, int high){
+void merge_sort(int * arr, int low, int high){
   if (low < high){
     int mid = (low + high) / 2;
     merge_sort(arr, low, mid);
