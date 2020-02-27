@@ -226,8 +226,8 @@ void merge(int *arr, int low, int mid, int high) {
       k++; i++;
   }
   while (j <= high){
-      temp[k] = arr[i];
-      k++; i++;
+      temp[k] = arr[j];
+      k++; j++;
   }
   for (int x = 0; x < end; x++){
     arr[x] = temp[x];
