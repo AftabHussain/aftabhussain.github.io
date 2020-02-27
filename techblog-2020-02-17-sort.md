@@ -194,7 +194,7 @@ array:
 Finally, copy the temporary array into the main array and we are done:
 ```cpp
   ...
-  for (int x = 0; x < end; x++){
+  for (int x = 0; x <= high; x++){
     arr[x] = temp[x];
   }
 } //ignore this red mark-down highlight
@@ -229,7 +229,7 @@ void merge(int *arr, int low, int mid, int high) {
       temp[k] = arr[j];
       k++; j++;
   }
-  for (int x = 0; x < end; x++){
+  for (int x = 0; x <= high; x++){
     arr[x] = temp[x];
   }
 }
