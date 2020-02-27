@@ -341,7 +341,7 @@ so let's take a look at an example:
 We set `spidx` and `i` to the start of the array, and `pidx`, to the end. We scan all 
 elements apart from the pivot using `i`. For each scanned element if we see the element
 is less than or equal to the pivot (pointed to by `pidx`), swap the shadow pivot and that element, 
-and change the shadow pivot postion by pointing it to the next position (`spidx`++). This is the meat of 
+and change the shadow pivot position by pointing it to the next position (`spidx`++). This is the meat of 
 the splitting logic (stage 2 above). Let's code up to here:
 ```cpp
 void swap(int *i, int *j){
