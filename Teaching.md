@@ -118,11 +118,15 @@ Lab Discussion 7 - Lab Assignment 3 (Packet Sniffing and Spoofing): Setting up V
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=745645&a=1294128107"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
  <a target="blank" href="https://uci.yuja.com/V/Video?v=745645&a=1294128107">Virtual Box Network Settings</a> <font color="gray">(03:08)</font> </small>
 
-Guest Lecture - Graspan : A Single-machine Disk-based Graph System for Analyzing Large-scale Systems Code
+Guest Lecture - Graspan: A Single-machine Disk-based Graph System for Analyzing Large-scale Systems Code
 <br><small><font color="gray">February 25, 2020</font></small> 
 <br><small><a target="blank" href="../documents/teaching/uci/cs201p/winter2020/guest-lecture/graspan.pptx"><i class="fa fa-file-powerpoint-o" style="font-size:18px"></i></a> (Best viewed if opened with Microsoft Powerpoint 2013 or a more recent version)</small>
 <br><small><a target="blank" href="../project-graspan/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
  <a target="blank" href="../project-graspan/index.html">Graspan Project Page</a></small>
+
+Lab Discussion 8 - SQL Injection Attack: Web server, LAMP, PHP, SQL, SQL Injection
+<small><font color="gray">February 28, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=752999&a=1745719163"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
 
 ____________
 
