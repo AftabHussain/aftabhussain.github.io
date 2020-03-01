@@ -124,9 +124,9 @@ Guest Lecture - Graspan: A Single-machine Disk-based Graph System for Analyzing 
 <br><small><a target="blank" href="../project-graspan/index.html"><i class="fa fa-sticky-note-o" style="font-size:18px"></i></a>
  <a target="blank" href="../project-graspan/index.html">Graspan Project Page</a></small>
 
-Lab Discussion 8 - SQL Injection Attack: Web server, LAMP, PHP, SQL, SQL Injection
-<small><font color="gray">February 28, 2020</font></small> 
-<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=752999&a=1745719163"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+[Lab Discussion 8 - SQL Injection Attack: Overviews on Web server, LAMP Stack, PHP, SQL, SQL Injection](../documents/teaching/uci/cs201p/winter2020/lab-discussions/discussion-8-cs201p.pdf)
+<br><small><font color="gray">February 28, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=752999&a=1745719163"><i class="fa fa-play-circle" style="font-size:18px"></i></a> <font color="gray">(32:04)</font> </small>
 
 ____________
 
