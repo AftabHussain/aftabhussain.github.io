@@ -5,22 +5,22 @@ title: Teaching
 <br>I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <br><br><a name="cs201p-entry"></a>[CS201P Computer Security](#cs201p)  
 <small><font color="gray">Winter 2020</font></small> 
-<br><small><a href="#cs201p-winter20-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lab Discussion Classes and Shared Material](#cs201p-winter20-files)</small>
+<br><small><a href="#cs201p-winter20-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lab Discussion Classes and Shared Material](#cs201p-winter20-files)</small>
 <br><br><a name="cs250p-entry"></a>[CS250P Computer Systems Architecture](#cs250p)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
-<br><small><a href="#cs250p-fall19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Fall 2019)](#cs250p-fall19-files)</small>
-<br><small><a href="#cs250p-winter19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Winter 2019)](#cs250p-winter19-files)</small>
+<br><small><a href="#cs250p-fall19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Fall 2019)](#cs250p-fall19-files)</small>
+<br><small><a href="#cs250p-winter19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Winter 2019)](#cs250p-winter19-files)</small>
 <br><br><a name="cs238p-entry"></a>[CS238P Operating Systems](#cs238p)  
 <small><font color="gray">Spring 2019, Fall 2018</font></small> 
-<br><small><a href="#cs238p-spring19-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture and Shared Material (Spring 2019)](#cs238p-spring19-files)</small>
-<br><small><a href="#cs238p-fall18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Discussion Classes and Shared Material (Fall 2018)](#cs238p-fall18-files)</small>
+<br><small><a href="#cs238p-spring19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture and Shared Material (Spring 2019)](#cs238p-spring19-files)</small>
+<br><small><a href="#cs238p-fall18-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Fall 2018)](#cs238p-fall18-files)</small>
 <br><br><a name="cs142-entry"></a>[CS142 Compilers and Interpreters](#cs142)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
-<br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture and Shared Material (Winter 2018)](#cs142-winter18-files)</small>
-<br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Lecture (Fall 2017)](#cs142-fall17-files)</small>
+<br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture and Shared Material (Winter 2018)](#cs142-winter18-files)</small>
+<br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture (Fall 2017)](#cs142-fall17-files)</small>
 <br><br><a name="cs141-entry"></a>[CS141 Concepts in Programming Languages](#cs141)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
-<br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a>[ Shared Material (Fall 2017)](#cs141-fall17-files)</small>
+<br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Shared Material (Fall 2017)](#cs141-fall17-files)</small>
 <br><br><a name="ics53-entry"></a>[ICS53 Principles of System Design](#ics53)  
 <small><font color="gray">Spring 2018</font></small> 
 <br><br><a name="ics31-entry"></a>[ICS31 Introduction to Programming](#ics31)  
