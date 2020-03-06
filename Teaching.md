@@ -128,7 +128,12 @@ Guest Lecture - Graspan: A Single-machine Disk-based Graph System for Analyzing 
 <br><small><font color="gray">February 28, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=752999&a=1745719163"><i class="fa fa-play-circle" style="font-size:18px"></i></a> <font color="gray">(32:04)</font> </small>
 
+[3 Countermeasure Strategies against SQL Injection Attacks](../documents/teaching/uci/cs201p/winter2020/lab-discussions/3-sql-injection-countermeasure-strats.pdf)
+<br><small><font color="gray">March 6, 2020</font></small> 
+
+
 ____________
+
 
 ## <a name="cs250p"></a><b>Computer Systems Architecture <font color="gray" family="JuneBug"><small>CS250P (Grad)</small></font><a href="#cs250p-entry">⬆</a>  
 
