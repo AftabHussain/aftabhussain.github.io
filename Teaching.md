@@ -131,6 +131,8 @@ Guest Lecture - Graspan: A Single-machine Disk-based Graph System for Analyzing 
 [3 Countermeasure Strategies against SQL Injection Attacks](../documents/teaching/uci/cs201p/winter2020/lab-discussions/3-sql-injection-countermeasure-strats.pdf)
 <br><small><font color="gray">March 6, 2020</font></small> 
 
+Lab Discussion 9 - Feedback and Issue Review for Lab Assignment 4 (SQL Injection Attack)
+<br><small><font color="gray">March 6, 2020</font></small> 
 
 ____________
 
