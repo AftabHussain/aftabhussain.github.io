@@ -1,0 +1,8 @@
+ICS Account Activation:
+https://www.ics.uci.edu/~lab/students/#unix
+
+Setting up VPN:
+https://www.oit.uci.edu/help/vpn/
+
+Accessing OpenLab:
+https://www.bentograph.com/cs-openlab-c/

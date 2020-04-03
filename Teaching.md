@@ -3,40 +3,65 @@ layout: page
 title: Teaching
 ---
 <br>I have worked as a Teaching Assistant (TA) for the following courses at UCI:
-<br><br><a name="cs201p-entry"></a>[CS201P Computer Security](#cs201p)  
+<br><br><a name="cs261p-entry"></a>[CS261P Data Structures](#cs261p) (Grad)  
+<small><font color="gray">Spring 2020</font></small> 
+<br><small><a href="#cs261p-spring20-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lab Discussion Classes and Shared Material](#cs261p-spring20-files)</small>
+<br><br><a name="cs201p-entry"></a>[CS201P Computer Security](#cs201p) (Grad)  
 <small><font color="gray">Winter 2020</font></small> 
 <br><small><a href="#cs201p-winter20-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lab Discussion Classes and Shared Material](#cs201p-winter20-files)</small>
-<br><br><a name="cs250p-entry"></a>[CS250P Computer Systems Architecture](#cs250p)  
+<br><br><a name="cs250p-entry"></a>[CS250P Computer Systems Architecture](#cs250p) (Grad)  
 <small><font color="gray">Fall 2019, Winter 2019</font></small> 
 <br><small><a href="#cs250p-fall19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Fall 2019)](#cs250p-fall19-files)</small>
 <br><small><a href="#cs250p-winter19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Winter 2019)](#cs250p-winter19-files)</small>
-<br><br><a name="cs238p-entry"></a>[CS238P Operating Systems](#cs238p)  
+<br><br><a name="cs238p-entry"></a>[CS238P Operating Systems](#cs238p) (Grad)  
 <small><font color="gray">Spring 2019, Fall 2018</font></small> 
 <br><small><a href="#cs238p-spring19-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture and Shared Material (Spring 2019)](#cs238p-spring19-files)</small>
 <br><small><a href="#cs238p-fall18-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Discussion Classes and Shared Material (Fall 2018)](#cs238p-fall18-files)</small>
-<br><br><a name="cs142-entry"></a>[CS142 Compilers and Interpreters](#cs142)  
+<br><br><a name="cs142-entry"></a>[CS142 Compilers and Interpreters](#cs142) (Undergrad)  
 <small><font color="gray">Winter 2018, Winter 2017</font></small> 
 <br><small><a href="#cs142-winter18-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture and Shared Material (Winter 2018)](#cs142-winter18-files)</small>
 <br><small><a href="#cs142-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lecture (Fall 2017)](#cs142-fall17-files)</small>
-<br><br><a name="cs141-entry"></a>[CS141 Concepts in Programming Languages](#cs141)  
+<br><br><a name="cs141-entry"></a>[CS141 Concepts in Programming Languages](#cs141) (Undergrad)  
 <small><font color="gray">Summer 2018, Fall 2017</font></small> 
 <br><small><a href="#cs141-fall17-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Shared Material (Fall 2017)](#cs141-fall17-files)</small>
-<br><br><a name="ics53-entry"></a>[ICS53 Principles of System Design](#ics53)  
+<br><br><a name="ics53-entry"></a>[ICS53 Principles of System Design](#ics53) (Undergrad)  
 <small><font color="gray">Spring 2018</font></small> 
-<br><br><a name="ics31-entry"></a>[ICS31 Introduction to Programming](#ics31)  
+<br><br><a name="ics31-entry"></a>[ICS31 Introduction to Programming](#ics31) (Undergrad)  
 <small><font color="gray">Winter 2014</font></small> 
-<br><br><a name="inf113-entry"></a>[INF113 Requirements Analysis and Engineering](#inf113)  
+<br><br><a name="inf113-entry"></a>[INF113 Requirements Analysis and Engineering](#inf113) (Undergrad)  
 <small><font color="gray">Winter 2014</font></small> 
 <br><br>I have worked as a Reader for the following course at UCI:
-<br><br><a name="inf43-entry"></a>[INF43 Introduction to Software Engineering](#inf43)  
+<br><br><a name="inf43-entry"></a>[INF43 Introduction to Software Engineering](#inf43) (Undergrad)  
 <small><font color="gray">Fall 2013</font></small> 
+
+____________
+
+## <a name="cs261p"></a><b>Data Structures <font color="gray" family="JuneBug"><small>CS261P (Grad)</small></font><a href="#cs261p-entry">⬆</a>  
+
+The **course teaches** data structures and their associated management algorithms, including their applications and analysis. I am working as a TA for this course in **Spring 2020** with [Prof. Kevin Wortman](https://www.linkedin.com/in/kevin-wortman-38a69a23/).
+
+[**Course page**](https://canvas.eee.uci.edu/courses/26140)
+
+ **Lab discussion class time and place**: 
+<br>Tuesdays, 8pm to 8.50pm, online via Zoom
+
+
+________________________________
+
+
+<a name="cs261p-spring20-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS261P Lab Discussion Classes and Shared Material</u> <b><a href="#cs261p-entry">⬆</a>
+
+Lab Discussion 1 - Lab Logistics, Student Experience Introductions for assisting Project Team Formation, Accessing UCI VPN and Openlab servers 
+<br><small><font color="gray">March 31, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=857938&node=3608269&a=2126914155&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (54:49)</font> </small>
+<br><small><a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/lab-discussion01-links.txt "><i class="fa fa-file-text-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/lab-discussion01-links.txt ">Links for setting up project environment</a></small>
 
 ____________
 
 ## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
 
-The **course teaches** the principles of practical computer security,
-  providing an overview of threats on computer systems and techniques to counteract these threats. I am working as a TA for this course in **Winter 2020** with [Prof. Stanislaw Jarecki](https://www.ics.uci.edu/~stasio/).
+The **course teaches** the principles of practical computer security, providing an overview of threats on computer systems and techniques to counteract these threats. I worked as a TA for this course in **Winter 2020** with [Prof. Stanislaw Jarecki](https://www.ics.uci.edu/~stasio/). I held lab discussion sessions and revised concepts related to projects from [SEED Labs](https://seedsecuritylabs.org/Labs_16.04/), which offers a broad range of security projects. The SEED Labs virtual learning environment for computer security was created by Prof. Kevin Du (Syracuse University, NY).
 
 [**Course page**](https://sites.google.com/view/ucicompsci201p/home)
 
@@ -240,7 +265,7 @@ Discussion 6 - Caches
 Midterm Solutions
 <br><small><a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/cs250-midterm-winter19.pdf">Midterm</a></small>
-<br><small><a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+<br><small><a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt"><i class="fa fa-file-text-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-1-to-3.txt">Questions 1 to 3</a></small>
 <br><small><a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs250p/winter2019/midterm-solutions/solutions-midterm-qs-4-to-6.pdf">Questions 4 to 6</a></small>
