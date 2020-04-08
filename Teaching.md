@@ -57,6 +57,13 @@ Lab Discussion 1 - Lab Logistics, Student Experience Introductions for assisting
 <br><small><a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/lab-discussion01-links.txt "><i class="fa fa-file-text-o" style="font-size:18px"></i></a>
  <a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/lab-discussion01-links.txt ">Links for setting up project environment</a></small>
 
+Lab Discussion 2 - Student Group Activity Session (via Zoom Breakrooms) - Minimum Spanning Tree and Shortest Path Implementation
+<br><small><font color="gray">April 7, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=953219&node=3830918&a=2113505755&autoplay=1 "><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=953219&node=3830918&a=2113505755&autoplay=1 ">Activity Preview (Video starts after 30s)</a> <font color="gray">(04:10)</font> </small>
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=953204&node=3830890&a=484401414&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a>
+ <a target="blank" href="https://uci.yuja.com/V/Video?v=953204&node=3830890&a=484401414&autoplay=1">Student Group Solutions</a> <font color="gray">(17:23)</font> </small>
+
 ____________
 
 ## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
