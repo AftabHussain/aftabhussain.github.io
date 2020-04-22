@@ -68,6 +68,9 @@ Lab Discussion 3 - Project 1 Objectives - Q & A Forum
 <br><small><font color="gray">April 14, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1003304&node=3927203&a=496530300&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (18:51)</font> </small>
 
+Lab Discussion 4 - Project 1 Progress Feedback - Q & A Forum
+<br><small><font color="gray">April 21, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1045795&node=4015705&a=656546999&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (09:47)</font> </small>
 ____________
 
 ## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
