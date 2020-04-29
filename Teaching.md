@@ -72,6 +72,11 @@ Lab Discussion 4 - Project 1 Progress Feedback - Q & A Forum
 <br><small><font color="gray">April 21, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1045795&node=4015705&a=656546999&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (09:47)</font> </small>
 
+Lab Discussion 5 - Workout Sheet (towards Midterm Prep)
+<br><small><font color="gray">April 28, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1078393&node=4086687&a=2099851666&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (32:17)</font> </small>
+
+
 ____________
 
 ## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
