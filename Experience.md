@@ -103,7 +103,7 @@ _____________
 <hr class="special">
 
 <div class="row">
-<center><small><b>Courses</b></small></center>
+<center><small><b><font color="gray">Courses</font></b></small></center>
 <hr class="special">
   <div class="column">
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs261p">Data Structures</a> <br>Master's of Computer Science Program<br> Spring 2020</small></p>
