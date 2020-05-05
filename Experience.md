@@ -91,9 +91,20 @@ _____________
 **Teaching Assistant**
 <br>Bren School of Information and Computer Sciences
 <br>University of California, Irvine
-<br> <font color="gray">2014 to present
+<br> <font color="gray">2014 to present</font>
 
-<div class="row" >
+<style>
+  hr.special{
+    padding: 0px;
+    margin: 0px;    
+  }
+</style>
+
+<hr class="special">
+
+<div class="row">
+<center><small><b>Courses</b></small></center>
+<hr class="special">
   <div class="column">
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs261p">Data Structures</a> <br>Master's of Computer Science Program<br> Spring 2020</small></p>
   </div>
