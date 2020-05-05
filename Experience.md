@@ -3,6 +3,30 @@ layout: page
 title: Experience
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_two_columns */
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+
 [Education](#edu)
 <br>[Research](#rsrch) 
 <br>[Teaching](#teach)
@@ -63,26 +87,112 @@ Computer Sciences<br>University of California, Irvine
 _____________
 
 # Teaching <a href="#top">⬆</a> {#teach}
-
+<br>
 **Teaching Assistant**
 <br>Bren School of Information and Computer Sciences
 <br>University of California, Irvine
 <br> <font color="gray">2014 to present
-<br> <small>Courses:</small> 
-<br> <small>CS 201P Computer Security (Winter 2020)</small>
-<br> <small>CS 250P Computer Systems Architecture (Fall 2019, Winter 2019)</small>
-<br> <small>CS 238P Operating Systems (Spring 2019, Fall 2018) </small>
-<br> <small>ICS 141 Concepts in Programming Languages (Summer 2018, Fall 2017)</small> 
-<br> <small>ICS 53 Principles of System Design (Spring 2018)</small> 
-<br> <small>CS 142 Compilers and Interpreters (Winter 2018, Winter 2017)</small> 
-<br> <small>ICS 31 Introduction to Programming (Winter 2014)</small> 
-<br> <small>INF 113 Requirements Analysis and Engineering (Winter 2014)</small>
+
+<div class="row" >
+  <div class="column">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs261p">Data Structures</a> <br>Master's of Computer Science Program<br> Spring 2020</small></p>
+  </div>
+  <div class="column" >
+  </div>
+</div>
+
+<div class="row" style="background-color:#EDF5F9;" >
+  <div class="column" style="background-color:#EDF5F9;" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs201p">Computer Security</a> <br>Master's of Computer Science Program<br> Winter 2020</small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-lock" style="font-size:15px"></i>&nbsp; Prepared video tutorials and delivered lectures on network security tools, like Scapy, and security attacks, such as buffer overflow, SQL Injection, and SetUID attacks.</small>
+<br><small><i class="fa fa-laptop" style="font-size:15px"></i>&nbsp; Conducted lab discussion sessions on <a href="https://seedsecuritylabs.org/">SEED Labs</a> projects. SEED provides a broad range of security projects in a virtualized environment.</small>
+<br><small><i class="fa fa-file-powerpoint-o" style="font-size:15px"></i>&nbsp; Gave an invited talk on my research project, <a href="https://aftabhussain.github.io/project-graspan/index.html">Graspan</a>, a large-scale graph processing system.</small>
+<br><small> </small>
+  </div>
+</div>
+
+<div class="row" >
+  <div class="column">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs250p">Computer Systems Architecture</a> <br>Master's of Computer Science Program<br> Fall 2019, Winter 2019</small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-trophy" style="font-size:15px"></i>&nbsp; Designed and conducted novel in-class team contests towards solving various computer architecture problems. The games were designed to simulate a part of real-life <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, promote <a href="https://en.wikipedia.org/wiki/Active_learning"> active learning</a>, and to help students learn in a fun and engaging way.</small>
+<br><small><i class="fa fa-microchip" style="font-size:15px"></i>&nbsp; Delivered and recorded lectures on computer architecture concepts such as CPU performance, pipelining, and MIPS.</small>
+  </div>
+</div>
+<div class="row" style="background-color:#EDF5F9;" >
+  <div class="column" style="background-color:#EDF5F9;" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs238p">Operating Systems</a> <br>Master's of Computer Science Program<br> Spring 2019, Fall 2018</small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-video-camera" style="font-size:15px"></i>&nbsp; Delivered and recorded lectures on concepts and xv6 implementation, a re-implementation of UNIX 6 OS by MIT's PDOS group as part of our discussion sessions. </small>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#ics53">Principles of System Design</a> <br> Spring 2018 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-desktop" style="font-size:15px"></i>&nbsp; Conducted weekly programming sessions with around 80 students on coding problems on algorithm design, UNIX programming, scripting, and sockets.</small>
+<br><small><i class="fa fa-pencil" style="font-size:15px"></i>&nbsp; Conducted biweekly quiz sessions with 240+ students.</small>
+  </div>
+</div>
+
+<div class="row" style="background-color:#EDF5F9;" >
+  <div class="column" style="background-color:#EDF5F9;" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs142">Compilers and Interpreters </a> <br> Winter 2018, Winter 2017 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-desktop" style="font-size:15px"></i>&nbsp; Guided 75+ students in implementing all phases of Crux Compiler  in Java in 10 weeks. </small>
+<br><small><i class="fa fa-wrench" style="font-size:15px"></i>&nbsp; Built autograder for auto grading compiler projects. Released it to students to help them test their code with public test cases.</small>
+<br><small><i class="fa fa-object-group" style="font-size:15px"></i>&nbsp; Lead online class discussion group on Piazza.</small>
+  </div>
+</div>
+
+<div class="row" >
+  <div class="column">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs141">Concepts in Programming Languages</a> <br> Summer 2018, Fall 2017 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-language" style="font-size:18px"></i>&nbsp; Helped students understand programming language concepts and implement them in C, C++, Java.</small>
+  </div>
+</div>
+
+<div class="row" style="background-color:#EDF5F9;">
+  <div class="column" style="background-color:#EDF5F9;">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#ics31">Introduction to Programming</a> <br> Winter 2014 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-desktop" style="font-size:15px"></i>&nbsp; Guided students on Python programming problems in lab sessions.</small>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#inf113">Requirements Analysis and Engineering</a> <br> Winter 2014 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-pencil-square-o" style="font-size:15px"></i>&nbsp; Co-designed course framework, revised exam structure.</small>
+  </div>
+</div>
+
+<hr>
 
 **Reader**
 <br>Bren School of Information and Computer Sciences<br> University of California, Irvine
 <br> <font color="gray">2013
-<br> <small>Course:</small> 
-<br> <small>INF 43 Introduction to Software Engineering (Fall 2013)</small> 
+<div class="row">
+  <div class="column">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#inf43">Introduction to Software Engineering</a> <br> Fall 2013 </small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-desktop" style="font-size:15px"></i>&nbsp; Evaluated assignments on software engineering practices.</small>
+  </div>
+</div>
+<hr>
 
 <small>**View:**<br>
 [**Teaching page**](../Teaching/index.html)
@@ -96,3 +206,7 @@ _____________
 											
  **Software Engineering Trainee** -- 2008<br>CMC Kolkata (A TATA Enterprise), Kolkata, India
 <br><small> Project: Design of hospital database management system using VB.Net</small>
+
+
+
+
