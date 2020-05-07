@@ -138,7 +138,7 @@ _____________
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs238p">Operating Systems</a> <br>Master's of Computer Science Program<br> Spring 2019, Fall 2018</small></p>
   </div>
   <div class="column" >
-<small><i class="fa fa-video-camera" style="font-size:15px"></i>&nbsp; Delivered and recorded lectures on concepts and xv6 implementation, a re-implementation of UNIX 6 OS by MIT's PDOS group as part of our discussion sessions. </small>
+<small><i class="fa fa-video-camera" style="font-size:15px"></i>&nbsp; Delivered and recorded lectures on OS concepts and the implementation of xv6 (a UNIX 6 based operating system built by MIT PDOS) during discussion sessions. </small>
   </div>
 </div>
 
