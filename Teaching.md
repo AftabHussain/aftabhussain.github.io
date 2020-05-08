@@ -76,6 +76,9 @@ Lab Discussion 5 - Workout Sheet (towards Midterm Prep)
 <br><small><font color="gray">April 28, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1078393&node=4086687&a=2099851666&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (32:17)</font> </small>
 
+Lab Discussion 6 - Bloom Filter Review, Extra-credit activity on Mining Repositories implementing Bloom Filter 
+<br><small><font color="gray">May 5, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1110417&node=4162449&a=1502670542&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (27:38)</font> </small>
 
 ____________
 
