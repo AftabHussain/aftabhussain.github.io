@@ -80,6 +80,10 @@ Lab Discussion 6 - Bloom Filter Review, Extra-credit activity on Mining Reposito
 <br><small><font color="gray">May 5, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1110417&node=4162449&a=1502670542&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (27:38)</font> </small>
 
+Lab Discussion 7 - Project 2 Objectives - Q & A Forum
+<br><small><font color="gray">May 13, 2020</font></small> 
+<br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1135327&node=4227290&a=1103974095&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (08:13)</font> </small>
+
 ____________
 
 ## <a name="cs201p"></a><b>Computer Security <font color="gray" family="JuneBug"><small>CS201P (Grad)</small></font><a href="#cs201p-entry">⬆</a>  
