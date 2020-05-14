@@ -72,9 +72,12 @@ Lab Discussion 4 - Project 1 Progress Feedback - Q & A Forum
 <br><small><font color="gray">April 21, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1045795&node=4015705&a=656546999&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (09:47)</font> </small>
 
-Lab Discussion 5 - Workout Sheet (towards Midterm Prep)
+[Lab Discussion 5 - Workout Sheet (towards Midterm Prep)](../documents/teaching/uci/cs261p/spring2020/lab-discussions/worksheet-questions.pdf)
+<br>Material based on slides by Prof. Kevin Wortman and Prof. Michael Dillencourt
 <br><small><font color="gray">April 28, 2020</font></small> 
 <br><small><a target="blank" href="https://uci.yuja.com/V/Video?v=1078393&node=4086687&a=2099851666&autoplay=1"><i class="fa fa-play-circle" style="font-size:18px"></i></a><font color="gray"> (32:17)</font> </small>
+<br><small><a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/worksheet-questions-and-solutions.pdf"><i class="fa fa-file-pdf-o" style="font-size:18px"></i></a>
+ <a target="blank" href="../documents/teaching/uci/cs261p/spring2020/lab-discussions/worksheet-questions-and-solutions.pdf">Solutions</a></small>
 
 Lab Discussion 6 - Bloom Filter Review, Extra-credit activity on Mining Repositories implementing Bloom Filter 
 <br><small><font color="gray">May 5, 2020</font></small> 
