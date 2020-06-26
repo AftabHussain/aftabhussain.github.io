@@ -200,7 +200,24 @@ ____________
 
 <small><font color="3F5E8C"><b>Software Engineering Management<b>
 
-<small>[Process Theories and Taxonomies in Software Engineering](/documents/pubs/misc-report20-swe-proc-theories-taxonomies.pdf) 
+<small>[Process Theories and Taxonomies in Software Engineering](/documents/pubs/misc-art20-swe-proc-theories-taxonomies.pdf) 
 <br> Aftab Hussain
 <br> <font color="gray"> University of California, Irvine
 <br> February 2, 2020
+
+<small><font color="3F5E8C"><b>Education<b>
+
+<small>[Instructional Technology: Article Analysis](/documents/pubs/misc-art20-instructional-tech-analysis.pdf) 
+<br> Aftab Hussain
+<br> <font color="gray"> University of California, Irvine
+<br> June 9, 2020
+
+<small>[Collaborative Learning: Article Analysis](/documents/pubs/misc-art20-collab-learning-analysis.pdf) 
+<br> Aftab Hussain
+<br> <font color="gray"> University of California, Irvine
+<br> June 9, 2020
+
+<small>[How People Learn: Articles Analyses](/documents/pubs/misc-art20-learning-analysis.pdf) 
+<br> Aftab Hussain
+<br> <font color="gray"> University of California, Irvine
+<br> June 3, 2020
