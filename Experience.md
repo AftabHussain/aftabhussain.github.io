@@ -35,11 +35,15 @@ title: Experience
 _____________
 
 # Education <a href="#top">⬆</a> {#edu}
+**Doctoral Study in Computer Science** 
+<br>Department of Computer Science
+<br>University of Houston 
+<br> <font color="gray">2020 to present
 
 **Doctoral Study in Computer Science (Completed PhD Candidacy)** 
 <br>Department of Computer Science
 <br>University of California, Irvine 
-<br> <font color="gray">2015 to present
+<br> <font color="gray">2015 to 2020
 
 **M.S. in Software Engineering** 
 <br>Department of Informatics
@@ -63,9 +67,16 @@ _____________
 # Research <a href="#top">⬆</a> {#rsrch}
 
 **Graduate Researcher** 
+<br>Department of Computer Science
+<br>University of Houston 
+<br> <font color="gray">2020 to present
+<br> <small>Lab: 
+<br>Software Engineering Research Group</small>
+
+**Graduate Researcher** 
 <br>Bren School of Information and
 Computer Sciences<br>University of California, Irvine 
-<br> <font color="gray">2013 to present
+<br> <font color="gray">2013 to 2020
 <br> <small>Labs: 
 <br>Mars Systems 
 <br>Programming Languages and Systems Group 
@@ -91,7 +102,7 @@ _____________
 **Teaching Assistant**
 <br>Bren School of Information and Computer Sciences
 <br>University of California, Irvine
-<br> <font color="gray">2014 to present</font>
+<br> <font color="gray">2014 to 2020</font>
 
 <style>
   hr.special{
