@@ -80,6 +80,11 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 
 <small><b>(Various other research talks)
 
+<small><font color="3F5E8C"><b>Security<b>
+
+<small>Shielding Applications from an Untrusted Cloud with Haven by Andrew Baumann et al. from Microsoft Research
+<br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, 2016
+
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
 <small>Naiad: A Timely Dataflow System by Derek G. Murray et al. from Microsoft Research
