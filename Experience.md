@@ -120,6 +120,8 @@ _____________
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs261p">Data Structures</a> <br>Master's of Computer Science Program<br> Spring 2020</small></p>
   </div>
   <div class="column" >
+<small><i class="fa fa-laptop" style="font-size:15px"></i>&nbsp; Conducted a live group coding activity session towards implementing data structures using Zoom Breakrooms.</small>
+<br><small><i class="fa fa-pencil" style="font-size:15px"></i>&nbsp; Designed and conducted a timed workout group activity, consisting of course exam-style questions, to help students with midterm preparation.</small>
   </div>
 </div>
 
