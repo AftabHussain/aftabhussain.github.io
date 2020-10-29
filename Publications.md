@@ -82,7 +82,7 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 
 <small><font color="3F5E8C"><b>Fuzzing<b>
 
-<small> GRIMOIRE: Synthesizing Structure while Fuzzing by Tim Blazytko (Ruhr-Universität Bochum)
+<small> GRIMOIRE: Synthesizing Structure while Fuzzing by Tim Blazytko et al. (Ruhr-Universität Bochum)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, 2020
 
 <small><font color="3F5E8C"><b>Testing Autonomous Systems<b>
