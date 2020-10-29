@@ -2,7 +2,15 @@
 layout: page
 title: Teaching
 ---
-<br>I have worked as a Teaching Assistant (TA) for the following courses at the University of California, Irvine (UCI):
+<center><small><b><font color="gray">UNIVERSITY OF HOUSTON (UH)</font></b></small></center>
+<br>I am working as a Teaching Assistant (TA) for the following course at UH:
+<br><br><a name="cosc4353-entry"></a>[COSC4353 Software Design](#cosc4353) (Undergrad)  
+<small><font color="gray">Fall 2020</font></small> 
+
+____________
+
+<center><small><b><font color="gray">UNIVERSITY OF CALIFORNIA, IRVINE (UCI)</font></b></small></center>
+<br>I have worked as a Teaching Assistant (TA) for the following courses at UCI:
 <br><br><a name="cs261p-entry"></a>[CS261P Data Structures](#cs261p) (Grad)  
 <small><font color="gray">Spring 2020</font></small> 
 <br><small><a href="#cs261p-spring20-files"><i class="fa fa-folder" style="font-size:18px"></i></a> [Lab Discussion Classes and Shared Material](#cs261p-spring20-files)</small>
@@ -36,6 +44,18 @@ title: Teaching
 
 ____________
 
+## <a name="cosc4353"></a><b>Software Design <font color="gray" family="JuneBug"><small>UH, COSC 4353 (Undergrad)</small></font><a href="#cosc4353-entry">⬆</a>  
+
+The **course teaches** object-oriented design principles, applying design patterns in software development, unit testing, evaluation of software systems, and software engineering tools that improve developer productivity. I am currently working as a TA for this course in **Fall 2020** with Prof. Mohammad Amin Alipour.
+
+[**Course page**](https://piazza.com/uh/fall2020/cosc4353/resources)
+
+ **Office Hours**: 
+<br>Fridays, 5.30pm to 7.30pm (Central Time), online via Microsoft Teams
+
+
+________________________________
+
 ## <a name="cs261p"></a><b>Data Structures <font color="gray" family="JuneBug"><small>UCI, CS261P (Grad)</small></font><a href="#cs261p-entry">⬆</a>  
 
 The **course teaches** data structures and their associated management algorithms, including their applications and analysis. I worked as a TA for this course in **Spring 2020** with [Prof. Kevin Wortman](https://www.linkedin.com/in/kevin-wortman-38a69a23/).
@@ -43,7 +63,7 @@ The **course teaches** data structures and their associated management algorithm
 [**Course page**](https://canvas.eee.uci.edu/courses/26140)
 
  **Lab discussion class time and place**: 
-<br>Tuesdays, 8pm to 8.50pm, online via Zoom
+<br>Tuesdays, 8pm to 8.50pm (Pacific Time), online via Zoom
 
 
 ________________________________
