@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Publications
+title: Publications and Talks
 ---
 
 [Conference and Workshop Papers](#papers) 
-<br>[Presentations](#presentations)
 <br>[Posters](#posters)
 <br>[Master's Thesis](#masters-thesis)
 <br>[Technical Reports](#tech-reports)
 <br>[Technical Articles](#tech-articles)
+<br>[Talks](#presentations)
 
 ____________
 
@@ -56,9 +56,9 @@ Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font 
 
 ____________
 
-## Presentations <a href="#top">⬆</a>  {#presentations}
+## Talks <a href="#top">⬆</a>  {#presentations}
 
-<small><b>(Talks at conferences and workshops)
+<small><b>(At conferences and workshops)
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
@@ -78,11 +78,21 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 
 <small>[Open Problems in Graph Drawing](/documents/pubs/gdga13-open-problems-presentation.pdf)<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
-<small><b>(Various other research talks)
+<small><b>(Various academic presentations)
+
+<small><font color="3F5E8C"><b>Fuzzing<b>
+
+<small> GRIMOIRE: Synthesizing Structure while Fuzzing by Tim Blazytko (Ruhr-Universität Bochum)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, 2020
+
+<small><font color="3F5E8C"><b>Testing Autonomous Systems<b>
+
+<small> Generating Avoidable Collision Scenarios for Testing Autonomous Driving Systems by Allesandro Calo et al. (Technical University of Munich, National Institute of Informatics, Simula Research Laboratory)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, 2020
 
 <small><font color="3F5E8C"><b>Security<b>
 
-<small>Shielding Applications from an Untrusted Cloud with Haven by Andrew Baumann et al. from Microsoft Research
+<small>Shielding Applications from an Untrusted Cloud with Haven by Andrew Baumann et al. (Microsoft Research)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, 2016
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
