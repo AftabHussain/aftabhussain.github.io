@@ -6,6 +6,12 @@ title: Experience
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  hr.special{
+    padding: 0px;
+    margin: 0px;    
+  }
+</style>
+<style>
 * {
   box-sizing: border-box;
 }
@@ -100,16 +106,15 @@ _____________
 # Teaching <a href="#top">⬆</a> {#teach}
 <br>
 **Teaching Assistant**
+<br>Department of Computer Science
+<br>University of Houston
+<br> <font color="gray">2020 to present</font>
+<br>
+<br>**Teaching Assistant**
 <br>Bren School of Information and Computer Sciences
 <br>University of California, Irvine
 <br> <font color="gray">2014 to 2020</font>
 
-<style>
-  hr.special{
-    padding: 0px;
-    margin: 0px;    
-  }
-</style>
 
 <hr class="special">
 
