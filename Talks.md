@@ -34,6 +34,9 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 
 <small>[Open Problems in Graph Drawing](/documents/pubs/gdga13-open-problems-presentation.pdf)<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
+____________
+
+
 ## Various Talks in Academia <a href="#top">⬆</a>  {#acad-talks}
 
 <small><font color="3F5E8C"><b>Fuzzing<b>
