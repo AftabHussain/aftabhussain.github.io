@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 ---
+____________
 <center><small><b><font color="gray">UNIVERSITY OF HOUSTON (UH)</font></b></small></center>
 <br>I am working as a Teaching Assistant (TA) for the following course at UH:
 <br><br><a name="cosc4353-entry"></a>[COSC4353 Software Design](#cosc4353) (Undergrad)  
