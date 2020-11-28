@@ -41,12 +41,12 @@ Software Repositories (MSR '16), Austin, Texas, 2016
 
 <small><font color="3F5E8C"><b>Software Restructuring<b>
 
-<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
-
 <small>[A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level](https://dl.acm.org/citation.cfm?id=2442761) [[paper](/documents/pubs/isec13-soft-clustering.pdf)] <br> Aftab
 Hussain and Md. Saidur Rahman <br><font color="gray">6th India Software Engineering Conference,
 New Delhi, India, 2013
+
+<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
