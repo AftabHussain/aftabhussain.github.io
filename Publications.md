@@ -39,7 +39,7 @@ snippets](https://dl.acm.org/citation.cfm?id=2901767) [[paper](https://arxiv.org
 Hussain, Cristina Videira Lopes <br><font color="gray">13th International Conference on Mining
 Software Repositories (MSR '16), Austin, Texas, 2016
 
-<small><font color="3F5E8C"><b>Software Clustering<b>
+<small><font color="3F5E8C"><b>Software Restructuring<b>
 
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
