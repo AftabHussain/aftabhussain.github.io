@@ -48,6 +48,9 @@ ____________
 
 <small><font color="3F5E8C"><b>Fuzzing<b>
 
+<small> Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing by Stefan Nagy and Matthew Hicks (Virginia Tech), [IEEE Security & Privacy '19](https://ieeexplore.ieee.org/document/8835316)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, December 2020
+
 <small> GRIMOIRE: Synthesizing Structure while Fuzzing by Tim Blazytko et al. (Ruhr-Universität Bochum), [USENIX Security '19](https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, October 2020
 
