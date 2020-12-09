@@ -59,15 +59,18 @@ ____________
 <small>[Generating Avoidable Collision Scenarios for Testing Autonomous Driving Systems, Allesandro Calo et al. (Technical University of Munich, National Institute of Informatics, Simula Research Laboratory), ICST '20](https://icst2020.info/details/icst-2020-Industry/5/Generating-Avoidable-Collision-Scenarios-for-Testing-Autonomous-Driving-Systems)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, September 2020
 
+<small><font color="3F5E8C"><b>Big Data Systems<b>
+
+<small>[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems](https://dl.acm.org/doi/10.1145/3093336.3037744)
+<br><font color="gray"> Guest Lecture, CS201P Computer Security Class, University of California, Irvine, February 2020
+
+<small>[Naiad: A Timely Dataflow System, Derek G. Murray et al. (Microsoft Research), SOSP '13](https://dl.acm.org/doi/10.1145/2517349.2522738)
+<br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, December 2015
+
 <small><font color="3F5E8C"><b>Security<b>
 
 <small>[Shielding Applications from an Untrusted Cloud with Haven, Andrew Baumann et al. (Microsoft Research), OSDI '14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/baumann)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, February 2016
-
-<small><font color="3F5E8C"><b>Big Data Systems<b>
-
-<small>[Naiad: A Timely Dataflow System, Derek G. Murray et al. (Microsoft Research), SOSP '13](https://dl.acm.org/doi/10.1145/2517349.2522738)
-<br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, December 2015
 
 <small><font color="3F5E8C"><b>Program Synthesis<b>
 
