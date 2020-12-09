@@ -61,7 +61,7 @@ ____________
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
-<small>[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems](https://dl.acm.org/doi/10.1145/3093336.3037744)
+<small>[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems, ASPLOS '17](https://dl.acm.org/doi/10.1145/3093336.3037744)
 <br><font color="gray"> Guest Lecture, CS201P Computer Security Class, University of California, Irvine, February 2020
 
 <small>[Naiad: A Timely Dataflow System, Derek G. Murray et al. (Microsoft Research), SOSP '13](https://dl.acm.org/doi/10.1145/2517349.2522738)
