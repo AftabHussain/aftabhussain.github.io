@@ -41,23 +41,22 @@ ____________
 
 <small><i>Includes talks I gave on my research projects and on papers by other researchers</i></small>
 
-<small><font color="3F5E8C"><b>Fuzzing<b>
+<small><font color="3F5E8C"><b>Software Testing<b>
 
 <small>[Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing, Stefan Nagy and Matthew Hicks (Virginia Tech), IEEE Security & Privacy '19](https://ieeexplore.ieee.org/document/8835316)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, December 2020
 
-<small>[GRIMOIRE: Synthesizing Structure while Fuzzing, Tim Blazytko et al. (Ruhr-Universität Bochum), USENIX Security '19](https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko)
-<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, October 2020
-
-<small><font color="3F5E8C"><b>Test-case Reduction<b>
-
 <small>[Test-Case Reduction via Test-Case Generation: Insights From the Hypothesis Reducer, David R. MacIver and Alastair F. Donaldson (Imperial College London), ECOOP '20](https://2020.ecoop.org/details/ecoop-2020-papers/13/Test-Case-Reduction-via-Test-Case-Generation-Insights-From-the-Hypothesis-Reducer)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, November 2020
 
-<small><font color="3F5E8C"><b>Testing Autonomous Systems<b>
+<small>[GRIMOIRE: Synthesizing Structure while Fuzzing, Tim Blazytko et al. (Ruhr-Universität Bochum), USENIX Security '19](https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, October 2020
 
 <small>[Generating Avoidable Collision Scenarios for Testing Autonomous Driving Systems, Allesandro Calo et al. (Technical University of Munich, National Institute of Informatics, Simula Research Laboratory), ICST '20](https://icst2020.info/details/icst-2020-Industry/5/Generating-Avoidable-Collision-Scenarios-for-Testing-Autonomous-Driving-Systems)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, September 2020
+
+<small>[DART: directed automated random testing, Patrice Godefroid et al. (Bell Labs, Lucent Technologies, University of Illinois at Urbana-Champaign), PLDI '05](https://dl.acm.org/doi/10.1145/1064978.1065036)
+<br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, August 2016
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
