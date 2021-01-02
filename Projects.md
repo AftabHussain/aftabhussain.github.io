@@ -6,7 +6,7 @@ title: Projects
 ## <font color="3F5E8C"> <b>Software Testing<b>
 
 ## [Enhancing fuzzing for better bug detection and triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
- <small><br> <font color="gray">University of Houston <br> 2020 to present</font> 
+(Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2020 to present</font> 
 <br>
 
 ## <font color="3F5E8C"> <b>Security<b>
