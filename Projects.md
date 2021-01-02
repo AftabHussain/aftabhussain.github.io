@@ -9,6 +9,9 @@ title: Projects
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2020 to present</font> 
 <br>
 
+
+_____________
+
 ## <font color="3F5E8C"> <b>Security<b>
 
 ## [Glue code generation for Linux kernel security](../project-glue-gen/index.html) {#glue-gen-menu}
