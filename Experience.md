@@ -109,8 +109,28 @@ _____________
 <br>Department of Computer Science
 <br>University of Houston
 <br> <font color="gray">2020 to present</font>
-<br>
-<br>**Teaching Assistant**
+
+<hr class="special">
+
+<div class="row">
+<center><small><b><font color="gray">Courses</font></b></small></center>
+<hr class="special">
+  <div class="column">
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cosc4353">Software Design</a> 
+    <br> Fall 2020</small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-laptop" style="font-size:15px"></i>&nbsp; 
+Conducted and reviewed demos of group projects on the development of different
+phases of a task management system. Gave advice on functionality requirements
+and coding principles around style, efficiency, and security. 
+</small>
+  </div>
+</div>
+
+<hr>
+
+**Teaching Assistant**
 <br>Bren School of Information and Computer Sciences
 <br>University of California, Irvine
 <br> <font color="gray">2014 to 2020</font>
