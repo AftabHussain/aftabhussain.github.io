@@ -6,7 +6,7 @@ ____________
 <center><small><b><font color="gray">UNIVERSITY OF HOUSTON (UH)</font></b></small></center>
 <br>I have worked as a Teaching Assistant (TA) for the following course at UH:
 <br><br><a name="cosc3360-entry"></a>[COSC3360 Operating Systems](#cosc3360) (Undergrad) (Current) 
-<small><font color="gray">Winter 2021</font></small> 
+<br><small><font color="gray">Winter 2021</font></small> 
 <br><br><a name="cosc4353-entry"></a>[COSC4353 Software Design](#cosc4353) (Undergrad)  
 <small><font color="gray">Fall 2020</font></small> 
 
