@@ -46,11 +46,6 @@ _____________
 <br>University of Houston 
 <br> <font color="gray">2020 to present
 
-**Doctoral Study in Computer Science (Completed PhD Candidacy)** 
-<br>Department of Computer Science
-<br>University of California, Irvine 
-<br> <font color="gray">2015 to 2020
-
 **M.S. in Software Engineering** 
 <br>Department of Informatics
 <br>University of California, Irvine 
