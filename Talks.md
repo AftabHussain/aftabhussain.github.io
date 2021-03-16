@@ -43,6 +43,15 @@ ____________
 
 <small><font color="3F5E8C"><b>Software Testing<b>
 
+<small>[Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code, Fraser Brown et al. (Stanford University, University of California at San Diego), USENIX Security '20](https://www.usenix.org/conference/usenixsecurity20/presentation/brown)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, March 2021
+
+<small>[FuzzFactory: Domain-Specific Fuzzing with Waypoints, Rohan Padhye et al. (University of California at Berkeley, Samsung Research), OOPSLA '19](https://dl.acm.org/doi/10.1145/3360600)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, February 2021
+
+<small>[MOPT: Optimized Mutation Scheduling for Fuzzers, Chenyang Lyu et al. (Zhejiang University, Alibaba-Zhejiang University Joint Research Institute of Frontier Technologies, BNRist & INSC, Tsinghua University, IBM Research, Georgia Institute of Technology), USENIX Security '19](https://www.usenix.org/conference/usenixsecurity19/presentation/lyu)
+<br><font color="gray"> Software Engineering Research Group Meet, University of Houston, January 2021
+
 <small>[Full-Speed Fuzzing: Reducing Fuzzing Overhead through Coverage-Guided Tracing, Stefan Nagy and Matthew Hicks (Virginia Tech), IEEE Security & Privacy '19](https://ieeexplore.ieee.org/document/8835316)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, December 2020
 
