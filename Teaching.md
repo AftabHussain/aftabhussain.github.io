@@ -6,7 +6,7 @@ ____________
 <center><small><b><font color="gray">UNIVERSITY OF HOUSTON (UH)</font></b></small></center>
 <br>I have worked as a Teaching Assistant (TA) for the following courses at UH:
 <br><br><a name="cosc3360-entry"></a>[COSC3360 Operating Systems](#cosc3360) (Undergrad) (Current) 
-<br><small><font color="gray">Winter 2021</font></small> 
+<br><small><font color="gray">Spring 2021</font></small> 
 <br><br><a name="cosc4353-entry"></a>[COSC4353 Software Design](#cosc4353) (Undergrad)  
 <small><font color="gray">Fall 2020</font></small> 
 
@@ -52,7 +52,7 @@ ____________
 The **course teaches** object-oriented design principles, applying design
 patterns in software development, unit testing, evaluation of software systems,
 and software engineering tools that improve developer productivity. I am
-currently working as a TA for this course in **Winter 2021** with Prof.
+currently working as a TA for this course in **Spring 2021** with Prof.
 Jehan-François Pâris.
 
 [**Course page**](http://www2.cs.uh.edu/~paris/3360/resources.html)
