@@ -85,10 +85,6 @@ ____________
 
 <small><font color="3F5E8C"><b>Security<b>
 
-<small><font color="#3F5E8C">Common Vulnerabilities and Exposures in the Cloud</font> <br>Aftab
-Hussain and Anton Burtsev <br><font color="gray">Department of Computer Science, University of
-California, Irvine, 2018 (under preparation) 
-
 <small>[An Implementation Overview of an IDL Generation Framework Based on
 DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
 Narayanan, Anton Burtsev <br><font color="gray">Department of Computer Science, University of
