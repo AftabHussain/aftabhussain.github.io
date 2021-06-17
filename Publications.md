@@ -83,11 +83,15 @@ ____________
 
 ## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
 
+<small><font color="3F5E8C"><b>Code Intelligence Systems<b>
+
+<small>[Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/abs/2106.08704)<br> Md Rafiqul Islam Rabin<sup>1</sup>, Aftab Hussain<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Mohammad Amin Alipour<sup>1</sup><br><font color="gray">University of Houston<sup>1</sup>, Carnegie Mellon University<sup>2</sup>, 2021 
+
 <small><font color="3F5E8C"><b>Security<b>
 
 <small>[An Implementation Overview of an IDL Generation Framework Based on
 DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
-Narayanan, Anton Burtsev <br><font color="gray">Department of Computer Science, University of
+Narayanan, Anton Burtsev <br><font color="gray">University of
 California, Irvine, 2018 
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
@@ -96,51 +100,47 @@ California, Irvine, 2018
 
 <small>[GraphDTC: A Graph Processing System for Scalable and Precise
 Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf)<br>Aftab
-Hussain and Guoqing Xu <br><font color="gray">Department of Computer Science, University
+Hussain and Guoqing Xu <br><font color="gray">University
 of California, Irvine, 2015
 
 <small><font color="3F5E8C"><b>Shared Memory Systems<b>
 
 <small><font color="#3F5E8C">A Study on Memory Consistency Approaches in Distributed Shared
-Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><font color="gray">Department of
-Computer Science, University of California, Irvine, 2016
+Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><font color="gray">University of California, Irvine, 2016
 
 
 <small><font color="3F5E8C"><b>Requirements Engineering<b>
 
 <small>[A Holistic Look at Requirements Engineering Practices in the
-Gaming Industry](/documents/pubs/tech-report15-re-gaming.pdf)<br>Aftab
-Hussain, Omar Asadi, Debra Richardson <br><font color="gray"> Department of Informatics,
-University of California, Irvine, 2015
+Gaming Industry](https://arxiv.org/abs/1811.03482)<br>Aftab
+Hussain, Omar Asadi, Debra Richardson <br><font color="gray">University of California, Irvine, 2018
 
 <small>[Euro Truck Simulator 2: Reverse Engineered Requirements
 Document](/documents/pubs/tech-report15-re-eurotruck.pdf)<br>Omar Asadi and
-Aftab Hussain <br><font color="gray"> Department of Informatics, University of California,
+Aftab Hussain <br><font color="gray">University of California,
 Irvine, 2015
 
 <small><font color="3F5E8C"><b>Code Cloning<b>
 
 <small>[Instant Clone Finder: Detecting Clones During Software
 Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
-Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><font color="gray"> Department
-of Informatics, University of California, Irvine, 2015
+Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><font color="gray">University of California, Irvine, 2015
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/tech-report14-fitt.pdf)
 [[slides](/documents/pubs/presentation14-fitt.pdf)] [[architecture](/documents/pubs/presentation14-fitt-arch-design.pdf)]<br>Vaibhav
-Saini, Aftab Hussain<br><font color="gray"> Department of Informatics, University of
+Saini, Aftab Hussain<br><font color="gray">University of
 California, Irvine, 2014
 
 <small><font color="3F5E8C"><b>Mining Software Repositories<b>
 
 <small>[Analyzing StackOverflow Response Time for Java Topics using Code
 Clustering](/documents/pubs/tech-report14-sof-resp-time.pdf) <br> Rezvan
-Ghaderi, Shahrzad Ahmadpour, Aftab Hussain<br><font color="gray"> Department of Informatics,
-University of California, Irvine, 2014
+Ghaderi, Shahrzad Ahmadpour, Aftab Hussain<br><font color="gray">University of California, Irvine, 2014
 
 <small>[Effect of Follow and Watch Relationships in Pull Requests (in
 Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
-Hussain, Cristina Videira Lopes<br><font color="gray">Department of Informatics, University
+Hussain, Cristina Videira Lopes<br><font color="gray">University
 of California, Irvine, 2014
 
 ____________
