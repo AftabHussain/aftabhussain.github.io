@@ -37,6 +37,7 @@ title: Experience
 <br>[Research](#rsrch) 
 <br>[Teaching](#teach)
 <br>[Industry](#industry)
+<br>[Voluntary](#vol)
 
 _____________
 
@@ -245,12 +246,24 @@ _____________
 
 # Industry <a href="#top">⬆</a> {#industry}
 
- **Software Engineering Intern** -- 2010<br>NextTel Communiction, Dhaka, Bangladesh
+ **Software Engineering Intern** <br>NextTel Communiction, Dhaka, Bangladesh
 <br> <small>Project: GUI design of a pharmaceutical mobile application using J2ME</small>
+<br> <font color="gray">2010
 											
- **Software Engineering Trainee** -- 2008<br>CMC Kolkata (A TATA Enterprise), Kolkata, India
+ **Software Engineering Trainee** <br>CMC Kolkata (A TATA Enterprise), Kolkata, India
 <br><small> Project: Design of hospital database management system using VB.Net</small>
+<br> <font color="gray">2008
+
+_____________
 
 
+# Voluntary Roles <a href="#top">⬆</a> {#vol}
+
+**Program Committee Member, Artifact Evaluation Committee** 
+<br>ACM OOPSLA 2021 
+<br>Chicago, Illinois
+<br> <font color="gray">June 2021 to present
+
+<i>Previous roles: <a href="https://www.linkedin.com/in/hussainaftab/">https://www.linkedin.com/in/hussainaftab/</a></i>
 
 
