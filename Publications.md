@@ -4,6 +4,7 @@ title: Publications
 ---
 
 [Conference and Workshop Papers](#papers) 
+<br>[Journal Publication](#journal)
 <br>[Posters](#posters)
 <br>[Master's Thesis](#masters-thesis)
 <br>[Technical Reports](#tech-reports)
@@ -57,6 +58,19 @@ Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font 
 
 ____________
 
+## Journal Publication <a href="#top">⬆</a> {#journal}
+
+<small><font color="3F5E8C"><b>Big Data Systems<b>
+
+<small>[Systemizing Interprocedural Static Analysis of Large-scale Systems
+Code with Graspan](https://dl.acm.org/doi/abs/10.1145/3466820)
+<br> Zhiqiang Zuo, Kai Wang, Aftab Hussain, Ardalan Amiri Sani, Yiyu Zhang,
+Shenming Lu, Wensheng Dou, Linzhang Wang, Xuandong Li, Chenxi Wang, Guoqing
+Harry Xu
+<br><font color="gray"> ACM Transactions on Computer Systems, 38 (1–2), Article 4, July 2021
+
+
+____________
 
 ## Posters <a href="#top">⬆</a>  {#posters}
 
