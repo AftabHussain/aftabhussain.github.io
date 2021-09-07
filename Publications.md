@@ -15,8 +15,7 @@ ____________
 ____________
 
 
-## Conference and Workshop Papers 
-<!-- <a href="#top">⬆</a> {#papers}  -->
+## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
 <small><font color="3F5E8C"><b>Kernel Security<b>
 
