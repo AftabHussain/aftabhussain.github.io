@@ -105,6 +105,10 @@ ____________
 
 <small><font color="3F5E8C"><b>Security<b>
 
+<small>[Common Vulnerabilities and Exposures in the
+Cloud](/documents/pubs/tech-report20-cve.pdf)<br> Aftab Hussain, Anton Burtsev
+<br><font color="gray">University of California, Irvine, 2020 
+
 <small>[An Implementation Overview of an IDL Generation Framework Based on
 DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
 Narayanan, Anton Burtsev <br><font color="gray">University of
