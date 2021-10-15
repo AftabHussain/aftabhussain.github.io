@@ -57,7 +57,7 @@ a{
 	word-wrap: break-word;
 }
 
-.break-out {
+.dont-break-out {
 
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
@@ -69,11 +69,17 @@ a{
   /* Instead use this non-standard one: */
   word-break: break-word;
 
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 
 }
 
 .verticalLine {
   border-left: thick solid #DDEFFC;
+  /* These are technically the same, but use both */
   overflow-wrap: break-word;
   word-wrap: break-word;
 
@@ -82,6 +88,12 @@ a{
   word-break: break-all;
   /* Instead use this non-standard one: */
   word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 /* width */
@@ -107,7 +119,7 @@ a{
 
 <small>
 
-<div class="verticalLine break-out">
+<div class="verticalLine dont-break-out">
 <span style="font-size:10pt;display:inline-block;margin-left:10px">
 Strategic Considerations When Outsourcing Your Software Development, CrunchBase
 <a 
