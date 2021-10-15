@@ -38,6 +38,14 @@ href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p>
 		}
 	  </style>
 
+    <!--https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file-->
+    <script src="/jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("posts.html"); 
+    });
+    </script>
+
 </head>
 <body>
 <h1>Thank you for visiting!</h1>
@@ -77,74 +85,7 @@ href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p>
 </style>
 
 <small>
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Strategic Considerations When Outsourcing Your Software Development, CrunchBase
-<a 
-href=
-"https://news.crunchbase.com/news/strategic-considerations-when-outsourcing-your-software-development/"
-target="_blank">
-https://news.crunchbase.com/news/strategic-considerations-when-outsourcing-your-software-development/
-</a>
-<br><span style="color:gray;font-size:9pt">
-Fri, 15 Oct 2021
-</span>
-</span>
-</div>
-
-<br>
-
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Microsoft Research Summit: 
-<a 
-href=
-"https://researchsummit.microsoft.com/home_public/?OCID=msr_researchsummit_webpage_LI_AD1_Generic" 
-target="_blank">
-https://researchsummit.microsoft.com/home_public/?OCID=msr_researchsummit_webpage_LI_AD1_Generic 
-</a>
-<br><span style="color:gray;font-size:9pt">
-Wed, 13 Oct 2021
-</span>
-</span>
-</div>
-
-<br>
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-CISQ 9th Annual Cyber Resilience Summit:
-<a 
-href=
-"https://www.it-cisq.org/cyber-resilience-summit-2021/index.htm"
-target="_blank">https://www.it-cisq.org/cyber-resilience-summit-2021/index.htm
-</a>
-<br>- Publicly Available Standards: <a href="https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html">https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html</a>
-<br><span style="color:gray;font-size:9pt">
-Tue, 12 Oct 2021
-<br>
-</span>
-</span>
-</div>
-
-<br>
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Google Systems Innovation Summit 2021: 
-<a 
-href=
-"https://events.withgoogle.com/google-systems-innovation-summit-2021/#content"
-target="_blank">
-https://events.withgoogle.com/google-systems-innovation-summit-2021/#content
-</a>
-<br><span style="color:gray;font-size:9pt">
-Fri, 8 Oct 2021
-</span>
-</span>
-</div>
+<div id="includedContent"></div>
 
 
 </small>
