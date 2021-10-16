@@ -17,15 +17,12 @@ at UH.
 about my projects and experiences.</b></p> 
 
 	
-<!--
-	<p>Currently, I am working in a project on <a
+<!-- <p>Currently, I am working in a project on <a
 href="http://www.cs.utah.edu/~aburtsev/lcd-doc/index.php?n=SourceDoc.KeyConcepts">Light-weight
-Capability Domains (LCDs) in the Linux Kernel</a> at the MARS Systems
-Research Group with <a target="_blank"
-href="https://www.ics.uci.edu/~aburtsev/"> Professor Anton Burtsev</a>. I
-am also serving as a TA for the graduate course, <a
-href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p>
---!>	
+Capability Domains (LCDs) in the Linux Kernel</a> at the MARS Systems Research
+Group with <a target="_blank" href="https://www.ics.uci.edu/~aburtsev/">
+Professor Anton Burtsev</a>. I am also serving as a TA for the graduate course,
+<a href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p> --!>	
 
 
 </div>
@@ -34,15 +31,24 @@ href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p>
 		@font-face { font-family: JuneBug; src: url('youtherdemo.ttf'); } 
 		h1 {
 		   font-family: JuneBug;
-       font-size: 150%;
+                   font-size: 150%;
 		}
 	  </style>
 
+    <!--Reference: https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file-->
+    <script src="/jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("posts.html"); 
+    });
+    </script>
 
 </head>
 <body>
 <h1>Thank you for visiting!</h1>
+
 <hr>
+
 <div style="height:175px;overflow:auto;">
 
 <!--Source References-->
@@ -52,30 +58,6 @@ href="../Teaching/index.html#cs238p">CS 238P Operating Systems.</a></p>
 <!--https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/-->
 <meta name="viewport" content="width=device-width, initial-scale=1, overflow-x=hidden">
 <style>
-
-a{
-	word-wrap: break-word;
-}
-
-.dont-break-out {
-
-  /* These are technically the same, but use both */
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-
-  -ms-word-break: break-all;
-  /* This is the dangerous one in WebKit, as it breaks things wherever */
-  word-break: break-all;
-  /* Instead use this non-standard one: */
-  word-break: break-word;
-
-  /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-
-}
 
 .verticalLine {
   border-left: thick solid #DDEFFC;
@@ -119,77 +101,9 @@ a{
 
 <small>
 
-<div class="verticalLine dont-break-out">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Strategic Considerations When Outsourcing Your Software Development, CrunchBase
-<a 
-href=
-"https://news.crunchbase.com/news/strategic-considerations-when-outsourcing-your-software-development/"
-target="_blank">
-https://news.crunchbase.com/news/strategic-considerations-when-outsourcing-your-software-development/
-</a>
-<br><span style="color:gray;font-size:9pt">
-Fri, 15 Oct 2021
-</span>
-</span>
-</div>
-
-<br>
-
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Microsoft Research Summit: 
-<a 
-href=
-"https://researchsummit.microsoft.com/home_public/?OCID=msr_researchsummit_webpage_LI_AD1_Generic" 
-target="_blank">
-https://researchsummit.microsoft.com/home_public/?OCID=msr_researchsummit_webpage_LI_AD1_Generic 
-</a>
-<br><span style="color:gray;font-size:9pt">
-Wed, 13 Oct 2021
-</span>
-</span>
-</div>
-
-<br>
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-CISQ 9th Annual Cyber Resilience Summit:
-<a 
-href=
-"https://www.it-cisq.org/cyber-resilience-summit-2021/index.htm"
-target="_blank">https://www.it-cisq.org/cyber-resilience-summit-2021/index.htm
-</a>
-<br>- Publicly Available Standards: <a href="https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html">https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html</a>
-<br><span style="color:gray;font-size:9pt">
-Tue, 12 Oct 2021
-<br>
-</span>
-</span>
-</div>
-
-<br>
-
-<div class="verticalLine">
-<span style="font-size:10pt;display:inline-block;margin-left:10px">
-Google Systems Innovation Summit 2021: 
-<a 
-href=
-"https://events.withgoogle.com/google-systems-innovation-summit-2021/#content"
-target="_blank">
-https://events.withgoogle.com/google-systems-innovation-summit-2021/#content
-</a>
-<br><span style="color:gray;font-size:9pt">
-Fri, 8 Oct 2021
-</span>
-</span>
-</div>
-
+<div id="includedContent"></div>
 
 </small>
-
 
 
 </div>
@@ -210,9 +124,11 @@ Fri, 8 Oct 2021
     <br></small>
     <!-- <br>
     <i class="fa fa-envelope" style="font-size:30px"></i>
-	<br> -->
+	<br -->
 	<br>
-    <small>[first name][dot][last name][the number four][the number six]@gmail.com
+<div style="line-height:1">
+    <span style="color:gray;font-size:9pt">
+[first name][dot][last name][the number four][the number six]@gmail.com
     <br>University of Houston
     <br>College of Natural Sciences and Mathematics
     <br>Science and Research Building 1
@@ -221,8 +137,11 @@ Fri, 8 Oct 2021
     <!-- http://jpswalsh.github.io/academicons/ for fa icons  -->
     <br>
     <br>
+</span>
+</div>
 
-<p style="color:gray"><small><i>Webpage theme adapted from https://jekyllthemes.io/theme/ed</i></small></p>
+
+<p style="color:gray;font-size:8pt;"><small>Theme based on <a href="https://jekyllthemes.io/theme/ed" target="_blank">Ed</a></small></p>
 
   </div>
 </div>
