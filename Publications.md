@@ -176,7 +176,7 @@ ____________
 
 <small><font color="3F5E8C"><b>Education Sciences<b>
 
-<small>[Instructional Technology: Article Analysis](/documents/pubs/misc-art20-instructional-tech-analysis.pdf) 
+<small>[Instructional Technology: Article Analysis -- Using Social Media for Classroom Peer Assessment and Teaching](/documents/pubs/misc-art20-instructional-tech-analysis.pdf) 
 <br> Aftab Hussain
 <br> <font color="gray"> University of California, Irvine
 <br> June 9, 2020
