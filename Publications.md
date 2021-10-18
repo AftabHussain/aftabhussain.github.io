@@ -163,6 +163,10 @@ Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
 Hussain, Cristina Videira Lopes<br><font color="gray">University
 of California, Irvine, 2014
 
+<small><font color="3F5E8C"><b>Graph Drawing<b>
+
+<small>[Edge Crossing Minimization in Graphs - A Survey](/documents/pubs/tech-report10-cross-min.pdf) <br>Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Bangladesh University of Engineering and Technology, 2010
+
 ____________
 
 ## Technical Articles <a href="#top">⬆</a>  {#tech-articles}	
