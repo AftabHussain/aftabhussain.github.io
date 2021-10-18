@@ -163,6 +163,10 @@ Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
 Hussain, Cristina Videira Lopes<br><font color="gray">University
 of California, Irvine, 2014
 
+<small><font color="3F5E8C"><b>Networking<b>
+
+<small>[An Experimental Study on the Network Performance of SCTP](/documents/pubs/tech-report11-sctp.pdf) <br>Aftab Hussain, Khalid Mahmood, Saif-ul-Islam Khan, Syed Muzakkir Ahmed<br><font color="gray">Bangladesh University of Engineering and Technology, 2011
+
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
 <small>[Edge Crossing Minimization in Graphs - A Survey](/documents/pubs/tech-report10-cross-min.pdf) <br>Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Bangladesh University of Engineering and Technology, 2010
