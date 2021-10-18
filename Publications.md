@@ -49,7 +49,7 @@ at the Function level](https://dl.acm.org/citation.cfm?id=2442761) [[paper](/doc
 Hussain and Md. Saidur Rahman <br><font color="gray">6th India Software Engineering Conference,
 New Delhi, India, 2013
 
-<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> [[paper](/documents/pubs/gdga13-soft-decomp.pdf)] <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
