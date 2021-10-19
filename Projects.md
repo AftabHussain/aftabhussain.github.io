@@ -3,6 +3,15 @@ layout: page
 title: Projects
 ---
 
+## <font color="3F5E8C"> <b>Code Intelligence Models<b>
+
+## [Analyzing Learning Behaviour of Code Intelligence Systems](../project-code-intel/index.html) {#code-intel-menu}
+(Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
+<br>
+
+
+_____________
+
 ## <font color="3F5E8C"> <b>Software Testing<b>
 
 ## [Enhancing fuzzing for better bug detection and triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
