@@ -41,7 +41,7 @@ regardless of which sorting algorithm we want to use.
 
 With the base case dealt with, we notice that a key operation in the merge sort procedure is splitting. 
 We can use the median element in the array to split, based on which we get equal sized sub-arrays 
-if the number of elements in the array that we are splitting is even, or unequal ones if the number is odd.
+if the number of elements in the array that we are splitting is odd, or unequal ones if the number is even.
 
 The merge_sort function would thus need three arguments: the array, the lowest index, and the highest index.
 
