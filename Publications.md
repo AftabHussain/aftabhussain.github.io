@@ -125,8 +125,8 @@ of California, Irvine, 2015
 
 <small><font color="3F5E8C"><b>Shared Memory Systems<b>
 
-<small><font color="#3F5E8C">A Study on Memory Consistency Approaches in Distributed Shared
-Memory Systems</font> <br>Aftab Hussain and Isaac Scherson <br><font color="gray">University of California, Irvine, 2016
+<small>[A Study on Memory Consistency Approaches in Distributed Shared
+Memory Systems](/documents/pubs/tech-report16-memcons.pdf)<br>Aftab Hussain<br><font color="gray">University of California, Irvine, 2016
 
 
 <small><font color="3F5E8C"><b>Requirements Engineering<b>
