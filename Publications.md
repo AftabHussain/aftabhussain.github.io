@@ -114,6 +114,12 @@ DSA](/documents/pubs/tech-report18-dsa-idl.pdf)<br> Aftab Hussain, Vikram
 Narayanan, Anton Burtsev <br><font color="gray">University of
 California, Irvine, 2018 
 
+<small>[Hiding Data within an Image using Steganography](/documents/pubs/tech-report09-steg.pdf)<br> Shreyoshi Chatterjee, Aftab Hussain, Goutam Majumder, Ratul Paul, Dattatreya Raychowdhuri 
+<br><font color="gray">
+Institute of Engineering and Management (IEM), Kolkata, 2009 
+
+
+
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
 <small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><font color="gray">University of California, Irvine, 2017 
