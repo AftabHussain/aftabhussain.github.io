@@ -18,5 +18,3 @@ Google's AFL, we aim to improve vulnerability detection and triaging.
 
 _________________________
 
-<b>View:
-<br>[Source code -- Fuzzing Mutation Visualizer](https://github.com/AftabHussain/afl-test-viz)
