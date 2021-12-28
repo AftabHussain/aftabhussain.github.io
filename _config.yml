@@ -47,4 +47,4 @@ exclude:
   - vendor
 
 # Theme
-theme: "ed."
+theme: "minima"
