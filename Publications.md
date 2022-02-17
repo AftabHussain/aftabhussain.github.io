@@ -18,7 +18,13 @@ ____________
 
 ## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
-<small><font color="3F5E8C"><b>Kernel Security<b>
+<small><font color="3F5E8C"><b>Software Fuzzing<b>
+
+<small>Removing Uninteresting Bytes in Software Fuzzing<br> Aftab Hussain and Mohammad Amin Alipour, 
+<br><font color="gray"> 5th International Workshop on the Next Level of Test Automation, (NEXTA '22), 2022
+<small><font color="3F5E8C">
+
+<b>Kernel Security<b>
 
 <small>[LXDs: Towards Isolation of Kernel
 Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
