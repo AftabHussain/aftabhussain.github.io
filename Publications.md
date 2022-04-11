@@ -59,7 +59,7 @@ New Delhi, India, 2013
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
 <small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
-Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font color="gray">International Mathematics Conference, Dhaka, Bangladesh, 2013
+Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font color="gray">18th International Mathematics Conference, Dhaka, Bangladesh, 2013
 
 ____________
 
