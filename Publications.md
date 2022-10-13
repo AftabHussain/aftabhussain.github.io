@@ -77,7 +77,7 @@ ____________
 
 <small>[Memorization and Generalization in Neural Code Intelligence Models](https://www.sciencedirect.com/science/article/pii/S0950584922001756)
 <br> Md Rafiqul Islam, Aftab Hussain, Mohammad Amin Alipour, Vincent J. Hellendoorn
-<br><font color="gray"> Information and Software Technology, Volume 153, January 2023, 107066, ISSN 0950-5849.
+<br><font color="gray"> Information and Software Technology, Volume 153, January 2023
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
