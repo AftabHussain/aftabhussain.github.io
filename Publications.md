@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [Conference and Workshop Papers](#papers) 
-<br>[Journal Publication](#journal)
+<br>[Journal Publications](#journal)
 <br>[Posters](#posters)
 <br>[Master's Thesis](#masters-thesis)
 <br>[Technical Reports](#tech-reports)
@@ -71,7 +71,13 @@ Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font 
 
 ____________
 
-## Journal Publication <a href="#top">⬆</a> {#journal}
+## Journal Publications <a href="#top">⬆</a> {#journal}
+
+<small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
+
+<small>[Memorization and Generalization in Neural Code Intelligence Models](https://www.sciencedirect.com/science/article/pii/S0950584922001756)
+<br> Md Rafiqul Islam, Aftab Hussain, Mohammad Amin Alipour, Vincent J. Hellendoorn
+<br><font color="gray"> Information and Software Technology, Volume 153, January 2023, 107066, ISSN 0950-5849.
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
