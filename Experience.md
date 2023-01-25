@@ -109,6 +109,11 @@ _____________
 
 <hr class="special">
 
+
+<div class="row">
+<center><small><b><font color="gray">Courses</font></b></small></center>
+<hr class="special">
+
 <div class="row" style="background-color:#EDF5F9;" >
   <div class="column" style="background-color:#EDF5F9;" >
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs201p">Operating Systems</a> 
@@ -122,9 +127,6 @@ multithreading.
   </div>
 </div>
 
-<div class="row">
-<center><small><b><font color="gray">Courses</font></b></small></center>
-<hr class="special">
   <div class="column">
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cosc4353">Software Design</a> 
     <br> Fall 2020</small></p>
