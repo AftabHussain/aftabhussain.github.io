@@ -67,7 +67,7 @@ ____________
 The **course teaches** object-oriented design principles, applying design
 patterns in software development, unit testing, evaluation of software systems,
 and software engineering tools that improve developer productivity. I worked as
-a TA for this course in **Fall 2020** with Prof. Mohammad Amin Alipour. 
+an Instructional Assistant for this course in **Fall 2020** with Prof. Mohammad Amin Alipour. 
 
 [**Course page**](https://piazza.com/uh/fall2020/cosc4353/resources)
 
