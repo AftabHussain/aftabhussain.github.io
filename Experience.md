@@ -102,12 +102,25 @@ _____________
 
 # Teaching <a href="#top">⬆</a> {#teach}
 <br>
-**Teaching Assistant**
+**Instructional Assistant**
 <br>Department of Computer Science
 <br>University of Houston
 <br> <font color="gray">2020 to present</font>
 
 <hr class="special">
+
+<div class="row" style="background-color:#EDF5F9;" >
+  <div class="column" style="background-color:#EDF5F9;" >
+    <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs201p">Operating Systems</a> 
+<br> Spring & Fall 2021, Spring & Fall 2022</small></p>
+  </div>
+  <div class="column" >
+<small><i class="fa fa-laptop" style="font-size:15px"></i>&nbsp; 
+Guided students through coding tasks on job scheduling, socket programming, and
+multithreading.
+</small>
+  </div>
+</div>
 
 <div class="row">
 <center><small><b><font color="gray">Courses</font></b></small></center>
@@ -137,7 +150,9 @@ and coding principles around style, efficiency, and security.
 
 <div class="row">
 <center><small><b><font color="gray">Courses</font></b></small></center>
+
 <hr class="special">
+
   <div class="column">
     <p><small><a href="https://aftabhussain.github.io/Teaching/index.html#cs261p">Data Structures</a> <br>Master's of Computer Science Program<br> Spring 2020</small></p>
   </div>
