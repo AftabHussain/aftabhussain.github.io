@@ -23,19 +23,24 @@ ____________
 
 <small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
 
-<small>Syntax-Guided Program Reduction for Understanding Neural Code Intelligence Models<br> Md Rafiqul Islam Rabin, Aftab Hussain, Mohammad Amin Alipour 
-<br><font color="gray"> The 6th Annual Symposium on Machine Programming, (MAPS '22), 2022
+<small>A Study of Variable-Role-based Feature Enrichment in Neural Models of Code<br> Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour 
+<br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
+
+<small>Study of Skepticism in Neural Code Intelligence Models<br> Md Rafiqul Islam Rabin, Aftab Hussain, Sahil Suneja, and Mohammad Amin Alipour 
+<br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
+
+<small>[Syntax-Guided Program Reduction for Understanding Neural Code Intelligence Models](https://dl.acm.org/doi/abs/10.1145/3520312.3534869)<br> Md Rafiqul Islam Rabin, Aftab Hussain, Mohammad Amin Alipour 
+<br><font color="gray"> The 6th Annual Symposium on Machine Programming (MAPS '22), San Diego, California, 2022
 
 <small><font color="3F5E8C"><b>Software Fuzzing<b>
 
-<small>Removing Uninteresting Bytes in Software Fuzzing<br> Aftab Hussain and Mohammad Amin Alipour 
-<br><font color="gray"> 5th International Workshop on the Next Level of Test Automation, (NEXTA '22), 2022
+<small>[Removing Uninteresting Bytes in Software Fuzzing](https://ieeexplore.ieee.org/document/9787966)
+<br> Aftab Hussain and Mohammad Amin Alipour 
+<br><font color="gray"> 5th International Workshop on the Next Level of Test Automation (NEXTA '22), IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Virtual, 2022
 
 <small><font color="3F5E8C"><b>Kernel Security<b>
 
-<small>[LXDs: Towards Isolation of Kernel
-Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram
-Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
+<small>[LXDs: Towards Isolation of Kernel Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
 Scott Bauer, Michael Quigley, Aftab Hussain, Abdullah Younis, Junjie Shen,
 Moinak Bhattacharyya, Anton Burtsev <br><font color="gray">2019 USENIX Annual Technical
 Conference (USENIX ATC '19), Renton, Washington, 2019
@@ -63,7 +68,6 @@ Hussain and Md. Saidur Rahman <br><font color="gray">6th India Software Engineer
 New Delhi, India, 2013
 
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> [[paper](/documents/pubs/gdga13-soft-decomp.pdf)] <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
-
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
 <small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
