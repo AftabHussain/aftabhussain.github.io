@@ -24,11 +24,11 @@ ____________
 
 <small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
 
-<small>A Study of Variable-Role-based Feature Enrichment in Neural Models of Code [(preprint)](https://arxiv.org/pdf/2303.04942.pdf) 
+<small>A Study of Variable-Role-based Feature Enrichment in Neural Models of Code [[preprint](https://arxiv.org/pdf/2303.04942.pdf)] 
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
 
-<small>Study of Skepticism in Neural Code Intelligence Models [(preprint)](https://arxiv.org/pdf/2303.01739.pdf) 
+<small>Study of Skepticism in Neural Code Intelligence Models [[(preprint)](https://arxiv.org/pdf/2303.01739.pdf)] 
 <br> Md Rafiqul Islam Rabin, Aftab Hussain, Sahil Suneja, and Mohammad Amin Alipour 
 <br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
 
