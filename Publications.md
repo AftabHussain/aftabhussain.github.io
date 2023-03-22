@@ -28,7 +28,7 @@ ____________
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
 
-<small>Study of Skepticism in Neural Code Intelligence Models [[(preprint)](https://arxiv.org/pdf/2303.01739.pdf)] 
+<small>Study of Skepticism in Neural Code Intelligence Models [[preprint](https://arxiv.org/pdf/2303.01739.pdf)] 
 <br> Md Rafiqul Islam Rabin, Aftab Hussain, Sahil Suneja, and Mohammad Amin Alipour 
 <br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
 
