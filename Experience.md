@@ -36,8 +36,8 @@ title: Experience
 
 [Education](#edu)
 <br>[Research](#rsrch) 
-<br>[Teaching](#teach)
 <br>[Industry](#industry)
+<br>[Teaching](#teach)
 <br>[Voluntary](#vol)
 
 _____________
@@ -97,6 +97,22 @@ Computer Sciences<br>University of California, Irvine
 <small>**View:**<br>
 [**Projects**](../Projects/index.html)
 <br>[**Publications**](../Publications/index.html)
+
+_____________
+
+# Industry <a href="#top">⬆</a> {#industry}
+
+ **Data Science Intern** <br>Ericsson, Santa Clara, California
+<br> <small>GAIA (Global AI Accelerator) - US Hub</small>
+<br> <font color="gray">Summer 2022
+
+ **Software Engineering Intern** <br>NextTel Communiction, Dhaka, Bangladesh
+<br> <small>Project: GUI design of a pharmaceutical mobile application using J2ME</small>
+<br> <font color="gray">2010
+											
+ **Software Engineering Trainee** <br>CMC Kolkata (A TATA Enterprise), Kolkata, India
+<br><small> Project: Design of hospital database management system using VB.Net</small>
+<br> <font color="gray">2008
 
 _____________
 
@@ -260,17 +276,6 @@ and coding principles around style, efficiency, and security.
 <small>**View:**<br>
 [**Teaching page**](../Teaching/index.html)
 
-_____________
-
-# Industry <a href="#top">⬆</a> {#industry}
-
- **Software Engineering Intern** <br>NextTel Communiction, Dhaka, Bangladesh
-<br> <small>Project: GUI design of a pharmaceutical mobile application using J2ME</small>
-<br> <font color="gray">2010
-											
- **Software Engineering Trainee** <br>CMC Kolkata (A TATA Enterprise), Kolkata, India
-<br><small> Project: Design of hospital database management system using VB.Net</small>
-<br> <font color="gray">2008
 
 _____________
 
