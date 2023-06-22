@@ -71,6 +71,7 @@ Hussain and Md. Saidur Rahman <br><font color="gray">6th India Software Engineer
 New Delhi, India, 2013
 
 <small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> [[paper](/documents/pubs/gdga13-soft-decomp.pdf)] <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+
 <small><font color="3F5E8C"><b>Graph Drawing<b>
 
 <small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
