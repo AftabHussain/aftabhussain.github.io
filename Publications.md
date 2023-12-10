@@ -22,7 +22,7 @@ ____________
 
 ## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
-<small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
+<small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
 <small>[A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](https://www.computer.org/csdl/proceedings-article/intense/2023/017200a014/1P4kEfsqveg) [[preprint](https://arxiv.org/pdf/2303.04942.pdf)] [[talk](https://www.youtube.com/watch?v=hgdzHiBMo6Y)] 
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour 
@@ -81,7 +81,7 @@ ____________
 
 ## Journal Publications <a href="#top">⬆</a> {#journal}
 
-<small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
+<small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
 <small>[Memorization and Generalization in Neural Code Intelligence Models](https://www.sciencedirect.com/science/article/pii/S0950584922001756)
 <br> Md Rafiqul Islam, Aftab Hussain, Mohammad Amin Alipour, Vincent J. Hellendoorn
@@ -126,6 +126,24 @@ ____________
 
 ## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
 
+<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+
+<small>[A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/abs/2305.03803)<br> 
+Aftab Hussain<sup>1</sup>, 
+Md Rafiqul Islam Rabin<sup>1</sup>, 
+Toufique Ahmed<sup>2</sup>, 
+Navid Ayoobi<sup>1</sup>, 
+Bowen Xu<sup>3</sup>, 
+Mohammad Amin Alipour<sup>1</sup>
+<br><font color="gray">
+University of Houston<sup>1</sup>, 
+University of California, Davis<sup>2</sup>, 
+North Carolina State University<sup>3</sup>, 
+2023
+
+<small>[Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/abs/2106.08704)<br> Md Rafiqul Islam Rabin<sup>1</sup>, Aftab Hussain<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Mohammad Amin Alipour<sup>1</sup><br><font color="gray">University of Houston<sup>1</sup>, Carnegie Mellon University<sup>2</sup>, 2021 
+
+
 <small><font color="3F5E8C"><b>Software Testing<b>
 
 <small>[DIAR: Removing Uninteresting Bytes from Seeds in Software Fuzzing](https://arxiv.org/abs/2112.13297)<br> Aftab Hussain, Mohammad Amin Alipour<br><font color="gray">University of Houston, 2021 
@@ -134,9 +152,6 @@ ____________
 
 <small>[Testing the Robustness of a BiLSTM-based Structural Story Classifier](https://arxiv.org/abs/2201.02733)<br> Aftab Hussain, Sai Durga Prasad Nanduri, Sneha Seenuvasavarathan <br><font color="gray">University of Houston, 2022
 
-<small><font color="3F5E8C"><b>Neural Program Models (Code Intelligence Systems)<b>
-
-<small>[Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/abs/2106.08704)<br> Md Rafiqul Islam Rabin<sup>1</sup>, Aftab Hussain<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Mohammad Amin Alipour<sup>1</sup><br><font color="gray">University of Houston<sup>1</sup>, Carnegie Mellon University<sup>2</sup>, 2021 
 
 <small><font color="3F5E8C"><b>Security<b>
 
