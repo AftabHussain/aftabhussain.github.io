@@ -128,6 +128,18 @@ ____________
 
 <small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
+<small>[Occlusion-based Detection of Trojan-triggering Inputs in Large Language Models of Code](https://arxiv.org/abs/2312.04004) <br> 
+Aftab Hussain<sup>1</sup>, 
+Md Rafiqul Islam Rabin<sup>1</sup>, 
+Toufique Ahmed<sup>2</sup>, 
+Mohammad Amin Alipour<sup>1</sup>,
+Bowen Xu<sup>3</sup> 
+<br><font color="gray">
+University of Houston<sup>1</sup>, 
+University of California, Davis<sup>2</sup>, 
+North Carolina State University<sup>3</sup>, 
+2023
+
 <small>[TrojanedCM: A Repository of Trojaned Large Language Models of Code](https://arxiv.org/abs/2311.14850) <br> 
 Aftab Hussain,
 Md Rafiqul Islam Rabin,
