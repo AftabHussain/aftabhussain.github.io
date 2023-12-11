@@ -7,7 +7,7 @@ title: Publications
 <br>[Journal Publications](#journal)
 <br>[Posters](#posters)
 <br>[Master's Thesis](#masters-thesis)
-<br>[Technical Reports](#tech-reports)
+<br>[Open Access](#open-access)
 <br>[Technical Articles](#tech-articles)
 
 ____________
@@ -124,7 +124,7 @@ University of Engineering and Technology (BUET), Dhaka, Bangladesh, 2012
                                                 
 ____________
 
-## Technical Reports <a href="#top">⬆</a>  {#tech-reports}	
+## Open Access <a href="#top">⬆</a>  {#open-access}	
 
 <small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
@@ -138,7 +138,7 @@ Bowen Xu<sup>3</sup>
 University of Houston<sup>1</sup>, 
 University of California, Davis<sup>2</sup>, 
 North Carolina State University<sup>3</sup>, 
-2023
+<br> arXiv:2312.04004, 2023
 
 <small>[TrojanedCM: A Repository of Trojaned Large Language Models of Code](https://arxiv.org/abs/2311.14850) <br> 
 Aftab Hussain,
@@ -146,7 +146,7 @@ Md Rafiqul Islam Rabin,
 Mohammad Amin Alipour
 <br><font color="gray">
 University of Houston,
-2023
+<br> arXiv:2311.14850, 2023
 
 <small>[A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/abs/2305.03803)<br> 
 Aftab Hussain<sup>1</sup>, 
@@ -159,7 +159,7 @@ Mohammad Amin Alipour<sup>1</sup>
 University of Houston<sup>1</sup>, 
 University of California, Davis<sup>2</sup>, 
 North Carolina State University<sup>3</sup>, 
-2023
+<br> arXiv:2305.03803, 2023
 
 <small>[Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/abs/2106.08704)<br> Md Rafiqul Islam Rabin<sup>1</sup>, Aftab Hussain<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Mohammad Amin Alipour<sup>1</sup><br><font color="gray">University of Houston<sup>1</sup>, Carnegie Mellon University<sup>2</sup>, 2021 
 
