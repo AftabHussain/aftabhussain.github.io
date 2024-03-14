@@ -134,6 +134,15 @@ ____________
 
 <small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
+<small>[Measuring Impacts of Poisoning on Model Parameters and Neuron Activations: A Case Study of Poisoning CodeBERT](https://arxiv.org/abs/2402.12936) <br> 
+Aftab Hussain,
+Md Rafiqul Islam Rabin,
+Navid Ayoobi,
+Mohammad Amin Alipour
+<br><font color="gray">
+University of Houston,
+<br> arXiv:2402.12936, 2024
+
 <small>[Occlusion-based Detection of Trojan-triggering Inputs in Large Language Models of Code](https://arxiv.org/abs/2312.04004) <br> 
 Aftab Hussain<sup>1</sup>, 
 Md Rafiqul Islam Rabin<sup>1</sup>, 
