@@ -40,7 +40,7 @@ ____________
 <small>[Syntax-Guided Program Reduction for Understanding Neural Code Intelligence Models](https://dl.acm.org/doi/abs/10.1145/3520312.3534869)<br> Md Rafiqul Islam Rabin, Aftab Hussain, Mohammad Amin Alipour 
 <br><font color="gray"> The 6th Annual Symposium on Machine Programming (MAPS '22), San Diego, California, 2022
 
-<small><font color="3F5E8C"><b>Software Fuzzing<b>
+<small><font color="3F5E8C"><b>Software Testing<b>
 
 <small>[Removing Uninteresting Bytes in Software Fuzzing](https://ieeexplore.ieee.org/document/9787966)
 <br> Aftab Hussain and Mohammad Amin Alipour 
