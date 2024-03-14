@@ -43,7 +43,7 @@ title: Experience
 _____________
 
 # Education <a href="#top">⬆</a> {#edu}
-**Doctoral Study in Computer Science** 
+**Ph.D. in Computer Science** 
 <br>Department of Computer Science
 <br>University of Houston 
 <br> <font color="gray">2020 to present
@@ -102,17 +102,23 @@ _____________
 
 # Industry <a href="#top">⬆</a> {#industry}
 
- **Data Science Intern** <br>Ericsson, Santa Clara, California
+ **Data Science Intern** <br>Ericsson, Santa Clara, California (Remote)
 <br> <small>GAIA (Global AI Accelerator) - US Hub</small>
-<br> <font color="gray">Summer 2022
+<br> <small>Project: GPT-2 based Causal Language Modeling for NLP</small>
+<br> <font color="gray">May 2023 to August 2023
+
+ **Data Science Intern** <br>Ericsson, Santa Clara, California (Remote)
+<br> <small>GAIA (Global AI Accelerator) - US Hub</small>
+<br> <small>Project: Conversational NLP Bot Development</small>
+<br> <font color="gray">May 2022 to August 2022
 
  **Software Engineering Intern** <br>NextTel Communiction, Dhaka, Bangladesh
 <br> <small>Project: GUI design of a pharmaceutical mobile application using J2ME</small>
-<br> <font color="gray">2010
+<br> <font color="gray">March 2010 to April 2010
 											
  **Software Engineering Trainee** <br>CMC Kolkata (A TATA Enterprise), Kolkata, India
 <br><small> Project: Design of hospital database management system using VB.Net</small>
-<br> <font color="gray">2008
+<br> <font color="gray">July 2008
 
 _____________
 
