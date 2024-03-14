@@ -24,6 +24,11 @@ ____________
 
 <small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
+<small><font color="#3F5E8C">On Trojan Signatures in Large Language Models of Code</font> [[preprint](https://arxiv.org/pdf/2402.16896.pdf)] 
+<br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
+<br><font color="gray"> The International Conference on Learning Representations Workshop on Secure and Trustworthy Large Language Models
+(SeT LLM at ICLR ’24),  Vienna, Austria, 2024 
+
 <small>[A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](https://www.computer.org/csdl/proceedings-article/intense/2023/017200a014/1P4kEfsqveg) [[preprint](https://arxiv.org/pdf/2303.04942.pdf)] [[talk](https://www.youtube.com/watch?v=hgdzHiBMo6Y)] 
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 
