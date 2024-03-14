@@ -110,7 +110,7 @@ ____________
 
 <small><font color="#3F5E8C"> Trojan Detection in Large Language Models of Code</font> [[poster](/documents/pubs/uh-phd-showcase-trojan-detection-poster.pdf)]
 <br><font color="gray">
-CS PhD Showcase, University of Houston
+CS PhD Showcase, University of Houston, 2024
 
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 

@@ -102,12 +102,12 @@ _____________
 
 # Industry <a href="#top">⬆</a> {#industry}
 
- **Data Science Intern** <br>Ericsson, Santa Clara, California (Remote)
+ **Data Science Intern** <br>Ericsson, Santa Clara, California
 <br> <small>GAIA (Global AI Accelerator) - US Hub</small>
 <br> <small>Project: GPT-2 based Causal Language Modeling for NLP</small>
 <br> <font color="gray">May 2023 to August 2023
 
- **Data Science Intern** <br>Ericsson, Santa Clara, California (Remote)
+ **Data Science Intern** <br>Ericsson, Santa Clara, California
 <br> <small>GAIA (Global AI Accelerator) - US Hub</small>
 <br> <small>Project: Conversational NLP Bot Development</small>
 <br> <font color="gray">May 2022 to August 2022
