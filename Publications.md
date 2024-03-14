@@ -101,6 +101,12 @@ ____________
 
 ## Posters <a href="#top">⬆</a>  {#posters}
 
+<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+
+<small><font color="#3F5E8C"> Trojan Detection in Large Language Models of Code</font> [[poster](/documents/pubs/uh-phd-showcase-trojan-detection-poster.pdf)]
+<br><font color="gray">
+CS PhD Showcase, University of Houston
+
 <small><font color="3F5E8C"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
