@@ -1,0 +1,9 @@
+TODOs
+
+May 19, 2024
+- Post sharing our trojan signature poster.
+- https://aftabhussain.github.io/Talks/index.html#acad-talk
+  - Add talks here on deep learning stuff
+- https://aftabhussain.github.io/Projects/index.html
+  - Finalize fuzzing project stuff (ref cv)
+  - Finalize this https://aftabhussain.github.io/project-code-intel/index.html (ref cv)
