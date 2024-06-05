@@ -41,7 +41,7 @@ ____________
 
 <small><i>Includes talks I gave on my research projects and on papers by other researchers</i></small>
 
-<small><font color="3F5E8C">SERG-UH READING GROUP: For all talks at our Reading Group at the Software Engineering Research Group at the University of Houston, on papers by other researchers on Safe and Explainable AI, check out our reading group [Google sheet](https://docs.google.com/spreadsheets/d/1yPAB66pxvmf7Vf52884P78KlrW0Jdk58zz3HkLgvT1g/edit?usp=sharing). 
+<small><font color="3F5E8C"><b>SERG-UH READING GROUP:<\b><\font> For all talks at our Reading Group at the Software Engineering Research Group at the University of Houston, on papers by other researchers on Safe and Explainable AI, check out our reading group [Google sheet](https://docs.google.com/spreadsheets/d/1yPAB66pxvmf7Vf52884P78KlrW0Jdk58zz3HkLgvT1g/edit?usp=sharing). 
 
 <small><font color="3F5E8C"><b>Software Testing<b>
 
