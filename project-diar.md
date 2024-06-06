@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DIAR: Removing Uninteresting Bytes in Software Fuzzing
+title: DIAR Removing Uninteresting Bytes in Software Fuzzing
 ---
 
 Aftab Hussain, Mohammad Amin Alipour <small>
