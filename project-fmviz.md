@@ -10,6 +10,16 @@ Aftab Hussain, Mohammad Amin Alipour <small>
 <br> arXiv 2021</font> 
 <br><b><a href="../project-fuzz-enhance/index.html">Return to Enhancing Fuzzing Projects</a></b>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="../images/projects/enhancing-fuzzing/fmviz.png" alt="drawing" width="500"/>
+
 Software fuzzing is a powerful technique widely used in automated software testing and vulnerability detection. Its random nature makes it challenging to monitor and understand. In this paper, we introduce the Fuzzer Mutation Visualizer (FMViz), a tool designed to visualize byte-level mutations in fuzzers. FMViz enhances American Fuzzy Lop (AFL) by visualizing test inputs and highlighting changes between seeds during a fuzzing campaign. Our tool aims to help developers and students better understand the operations of the AFL fuzzer.
 
 _________________________
