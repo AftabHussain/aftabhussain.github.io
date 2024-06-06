@@ -46,7 +46,7 @@ Resources:
 <a href="https://arxiv.org/pdf/2112.13297">
 <span class="material-symbols-outlined"> article </span>Paper - arXiv 2021
 </a>
-<br
+<br>
 <a href="https://github.com/AftabHussain/diar?tab=readme-ov-file">
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github
 </a>
