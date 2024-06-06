@@ -28,6 +28,8 @@ How can you unveil the hidden threats lurking within your code model? The quest 
 
 Cracking the puzzle for code models, however, proved challenging. Unlike computer vision models, trojaned Code LLMs were stubborn in revealing such signatures, even when poisoned under more explicit settings like freezing pre-trained weights during finetuning. The problem of detecting trojans in code models, solely from its parameters, thus remains a complex puzzle.
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/m7zBUBOCZ5S5Uk?startSlide=1" width="670" height="715" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><small><a href="https://www.slideshare.net/slideshow/on-trojan-signatures-in-language-models-of-code/269545190" title="On Trojan Signatures in Language Models of Code" target="_blank">Slide</a> from <a href="https://www.slideshare.net/aftabhussain461" target="_blank">AftabHussain@slideshare</a></small></div>
+
 _________________________
 
 
