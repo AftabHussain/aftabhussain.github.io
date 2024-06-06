@@ -3,7 +3,7 @@ layout: page
 title: Safe and Explainable AI for Code 
 ---
 
-(Currently Ongoing) <small>
+<small>
 Aftab Hussain<sup>1</sup>, Md Rafiqul Islam Rabin<sup>1</sup>, Mohammad Amin
 Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
@@ -22,22 +22,28 @@ Activity</a>
 
 This extensive project delves into the behavior and security vulnerabilities of
 massive deep neural models in the coding domain that range in size from
-millions to billions of parameters (e.g., CodeBERT, Llama, CodeLlama,
-StarCoder) against attacks on software development tasks. Works involve
-fine-tuning the models on noisy and poisoned code datasets derived from
-benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. The
-project comprises of the following works:
+millions to billions of parameters, e.g., transformer-based Large Language
+Models (LLMs) like CodeBERT, PLBART, Llama, CodeLlama, StarCoder, against
+attacks on software development tasks. Works involve fine-tuning the models on
+noisy and poisoned code datasets derived from benchmark sources like
+Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. The project comprises of the
+following works:
+
+## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
+<small><font color="gray"> 
+<br> AIware'24: 1st ACM International Conference on AI-powered Software,
+co-located with the ACM International Conference on the Foundations of Software
+Engineering (FSE), Porto de Galinhas, Brazil
+</font> 
 
 ## [On Trojan Signatures in Large Language Models of Code](../project-trojan-sig/index.html) 
-Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour <small><font color="gray"> 
+<small><font color="gray"> 
 <br>International Conference on Learning Representations Workshop on Secure and
 Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna,
 Austria</font> 
 
-<br>
-
 ## [A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](../project-roles/index.html) 
-Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour <small><font color="gray"> 
+<small><font color="gray"> 
 <br>InteNSE'23: The 1st International Workshop on Interpretability and
 Robustness in Neural Software Engineering, co-located with the 45th
 International Conference on Software Engineering, ICSE 2023, Melbourne,
