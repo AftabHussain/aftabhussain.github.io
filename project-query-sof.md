@@ -11,6 +11,13 @@ Di Yang, Aftab Hussain, Cristina Lopes
 <br>2013 to 2015</font> 
 <br><b><a href="../Projects/index.html#query-sof-menu">Return to Projects</a></b>
 
+<small>
+<b>
+<br>
+<span class="material-symbols-outlined"> highlight </span>100+ citations on Google Scholar.
+</b>
+</small>
+
 Besides being useful for software developers, annotated Stack Overflow snippets
 can potentially serve as the basis for automated tools that provide working
 code solutions to specific natural language queries.  Towards this goal, we
