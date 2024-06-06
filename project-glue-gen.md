@@ -18,6 +18,8 @@ _________________________
 
 <small>
 <b>
+Resources:
+<br>
 <a href="/documents/pubs/lxds-usenix19.pdf">
 <span class="material-symbols-outlined"> article </span>Paper - USENIX 2019
 </a>
