@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects (This section is under construction)
+title: Projects 
 ---
 
 ## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>

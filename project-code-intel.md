@@ -48,15 +48,7 @@ Robustness in Neural Software Engineering, co-located with the 45th
 International Conference on Software Engineering, ICSE 2023, Melbourne,
 Australia</font> 
 
-____________________
-
-<b>Download:
-<br>[Technical Report](/documents/pubs/tech-report21-mem-gen-ci-models.pdf) 
-<br><br>
-<b>View:
-<br>[Source code](https://github.com/AftabHussain/ICLR20-Great) 
-
-
-
-_________________________
-
+## [Memorization and Generalization in Neural Code Intelligence Models](../project-mem-gen/index.html) 
+<small><font color="gray"> 
+Journal of Information and Software Technology, 2023
+</font> 
