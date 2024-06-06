@@ -18,9 +18,7 @@ _________________________
 
 <small>
 <b>
-<span class="material-symbols-outlined">
-article Paper
-</span>[Paper (USENIX 2019)](/documents/pubs/lxds-usenix19.pdf)
+<span class="material-symbols-outlined"> article </span>[Paper (USENIX 2019)](/documents/pubs/lxds-usenix19.pdf)
 <br>[Source code (Gitlab)](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl)
 <br>[IDL Compiler Documentation](https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation)
 </b>
