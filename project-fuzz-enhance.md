@@ -21,7 +21,10 @@ _________________________
 
 <b> DIAR: Removing Uninteresting Bytes in Software Fuzzing </b>
 
-- Developed a test reduction technique in Python for faster and more effective bug detection in widely used software libraries.
+Imagine a world where software fuzzing, the process of mutating bytes in test seeds to uncover hidden and erroneous program behaviors, becomes faster and more effective. A lot depends on the initial seeds, which can significantly dictate the trajectory of a fuzzing campaign, particularly in terms of how long it takes to uncover interesting behaviour in your code. We introduce DIAR, a technique designed to speedup fuzzing campaigns by pinpointing and eliminating those uninteresting bytes in the seeds. Picture this: instead of wasting valuable resources on meaningless mutations in large, bloated seeds, DIAR removes the unnecessary bytes, streamlining the entire process. 
+
+In this work, we equipped <b>AFL</b>, a popular fuzzer, with DIAR and examined two critical Linux libraries -- Libxml's <b>xmllint</b>, a tool for parsing xml documents, and Binutil's <b>readelf</b>, an essential debugging and security analysis command-line tool used to display detailed information about ELF (Executable and Linkable Format). Our preliminary results show that AFL+DIAR does not only discover new paths more quickly but also achieves higher coverage overall. This work thus showcases how starting with lean and optimized seeds can lead to faster, more comprehensive fuzzing campaigns -- and DIAR helps you find such seeds. 
+
 - Accepted in [IEEE International Conference on Software Testing Verification and Validation Workshop, ICSTW 2022](https://ieeexplore.ieee.org/xpl/conhome/9787917/proceeding)
 
 <small>
@@ -32,10 +35,18 @@ Resources:
 <span class="material-symbols-outlined"> article </span>Paper - ICST NEXTA 2022
 </a>
 <br>
+<a href="https://www.youtube.com/watch?v=iRU8Rfd6Fcc&feature=youtu.be">
+<span class="material-symbols-outlined"> movie </span>Talk - ICST NEXTA 2022
+</a>
+<br>
+<a href="https://www.slideshare.net/slideshow/removing-uninteresting-bytes-in-software-fuzzing-6968/269537913">
+<span class="material-symbols-outlined"> co_present </span>Presentation Slides - ICST NEXTA 2022
+</a>
+<br>
 <a href="https://arxiv.org/pdf/2112.13297">
 <span class="material-symbols-outlined"> article </span>Paper - arXiv 2021
 </a>
-<br>
+<br
 <a href="https://github.com/AftabHussain/diar?tab=readme-ov-file">
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github
 </a>
