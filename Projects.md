@@ -15,7 +15,7 @@ _____________
 ## <font color="3F5E8C"> <b>Software Testing<b>
 
 ## [Enhancing fuzzing for better bug detection and triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
-(Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2020 to present</font> 
+Aftab Hussain, Mohammad Amin Alipour <small><br><font color="gray">University of Houston <br> 2020 to 2021</font> 
 <br>
 
 
