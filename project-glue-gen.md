@@ -18,21 +18,17 @@ _________________________
 
 <small>
 <b>
-
 <a href="/documents/pubs/lxds-usenix19.pdf">
 <span class="material-symbols-outlined"> article </span>Paper - USENIX 2019
 </a>
-
 <br>
 <a href="https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/tree/dev_idl_4.8_no_channels/tools/lcd/idl">
-<span class="material-symbols-outlined"> code </span>Source code - Gitlab
+<span class="material-symbols-outlined"> code_blocks </span>Source code - Gitlab
 </a>
-
 <br>
 <a href="https://gitlab.flux.utah.edu/xcap/xcap-capability-linux/wikis/idl-compiler-documentation">
 <span class="material-symbols-outlined"> description  </span>IDL Compiler Documentation
 </a>
-
 </b>
 </small>
 
