@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enhancing fuzzing for better bug detection and triaging
+title: Enhancing Fuzzing for Better Bug Detection and Triaging
 ---
 
 Aftab Hussain, Mohammad Amin Alipour <small>
