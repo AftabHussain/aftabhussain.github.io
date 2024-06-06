@@ -24,7 +24,7 @@ img {
 <img src="../images/projects/code-intel/trojan-sig.png" alt="drawing" />
 
 
-How can you unveil the hidden threats lurking within your code model? The quest to uncover trojans can be costly and complex. Inspired by Fields et al.'s approach (https://lnkd.in/gp-5EZAq), we sought a solution — a light-weight technique that analyzes parameters only, which originally revealed trojan signatures in vision models. 
+How can you unveil the hidden threats lurking within your code model? The quest to uncover trojans can be costly and complex. Inspired by <a href="https://arxiv.org/abs/2109.02836">Fields et al.'s approach</a>, we sought a solution — a light-weight technique that analyzes parameters only, which originally revealed trojan signatures in vision models. 
 
 Cracking the puzzle for code models, however, proved challenging. Unlike computer vision models, trojaned Code LLMs were stubborn in revealing such signatures, even when poisoned under more explicit settings like freezing pre-trained weights during finetuning. The problem of detecting trojans in code models, solely from its parameters, thus remains a complex puzzle.
 
