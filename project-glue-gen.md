@@ -11,8 +11,16 @@ Vikram Narayanan, Aftab Hussain, Anton Burtsev <small>
 <br> 2018 to 2019</font> 
 <br><b><a href="../Projects/index.html#glue-gen-menu">Return to Projects</a></b>
 
-Generating glue code from IDL syntax for Linux kernel security using
+Generated glue code from IDL syntax for Linux kernel security using
 vembyr code parser generator.
+
+- Contributed towards implementing an Interface Definition Language that
+  captures decomposition patterns typically used in the kernel such as exported
+functions, data structures passed by reference, function pointers, etc.
+
+- Contributed towards the development of an IDL compiler that can generate the
+  runtime glue-code required for decomposition – The compiler works as a
+source-to-source translator from the LXD IDL to C.
 
 _________________________
 
