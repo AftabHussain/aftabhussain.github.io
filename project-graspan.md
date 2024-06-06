@@ -17,10 +17,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  height: auto;
 }
 </style>
 
-<img src="../images/projects/graspan/tc-system.png" alt="drawing" width="500"/>
+<img src="../images/projects/graspan/tc-system.png" alt="drawing"/>
 
 We built a disk-based parallel graph system, Graspan, that uses a novel
 edge-pair centric computation model to compute dynamic transitive closures on
