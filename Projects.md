@@ -21,7 +21,7 @@ Aftab Hussain, Mohammad Amin Alipour <small><br><font color="gray">University of
 
 _____________
 
-## <font color="3F5E8C"> <b>Security<b>
+## <font color="3F5E8C"> <b>Kernel Security<b>
 
 ## [Glue code generation for Linux kernel security](../project-glue-gen/index.html) {#glue-gen-menu}
 Vikram Narayanan, Aftab Hussain, Anton Burtsev <small><br> <font color="gray">University of California, Irvine <br> Supported by National Science Foundation<br> 2018 to 2019</font> 
