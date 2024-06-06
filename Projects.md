@@ -3,9 +3,9 @@ layout: page
 title: Projects (This section is under construction)
 ---
 
-## <font color="3F5E8C"> <b>Code Intelligence Models<b>
+## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>
 
-## [Analyzing Learning Behaviour of Code Intelligence Systems](../project-code-intel/index.html) {#code-intel-menu}
+## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
 <br>
 
