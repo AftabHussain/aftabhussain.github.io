@@ -13,8 +13,8 @@ Aftab Hussain, Mohammad Amin Alipour <small>
 <style>
 img {
   display: block;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 
