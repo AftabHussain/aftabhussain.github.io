@@ -45,12 +45,30 @@ tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd
 		
 ____________________
 
-<b>Download:
-<br>[Paper](/documents/pubs/asplos17-graspan.pdf) 
-<br>[Poster](/documents/pubs/asplos17-graspan-poster.pdf) 
-<br>[Tutorial](/documents/pubs/asplos17-graspan-tutorial.pdf)</b>
-<br><br>
-<b>View:
-<br>[Source code](https://github.com/Graspan/graspan-java) 
 
+<small>
+<b>
+Resources:
+<br>
+<a href="https://dl.acm.org/doi/10.1145/3037697.3037744">
+<span class="material-symbols-outlined"> article </span>Paper - ASPLOS 2017
+</a>
+<br>
+<a href="/documents/pubs/asplos17-graspan.pdf">
+<span class="material-symbols-outlined"> article </span>Paper - Preprint 2017
+</a>
+<br>
+<a href="https://www.slideshare.net/slideshow/graspan-a-big-data-system-for-big-code-analysis/269544838">
+<span class="material-symbols-outlined"> filter_frames </span>Poster - PLDI SRC 2016, ASPLOS 2017
+</a>
+<br>
+<a href="/documents/pubs/asplos17-graspan-tutorial.pdf">
+<span class="material-symbols-outlined"> co_present </span>Tutorial Slides - ASPLOS 2017
+</a>
+<br>
+<a href="https://github.com/Graspan/graspan-java">
+<span class="material-symbols-outlined"> code_blocks </span>Source code - Github
+</a>
+</b>
+</small>
 
