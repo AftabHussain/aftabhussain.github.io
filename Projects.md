@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects (This section is under construction)
 ---
 
 ## <font color="3F5E8C"> <b>Code Intelligence Models<b>
