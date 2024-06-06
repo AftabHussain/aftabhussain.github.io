@@ -1,17 +1,47 @@
 ---
 layout: page
-title: Analyzing Learning Behaviour of Code Intelligence Systems 
+title: Safe and Explainable AI for Code 
 ---
 
 (Currently Ongoing) <small>
-<br> <font color="gray">Software Engineering Research Group
-<br> Department of Computer Science
-<br> University of Houston 
+Aftab Hussain<sup>1</sup>, Md Rafiqul Islam Rabin<sup>1</sup>, Mohammad Amin
+Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
+Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
+Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
+Sahil Suneja<sup>6</sup> <small>
+<br> <font color="gray">
+Software Engineering Research Group (University of Houston)<sup>1</sup>,
+Carnegie Mellon University<sup>2</sup>, North Carolina State
+University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
+Management University<sup>5</sup>, IBM Research<sup>6</sup>
+<br> Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
+href = "https://www.iarpa.gov/">Intelligence Advanced Research Project
+Activity</a>
 <br> 2021 to present</font> 
 <br><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
 
-Running/analyzing neural models on GPUs trained on massive code datasets for
-predicting coding tasks.
+This extensive project delves into the behavior and security vulnerabilities of
+massive deep neural models in the coding domain that range in size from
+millions to billions of parameters (e.g., CodeBERT, Llama, CodeLlama,
+StarCoder) against attacks on software development tasks. Works involve
+fine-tuning the models on noisy and poisoned code datasets derived from
+benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. The
+project comprises of the following works:
+
+## [On Trojan Signatures in Large Language Models of Code](../project-trojan-sig/index.html) 
+Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour <small><font color="gray"> 
+<br>International Conference on Learning Representations Workshop on Secure and
+Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna,
+Austria</font> 
+
+<br>
+
+## [A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](../project-roles/index.html) 
+Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour <small><font color="gray"> 
+<br>InteNSE'23: The 1st International Workshop on Interpretability and
+Robustness in Neural Software Engineering, co-located with the 45th
+International Conference on Software Engineering, ICSE 2023, Melbourne,
+Australia</font> 
 
 ____________________
 
