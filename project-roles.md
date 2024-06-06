@@ -39,7 +39,7 @@ performing coding tasks? We do an exploratory study:
 - Identified challenges and opportunities in feature enrichment for neural code
   intelligence models.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/nk7WIWPljEits3?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/a-study-of-variable-role-based-feature-enrichment-in-neural-models-of-code/269541979" title="A Study of Variable-Role-based Feature Enrichment in Neural Models of Code" target="_blank">A Study of Variable-Role-based Feature Enrichment in Neural Models of Code</a></strong> from <strong><a href="https://www.slideshare.net/aftabhussain461" target="_blank">Aftab Hussain</a></strong></div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/nk7WIWPljEits3?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><small><a href="https://www.slideshare.net/slideshow/a-study-of-variable-role-based-feature-enrichment-in-neural-models-of-code/269541979" title="A Study of Variable-Role-based Feature Enrichment in Neural Models of Code" target="_blank">Slides</a> from <a href="https://www.slideshare.net/aftabhussain461" target="_blank">AftabHussain@SlideShare</a></small></div>
 
 _________________________
 
