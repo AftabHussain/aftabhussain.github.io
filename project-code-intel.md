@@ -31,20 +31,20 @@ following works:
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <small><font color="gray"> 
-<br> AIware'24: 1st ACM International Conference on AI-powered Software,
+AIware'24: 1st ACM International Conference on AI-powered Software,
 co-located with the ACM International Conference on the Foundations of Software
 Engineering (FSE), Porto de Galinhas, Brazil
 </font> 
 
 ## [On Trojan Signatures in Large Language Models of Code](../project-trojan-sig/index.html) 
 <small><font color="gray"> 
-<br>International Conference on Learning Representations Workshop on Secure and
+International Conference on Learning Representations Workshop on Secure and
 Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna,
 Austria</font> 
 
 ## [A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](../project-roles/index.html) 
 <small><font color="gray"> 
-<br>InteNSE'23: The 1st International Workshop on Interpretability and
+InteNSE'23: The 1st International Workshop on Interpretability and
 Robustness in Neural Software Engineering, co-located with the 45th
 International Conference on Software Engineering, ICSE 2023, Melbourne,
 Australia</font> 
