@@ -13,8 +13,7 @@ Di Yang, Aftab Hussain, Cristina Lopes
 
 <small>
 <b>
-<br>
-<span class="material-symbols-outlined"> highlight </span>100+ citations on Google Scholar.
+<span class="material-symbols-outlined"> highlight </span>100+ citations on Google Scholar
 </b>
 </small>
 
