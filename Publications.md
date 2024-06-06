@@ -25,7 +25,7 @@ ____________
 
 <small><font color="3F5E8C"><b>AI for Software Engineering<b>
 
-<small><font color="#3F5E8C"> Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code </font> 
+<small><font color="#3F5E8C"> Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code </font> [[preprint](https://arxiv.org/abs/2405.11466)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
 
