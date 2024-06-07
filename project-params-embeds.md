@@ -8,7 +8,7 @@ Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour <small>
 Houston), 
 <br> AIware'24: 1st ACM International Conference on AI-powered Software,
 co-located with the ACM International Conference on the Foundations of Software
-Engineering (FSE), Porto de Galinhas, Brazil 
+Engineering (FSE), 2024, Porto de Galinhas, Brazil 
 </font> 
 <br><b><a href="../project-code-intel/index.html">Return to Safe and Explainable AI Projects</a></b>
 

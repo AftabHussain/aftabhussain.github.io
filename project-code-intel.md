@@ -32,7 +32,7 @@ following works:
 <small><font color="gray"> 
 AIware'24: 1st ACM International Conference on AI-powered Software,
 co-located with the ACM International Conference on the Foundations of Software
-Engineering (FSE), Porto de Galinhas, Brazil
+Engineering (FSE), 2024, Porto de Galinhas, Brazil
 </font> 
 
 ## [On Trojan Signatures in Large Language Models of Code](../project-trojan-sig/index.html) 
