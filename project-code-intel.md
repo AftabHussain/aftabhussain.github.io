@@ -16,7 +16,9 @@ Management University<sup>5</sup>, IBM Research<sup>6</sup>
 <br> Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
 href = "https://www.iarpa.gov/">IARPA</a>
 <br> 2021 to present</span> 
-<br><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
+<br>
+<br>
+<a href="../Projects/index.html#code-intel-menu"><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b>Return to Projects</a></b>
 <br>
 <br>
 </div>
