@@ -10,6 +10,19 @@ Aftab Hussain, Mohammad Amin Alipour <small>
 <br> 2020 to 2021</font> 
 <br><b><a href="../Projects/index.html#fuzz-enhance-menu">Return to Projects</a></b>
 
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+<img src="../images/projects/enhancing-fuzzing/enhancing-fuzzing.png" alt="drawing"/>
+
 Designing and building techniques for improving the effectiveness and
 efficiency of fuzzing (automated random testing at scale) of parser and
 compiler libraries, image processors, and other important software tools that
