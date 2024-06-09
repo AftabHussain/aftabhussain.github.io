@@ -1,0 +1,9 @@
+places to change fonts:
+
+vim assets/css/style.scss
+vim _sass/_ed.scss
+
+location of google icon font setup:
+
+https://github.com/AftabHussain/aftabhussain.github.io/blob/72986e884fd9e6bda2b47c89181a7d8c982c015d/_includes/head.html#L57
+

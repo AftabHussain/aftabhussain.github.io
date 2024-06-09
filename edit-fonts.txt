@@ -1,5 +1,0 @@
-places to change fonts:
-
-vim assets/css/style.scss
-vim _sass/_ed.scss
-
