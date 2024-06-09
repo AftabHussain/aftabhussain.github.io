@@ -3,7 +3,7 @@ layout: page
 title: Safe and Explainable AI for Code 
 ---
 
-<small>
+<div style="font-family: 'Alata';">
 Aftab Hussain<sup>1</sup>, Md Rafiqul Islam Rabin<sup>1</sup>, Mohammad Amin
 Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
@@ -18,6 +18,7 @@ Management University<sup>5</sup>, IBM Research<sup>6</sup>
 href = "https://www.iarpa.gov/">IARPA</a>
 <br> 2021 to present</font> 
 <br><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
+</div>
 
 ● This extensive project delves into two aspects: (1) the behavior (Explainable
 AI for Code) and (2) the security vulnerabilities (Safe AI for Code) of massive
