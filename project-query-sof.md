@@ -28,7 +28,7 @@ img {
 }
 </style>
 
-<img src="../images/projects/sof/back.png" alt="drawing"/>
+<img src="../images/projects/sof/back.jpg" alt="drawing"/>
 
 
 
