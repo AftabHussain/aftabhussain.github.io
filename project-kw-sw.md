@@ -3,13 +3,20 @@ layout: page
 title: Software Restructuring using Hierarchical Clustering
 ---
 
-Aftab Hussain, Md. Saidur Rahman 
-<small><br> <font color="gray"><a href="https://cse.buet.ac.bd/research/group/gd/">Graph Drawing and Information Visualization Lab</a> 
+<div style="font-family: 'Alata'; font-size: small;">
+<span>Aftab Hussain, Md. Saidur Rahman   <br></span>
+<span style="color: gray;">Graph Drawing and Information Visualization Lab
 <br> Department of Computer Science and Engineering 
-<br> Bangladesh University of Engineering and Technology 
-<br> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
-<br>2011 to 2013</font> 
-<br><b><a href="../Projects/index.html#kw-sw-menu">Return to Projects</a></b>
+<br> Bangladesh University of Engineering and Technology  
+<br> Supported by a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
+<br>  <a href="https://2016.msrconf.org/#/home">6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
+<br>
+<br>
+<a href="../Projects/index.html#kw-sw-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
+<br>
+<br>
+</div>
+
 
 Ill-structured code is difficult to understand and thereby,
 costly to maintain and reuse. Software restructuring techniques
@@ -35,13 +42,12 @@ widely popular clustering algorithms, is 60% faster, and
 yields the same code quality improvements on Java functions
 extracted from real-life industrial programs.**
 
-- Accepted in [India Software Engineering Conference (ISEC) 2013](https://isoft.acm.org/isec2013/), New Delhi, India.
-- Invited for presentation in Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Bangladesh University of Engineering and Technology.  
+● Invited for presentation in Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Bangladesh University of Engineering and Technology.  
 
 _________________________
 
 <div style="font-family: 'Alata'; font-size: small;">
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756">
+<a href="https://dl.acm.org/doi/10.1145/2442754.2442761">
 <span class="material-symbols-outlined"> article </span>Paper - ISEC 2013 
 </a>
 <br>
