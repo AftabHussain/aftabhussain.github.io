@@ -6,9 +6,7 @@ title: Projects
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
-<font class="project-label">
-<span class="material-symbols-outlined"> label </span> Deep Neural Models of Code
-</font>
+<font class="project-label"> <span class="material-symbols-outlined"> label </span> Deep Neural Models of Code </font>
 
 
 <font class="project-label">
