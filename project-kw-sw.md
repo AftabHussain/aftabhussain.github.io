@@ -20,6 +20,18 @@ Accepted at <a href="https://isoft.acm.org/isec2013/">The 6th India Software Eng
 <br>
 </div>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+<img src="../images/projects/kw/back.png" alt="drawing"/>
+
 
 Ill-structured code is difficult to understand and thereby,
 costly to maintain and reuse. Software restructuring techniques
