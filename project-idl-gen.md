@@ -10,7 +10,6 @@ title: IDL generation for Linux Kernel Security
 <span style="color: gray;">
 University of California, Irvine<sup>1</sup>, Penn State University<sup>2</sup> 
 <br> 
-<br> 
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
 Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">public</span> Published on <a href="https://www.researchgate.net/publication/353608966_An_Implementation_Overview_of_an_IDL_Generation_Framework_Based_on_DSA?channel=doi&linkId=61059c9d0c2bfa282a12ae62&showFulltext=true"> ResearchGate 2018</a> </span> 
