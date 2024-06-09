@@ -47,10 +47,12 @@ Here is are the works in this project:
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <div style="font-family: 'Alata';">
-    <span style="color: gray; font-size: small;">AIware'24: 1st ACM
-International Conference on AI-powered Software, co-located with the ACM
-International Conference on the Foundations of Software Engineering (FSE),
-2024, Porto de Galinhas, Brazil <br></span>
+    <span style="color: gray; font-size: small;">
+    AIware'24: 1st ACM
+    International Conference on AI-powered Software, co-located with the ACM
+    International Conference on the Foundations of Software Engineering (FSE),
+    2024, Porto de Galinhas, Brazil 
+    <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Safe AI for Code</span>
 </div>

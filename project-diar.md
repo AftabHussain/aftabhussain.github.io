@@ -9,7 +9,9 @@ title: DIAR - Removing Uninteresting Bytes in Software Fuzzing
 <br> Department of Computer Science
 <br> University of Houston 
 <br> IEEE International Conference on Software Testing Verification and Validation Workshop, ICSTW 2022</span> 
-<br><a href="../project-fuzz-enhance/index.html"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Enhancing Fuzzing Projects</a></b>
+<br>
+<br>
+<a href="../project-fuzz-enhance/index.html"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Enhancing Fuzzing Projects</b></a>
 <br>
 <br>
 </div>
