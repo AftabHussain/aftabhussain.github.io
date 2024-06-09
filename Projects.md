@@ -5,9 +5,12 @@ title: Projects
 
 ## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>
 
-<span class="material-symbols-outlined">
-label
-<font color="gray" family="JuneBug" font-weight=300><small>Deep Neural Models of Code</small></font></span>
+
+<span class="material-symbols-outlined" style="color: gray; font-family: 'JuneBug'; font-weight: 300; font-size: small;">
+    label
+    Deep Neural Models of Code
+</span>
+
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
