@@ -52,7 +52,7 @@ _____________
 </div>
 _____________
 
-## [From Query to Usable Code in Stack Overflow](../project-query-sof/index.html) {#query-sof-menu}
+## [From Query to Usable Code - An Analysis of Stack Overflow Code Snippets](../project-query-sof/index.html) {#query-sof-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Di Yang, Aftab Hussain, Cristina Lopes <br></span>
     <span style="color: gray; font-size: small;">University of California, Irvine 

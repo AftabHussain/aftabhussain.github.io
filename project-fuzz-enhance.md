@@ -54,5 +54,5 @@ _____________
 </div>
 _____________
 
-<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/free-photo/virtual-projection-lights-forming-square-pattern-dark-background_13500430.htm#fromView=search&page=4&position=52&uuid=2464b102-c894-41db-ba6c-24ff2d6ce136" target="_blank">Freepik</a></small></p>
+<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/" target="_blank">Freepik</a></small></p>
 
