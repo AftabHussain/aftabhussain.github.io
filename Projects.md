@@ -8,8 +8,8 @@ title: Projects
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Vincent J. Hellendoorn, Bowen Xu, Omprakash Gnawali, Sen Lin, Toufique Ahmed, Premkumar Devanbu, Navid Ayoobi, David Lo, Sahil Suneja<br></span>
     <span style="color: gray; font-size: small;">University of Houston, Carnegie Mellon University, North Carolina State University, University of California, Davis, Singapore Management University, IBM Research <br> 2021 to present <br></span>
-    <span class="material-symbols-outlined">label</span>
-    <span style="font-size: small;">Deep Neural Models of Code</span>
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Deep Neural Models of Code</span>
 </div>
 
 _____________
@@ -19,8 +19,8 @@ _____________
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Mohammad Amin Alipour <br></span>
     <span style="color: gray; font-size: small;">University of Houston <br> 2020 to 2021 <br></span>
-    <span class="material-symbols-outlined">label</span>
-    <span style="font-size: small;">Software Testing</span>
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Software Testing</span>
 </div>
 <br>
 
