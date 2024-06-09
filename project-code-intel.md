@@ -37,7 +37,7 @@ benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs.
 <div class="row">
     <center>
         <b>
-            <span style="color: #404040; font-family: 'Alata', sans-serif; font-weight: 300;">Works in Safe AI for Code</span>
+            <span style="color: #404040; font-family: 'Alata', sans-serif; font-weight: 300;">Contributions in Safe AI for Code</span>
         </b>
     </center>
 </div>
