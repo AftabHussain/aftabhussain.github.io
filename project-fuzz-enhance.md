@@ -39,7 +39,7 @@ We carried out the following works under this project:
 ## [DIAR: Removing Uninteresting Bytes in Software Fuzzing](../project-diar/index.html) 
 <div style="font-family: 'Alata';">
     <span style="color: gray; font-size: small;">
-    IEEE International Conference on Software Testing Verification and Validation Workshop, ICSTW 2022    
+    5th International Workshop on the Next Level of Test Automation (NEXTA 2022) at the IEEE International Conference on Software Testing Verification and Validation (ICST 2022)   
     <br></span>
 </div>
 

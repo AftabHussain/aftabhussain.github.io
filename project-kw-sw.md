@@ -40,11 +40,27 @@ extracted from real-life industrial programs.**
 
 _________________________
 
-<b>Download:
-<br>[Paper](https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf)
-<br>[Thesis](/documents/pubs/ms-thesis.pdf)
-<br>[CohesionOptimizer tool](tools/CohesionOptimizer.jar)
-<br>[Tool manual (from thesis)](/documents/pubs/ms-thesis-tool-manual.pdf) 
+<div style="font-family: 'Alata'; font-size: small;">
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756">
+<span class="material-symbols-outlined"> article </span>Paper - ISEC 2013 
+</a>
+<br>
+<a href="https://aftabhussain.github.io/documents/pubs/isec13-soft-clustering.pdf">
+<span class="material-symbols-outlined"> article </span>Paper - Preprint 2013 
+</a>
+<br>
+<a href="/documents/pubs/ms-thesis.pdf">
+<span class="material-symbols-outlined"> book_2 </span>Master's Thesis 
+</a>
+<br>
+<a href="/tools/CohesionOptimizer.jar">
+<span class="material-symbols-outlined"> sdk </span>CohesionOptimizer Tool
+</a>
+<br>
+<a href="/documents/pubs/ms-thesis-tool-manual.pdf">
+<span class="material-symbols-outlined"> developer_guide </span>Tool Manual
+</a>
+</div>
 
 
 
