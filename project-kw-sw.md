@@ -8,8 +8,8 @@ title: Software Restructuring using Hierarchical Clustering
 <span style="color: gray;">Graph Drawing and Information Visualization Lab
 <br> Department of Computer Science and Engineering 
 <br> Bangladesh University of Engineering and Technology  
-<br> Supported by a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
-<br>  <a href="https://2016.msrconf.org/#/home">6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
+<br> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
+<br>  <a href="https://isoft.acm.org/isec2013/">6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
 <br>
 <br>
 <a href="../Projects/index.html#kw-sw-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
@@ -42,7 +42,7 @@ widely popular clustering algorithms, is 60% faster, and
 yields the same code quality improvements on Java functions
 extracted from real-life industrial programs.**
 
-● Invited for presentation in Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Bangladesh University of Engineering and Technology.  
+● Invited for presentation at the Workshop on Graph Drawing and Graph Algorithms (GDGA) 2013, Dhaka, Bangladesh.  
 
 _________________________
 
