@@ -36,7 +36,10 @@ benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs.
 ● A dedicated page for the Safe AI for Code segment may be found
 [here](http://babylon.cs.uh.edu/web/).  
 
-# Works in this Project
+<hr class="special">
+<div class="row">
+<center><b><font color="gray">Works in this Project</font></b></center>
+<hr class="special">
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <small><font color="gray"> 
