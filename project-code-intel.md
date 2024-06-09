@@ -39,6 +39,7 @@ benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs.
 <hr class="special">
 <div class="row">
 <center><b><font color="gray">Works in this Project</font></b></center>
+</div>
 <hr class="special">
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
