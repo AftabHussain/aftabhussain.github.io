@@ -10,7 +10,7 @@ Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
 Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
 Sahil Suneja<sup>6</sup> 
 <br> <font color="gray">
-Software Engineering Research Group (University of Houston)<sup>1</sup>,
+University of Houston<sup>1</sup>,
 Carnegie Mellon University<sup>2</sup>, North Carolina State
 University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
 Management University<sup>5</sup>, IBM Research<sup>6</sup>
@@ -19,14 +19,24 @@ href = "https://www.iarpa.gov/">IARPA</a>
 <br> 2021 to present</font> 
 <br><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
 
-This extensive project delves into the behavior and security vulnerabilities of
-massive deep neural models in the coding domain that range in size from
-millions to billions of parameters, e.g., transformer-based Large Language
-Models (LLMs) like CodeBERT, PLBART, Llama, CodeLlama, StarCoder, against
-attacks on software development tasks. Works involve fine-tuning the models on
-noisy and poisoned code datasets derived from benchmark sources like
-Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. The project comprises of the
-following works:
+● This extensive project delves into two aspects: (1) the behavior (Explainable
+AI for Code) and (2) the security vulnerabilities (Safe AI for Code) of massive
+deep neural models in the coding domain. 
+
+● The models we investigate range in size from millions to billions of
+parameters; they include transformer-based Large Language Models (LLMs) like
+Microsoft's **CodeBERT**, Saleforce's **CodeT5**, Meta's **PLBART**, **Llama**,
+and **CodeLlama**, BigCode's **StarCoder**, against attacks on software
+development tasks.
+
+● Our works include model probing and black box techniques that involve
+fine-tuning the models on noisy and poisoned code datasets derived from
+benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. 
+
+● A dedicated page for the Safe AI for Code segment may be found
+[here](http://babylon.cs.uh.edu/web/).  
+
+# Works in this Project
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <small><font color="gray"> 
