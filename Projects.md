@@ -8,6 +8,12 @@ title: Projects
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
 <font class="project-label"> <span class="material-symbols-outlined"> label </span> Deep Neural Models of Code </font>
 
+<div style="font-family: 'Alata';">
+    <span style="color: gray; font-size: small;">University of Houston <br> 2021 to present</span>
+    <span class="material-symbols-outlined">label</span>
+    <span style="color: gray; font-size: small;">Deep Neural Models of Code</span>
+</div>
+
 
 <font class="project-label">
 <span class="material-symbols-outlined"> label </span> Software Testing 
