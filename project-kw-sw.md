@@ -9,7 +9,7 @@ title: Software Restructuring using Hierarchical Clustering
 <br> Department of Computer Science and Engineering 
 <br> Bangladesh University of Engineering and Technology  
 <br> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
-<br>  <a href="https://isoft.acm.org/isec2013/">6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
+<br> Accepted at <a href="https://isoft.acm.org/isec2013/">The 6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
 <br>
 <br>
 <a href="../Projects/index.html#kw-sw-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
@@ -64,7 +64,7 @@ _________________________
 </a>
 <br>
 <a href="/documents/pubs/ms-thesis-tool-manual.pdf">
-<span class="material-symbols-outlined"> developer_guide </span>Tool Manual
+<span class="material-symbols-outlined"> developer_guide </span>CohesionOptimizer Tool Manual
 </a>
 </div>
 
