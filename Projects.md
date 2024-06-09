@@ -5,8 +5,6 @@ title: Projects
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
-(Currently Ongoing)
-
 <div style="font-family: 'Alata';">
     <span style="color: gray; font-size: small;">University of Houston <br> 2021 to present <br></span>
     <span class="material-symbols-outlined">label</span>
