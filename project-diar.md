@@ -3,12 +3,14 @@ layout: page
 title: DIAR - Removing Uninteresting Bytes in Software Fuzzing
 ---
 
-Aftab Hussain, Mohammad Amin Alipour <small>
-<br> <font color="gray">Software Engineering Research Group
+<div style="font-family: 'Alata'; font-size: small;">
+<span>Aftab Hussain, Mohammad Amin Alipour <br></span>
+<span style="color: gray;">Software Engineering Research Group
 <br> Department of Computer Science
 <br> University of Houston 
-<br> IEEE International Conference on Software Testing Verification and Validation Workshop, ICSTW 2022</font> 
-<br><b><a href="../project-fuzz-enhance/index.html">Return to Enhancing Fuzzing Projects</a></b>
+<br> IEEE International Conference on Software Testing Verification and Validation Workshop, ICSTW 2022</span> 
+<br><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b><a href="../project-fuzz-enhance/index.html">Return to Enhancing Fuzzing Projects</a></b>
+</div>
 
 <style>
 img {
@@ -28,8 +30,7 @@ In this work, we equipped <b>AFL</b>, a popular fuzzer, with DIAR and examined t
 
 _________________________
 
-
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
 Resources:
 <br>
@@ -53,5 +54,5 @@ Resources:
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github
 </a>
 </b>
-</small>
+</div>
 
