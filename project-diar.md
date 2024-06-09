@@ -5,10 +5,9 @@ title: DIAR - Removing Uninteresting Bytes in Software Fuzzing
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Aftab Hussain, Mohammad Amin Alipour <br></span>
-<span style="color: gray;">Software Engineering Research Group
-<br> Department of Computer Science
-<br> University of Houston 
-<br>  <a href="https://icst2022.vrain.upv.es/details/nexta-2022-nexta-2022/8/Removing-Uninteresting-Bytes-in-Software-Fuzzing">5th International Workshop on the Next Level of Test Automation (NEXTA 2022) at the IEEE International Conference on Software Testing Verification and Validation (ICST 2022)</a></span> 
+Software Engineering Research Group, University of Houston 
+<span style="color: gray;">
+<br>  Accepted at <a href="https://icst2022.vrain.upv.es/details/nexta-2022-nexta-2022/8/Removing-Uninteresting-Bytes-in-Software-Fuzzing">The 5th International Workshop on the Next Level of Test Automation (NEXTA 2022) at the IEEE International Conference on Software Testing Verification and Validation (ICST 2022)</a></span> 
 <br>
 <br>
 <a href="../project-fuzz-enhance/index.html"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Enhancing Fuzzing Projects</b></a>

@@ -6,9 +6,10 @@ title: From Query to Usable Code - An Analysis of Stack Overflow Code Snippets
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Di Yang, Aftab Hussain, Cristina Lopes  <br></span>
-<span style="color: gray;"><a href="http://mondego.ics.uci.edu/">Mondego Group</a>
+<a href="http://mondego.ics.uci.edu/">Mondego Group</a>
 <br> Bren School of Information and Computer Sciences
 <br> University of California, Irvine 
+<span style="color: gray;">
 <br> Supported by <a href = "https://www.nsf.gov/">National Science Foundation</a>
 <br>  <a href="https://2016.msrconf.org/#/home">13th International Conference on Mining Software Repositories (MSR 2016), Austin, Texas</a></span> 
 <br>

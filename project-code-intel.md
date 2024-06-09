@@ -9,7 +9,7 @@ Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
 Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
 Sahil Suneja<sup>6</sup> <br></span>
-<span style="color: gray; font-size: small;">University of Houston<sup>1</sup>,
+<span style="color: gray;">University of Houston<sup>1</sup>,
 Carnegie Mellon University<sup>2</sup>, North Carolina State
 University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
 Management University<sup>5</sup>, IBM Research<sup>6</sup>

@@ -5,7 +5,7 @@ title: Enhancing Fuzzing for Better Bug Detection and Triaging
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Aftab Hussain, Mohammad Amin Alipour <br></span>
-<span style="color: gray; font-size: small;">Software Engineering Research Group
+<span style="color: gray; ">Software Engineering Research Group
 <br> Department of Computer Science
 <br> University of Houston 
 <br> 2020 to 2021</span> 
