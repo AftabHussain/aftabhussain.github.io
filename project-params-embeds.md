@@ -12,9 +12,7 @@ Software Engineering Research Group
 Houston 
 <br> 
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
-<br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">AIware'24: 1st ACM International Conference on AI-powered Software,
-co-located with the ACM International Conference on the Foundations of Software
-Engineering (FSE), 2024, Porto de Galinhas, Brazil </a></span> 
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">The 1st ACM International Conference on AI-powered Software (AIware 2024), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE 2024), Porto de Galinhas, Brazil </a></span> 
 <br>
 <br>
 <a href="../project-code-intel/index.html"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Safe and Explainable AI Projects</b></a>

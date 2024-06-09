@@ -6,7 +6,7 @@ title: Memorization and Generalization in Neural Code Intelligence Models
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Md Rafiqul Islam Rabin, Aftab Hussain, Vincent J. Hellendoorn, Mohammad Amin Alipour  <br></span>
 <span style="color: gray;">
-<br> University of Houston
+University of Houston
 <br> Carnegie Mellon University
 <br> 
 <br>  <span class="material-symbols-outlined" style="font-size: 13pt;">article</span> Published at <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756">The Journal of Information and Software Technology, 2023</a></span> 

@@ -6,12 +6,12 @@ title: A Study of Variable-Role-based Feature Enrichment in Neural Models of Cod
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Aftab Hussain, Md Rafiqul Islam Rabin, Bowen Xu, David Lo, Mohammad Amin Alipour  <br></span>
 <span style="color: gray;">
-<br> University of Houston
+University of Houston
 <br> Carnegie Mellon University
 <br> 
-<br>  <span class="material-symbols-outlined" style="font-size: 13pt;">article</span> Accepted at <a href="https://intense23.github.io/">InteNSE'23: The 1st International Workshop on Interpretability and
-Robustness in Neural Software Engineering, co-located with the 45th
-International Conference on Software Engineering, ICSE 2023, Melbourne,
+<br>  <span class="material-symbols-outlined" style="font-size: 13pt;">article</span> Accepted at <a href="https://intense23.github.io/"> The 1st International Workshop on Interpretability and
+Robustness in Neural Software Engineering (InteNSE 2023), co-located with the 45th
+International Conference on Software Engineering (ICSE 2023), Melbourne,
 Australia</a></span> 
 <br>
 <br>
