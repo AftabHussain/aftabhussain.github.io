@@ -46,7 +46,7 @@ _____________
     <span style="font-size: small;">Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
     Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen <br></span>
     <span style="color: gray; font-size: small;">University of California, Irvine 
-    <br> Supported by National Science Foundation, ACM<br>2015 to 2017</span>
+    <br> Supported by National Science Foundation, ACM<br>2015 to 2017<br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Big Data Systems</span>
 </div>
@@ -56,7 +56,7 @@ _____________
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Di Yang, Aftab Hussain, Cristina Lopes <br></span>
     <span style="color: gray; font-size: small;">University of California, Irvine 
-    <br> Supported by National Science Foundation<br>2013 to 2015</span>
+    <br> Supported by National Science Foundation<br>2013 to 2015<br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Mining Software Repositories</span>
 </div>
@@ -65,7 +65,7 @@ _____________
 ## [Software Restructuring using Hierarchical Clustering](../project-kw-sw/index.html) {#kw-sw-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Md. Saidur Rahman <br></span>
-    <span style="color: gray; font-size: small;">Bangladesh University of Engineering and Technology <br> Supported by CodeCrafters International<br>2011 to 2013</span> 
+    <span style="color: gray; font-size: small;">Bangladesh University of Engineering and Technology <br> Supported by CodeCrafters International<br>2011 to 2013<br></span> 
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
 </div>
