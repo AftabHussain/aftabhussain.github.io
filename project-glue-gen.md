@@ -24,10 +24,8 @@ source-to-source translator from the LXD IDL to C.
 
 _________________________
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="/documents/pubs/lxds-usenix19.pdf">
 <span class="material-symbols-outlined"> article </span>Paper - USENIX 2019
 </a>
@@ -40,7 +38,7 @@ Resources:
 <span class="material-symbols-outlined"> description  </span>IDL Compiler Documentation
 </a>
 </b>
-</small>
+</div>
 
 
 	

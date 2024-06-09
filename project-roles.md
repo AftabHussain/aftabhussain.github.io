@@ -44,10 +44,8 @@ performing coding tasks? We do an exploratory study:
 _________________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://www.computer.org/csdl/proceedings-article/intense/2023/017200a014/1P4kEfsqveg">
 <span class="material-symbols-outlined"> article </span>Paper - InteNSE 2023
 </a>
@@ -65,5 +63,5 @@ Resources:
 </a>
 <br>
 </b>
-</small>
+</div>
 

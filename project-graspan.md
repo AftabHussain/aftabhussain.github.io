@@ -48,10 +48,8 @@ tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd
 ____________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://dl.acm.org/doi/10.1145/3037697.3037744">
 <span class="material-symbols-outlined"> article </span>Paper - ASPLOS 2017
 </a>
@@ -72,5 +70,5 @@ Resources:
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github
 </a>
 </b>
-</small>
+</div>
 

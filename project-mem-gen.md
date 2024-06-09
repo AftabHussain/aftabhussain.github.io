@@ -25,10 +25,8 @@ misuse task.
 _________________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756">
 <span class="material-symbols-outlined"> article </span>Paper - IST 2023 
 </a>
@@ -45,5 +43,5 @@ Resources:
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github (Custom Finetuning Stats Generation)
 </a>
 </b>
-</small>
+</div>
 

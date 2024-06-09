@@ -44,13 +44,11 @@ embeddings.
 _________________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://arxiv.org/abs/2405.11466">
 <span class="material-symbols-outlined"> article </span>Paper - arXiv 2024 (Proceedings to appear)
 </a>
 </b>
-</small>
+</div>
 

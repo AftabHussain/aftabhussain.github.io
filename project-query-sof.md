@@ -31,8 +31,14 @@ the languages with the lowest usability rate.
 
 _________________
 
-<b>Download:
-<br>[Paper](https://arxiv.org/pdf/1605.04464.pdf)
+
+<div style="font-family: 'Alata'; font-size: small;">
+<b>
+<a href="https://arxiv.org/abs/1605.04464">
+<span class="material-symbols-outlined"> article </span>Paper - arXiv 2016 (Proceedings to appear)
+</a>
+</b>
+</div>
 
 
 	

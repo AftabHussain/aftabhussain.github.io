@@ -38,8 +38,6 @@ _________________________
 
 <div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://ieeexplore.ieee.org/document/9787966">
 <span class="material-symbols-outlined"> article </span>Paper - ICST NEXTA 2022
 </a>

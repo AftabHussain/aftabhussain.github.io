@@ -20,10 +20,8 @@ graphs.
 _________________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="/documents/pubs/tech-report18-dsa-idl.pdf">
 <span class="material-symbols-outlined"> article </span>Technical Report
 </a>
@@ -31,5 +29,5 @@ Resources:
 <a href="https://github.com/AftabHussain/DataStructureAnalysis/tree/dsa_llvm3.8">
 <span class="material-symbols-outlined"> code_blocks </span>Source code - Github</a>
 </b>
-</small>
+</div>
 	

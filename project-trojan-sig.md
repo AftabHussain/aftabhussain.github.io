@@ -39,10 +39,8 @@ Cracking the puzzle for code models, however, proved challenging. Unlike compute
 _________________________
 
 
-<small>
+<div style="font-family: 'Alata'; font-size: small;">
 <b>
-Resources:
-<br>
 <a href="https://openreview.net/pdf?id=RkmKt31AWp">
 <span class="material-symbols-outlined"> article </span>Paper - SeT LLM at ICLR 2024
 </a>
@@ -52,5 +50,5 @@ Resources:
 </a>
 <br>
 </b>
-</small>
+</div>
 
