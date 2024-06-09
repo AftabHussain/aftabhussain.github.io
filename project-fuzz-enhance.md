@@ -54,5 +54,5 @@ _____________
 </div>
 _____________
 
-<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/" target="_blank">Freepik</a></small></p>
+<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/free-photo/close-up-blue-sparks-glitter_21536133.htm#fromView=image_search&page=1&position=0&uuid=0bdb2a3a-c86c-4563-8461-e41db861ce9f" target="_blank">Freepik</a></small></p>
 
