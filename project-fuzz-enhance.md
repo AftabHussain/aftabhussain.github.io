@@ -11,10 +11,10 @@ title: Enhancing Fuzzing for Better Bug Detection and Triaging
 <br> 2020 to 2021</span> 
 <br>
 <br>
-<a href="../Projects/index.html#fuzz-enhance-menu"><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b>Return to Projects</a>
+<a href="../Projects/index.html#fuzz-enhance-menu"><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b>Return to Projects</b></a>
 <br>
 <br>
-</b>
+</div>
 
 
 <style>
