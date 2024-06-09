@@ -23,13 +23,13 @@ ____________
 
 ## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
-<small><font color="#3F5E8C"><b>AI for Software Engineering<b>
+<small><font color="#046cb5"><b>AI for Software Engineering<b>
 
-<small><font color="#3F5E8C"> Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code </font> [[preprint](https://arxiv.org/abs/2405.11466)]
+<small><font color="#046cb5"> Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code </font> [[preprint](https://arxiv.org/abs/2405.11466)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
 
-<small><font color="#3F5E8C"> Trojans in Large Language Models of Code: A Critical Review through a Trigger-Based Taxonomy </font> [[preprint](https://arxiv.org/abs/2405.02828)] 
+<small><font color="#046cb5"> Trojans in Large Language Models of Code: A Critical Review through a Trigger-Based Taxonomy </font> [[preprint](https://arxiv.org/abs/2405.02828)] 
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Toufique Ahmed, Bowen Xu, Mohammad Amin Alipour
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), Late Breaking arXiv Track, co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
 
@@ -49,20 +49,20 @@ ____________
 <small>[Syntax-Guided Program Reduction for Understanding Neural Code Intelligence Models](https://dl.acm.org/doi/abs/10.1145/3520312.3534869)<br> Md Rafiqul Islam Rabin, Aftab Hussain, Mohammad Amin Alipour 
 <br><font color="gray"> The 6th Annual Symposium on Machine Programming (MAPS '22), San Diego, California, 2022
 
-<small><font color="#3F5E8C"><b>Software Testing<b>
+<small><font color="#046cb5"><b>Software Testing<b>
 
 <small>[Removing Uninteresting Bytes in Software Fuzzing](https://ieeexplore.ieee.org/document/9787966)
 <br> Aftab Hussain and Mohammad Amin Alipour 
 <br><font color="gray"> 5th International Workshop on the Next Level of Test Automation (NEXTA '22), IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Virtual, 2022
 
-<small><font color="3F5E8C"><b>Kernel Security<b>
+<small><font color="046cb5"><b>Kernel Security<b>
 
 <small>[LXDs: Towards Isolation of Kernel Subsystems](https://www.usenix.org/conference/atc19/presentation/narayanan) [[paper](./documents/pubs/lxds-usenix19.pdf)]<br>Vikram Narayanan, Abhiram Balasubramanian, Charlie Jacobsen, Sarah Spall,
 Scott Bauer, Michael Quigley, Aftab Hussain, Abdullah Younis, Junjie Shen,
 Moinak Bhattacharyya, Anton Burtsev <br><font color="gray">2019 USENIX Annual Technical
 Conference (USENIX ATC '19), Renton, Washington, 2019
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -70,38 +70,38 @@ Code](https://dl.acm.org/citation.cfm?id=3037744&lipi=urn%253Ali%253Apage%253Ad_
 22nd ACM International Conference on Architectural Support for Programming
 Languages and Operating Systems (ASPLOS '17), Xi'an, China, 2017
  
-<small><font color="3F5E8C"><b>Mining Software Repositories<b>
+<small><font color="046cb5"><b>Mining Software Repositories<b>
 
 <small>[From Query to Usable code: An Analysis of Stack Overflow code
 snippets](https://dl.acm.org/citation.cfm?id=2901767) [[paper](https://arxiv.org/pdf/1605.04464.pdf)] <br>Di Yang, Aftab
 Hussain, Cristina Videira Lopes <br><font color="gray">13th International Conference on Mining
 Software Repositories (MSR '16), Austin, Texas, 2016
 
-<small><font color="3F5E8C"><b>Software Restructuring<b>
+<small><font color="046cb5"><b>Software Restructuring<b>
 
 <small>[A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level](https://dl.acm.org/citation.cfm?id=2442761) [[paper](/documents/pubs/isec13-soft-clustering.pdf)] <br> Aftab
 Hussain and Md. Saidur Rahman <br><font color="gray">6th India Software Engineering Conference,
 New Delhi, India, 2013
 
-<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> [[paper](/documents/pubs/gdga13-soft-decomp.pdf)] <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+<small><font color="046cb5">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> [[paper](/documents/pubs/gdga13-soft-decomp.pdf)] <br> Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
-<small><font color="3F5E8C"><b>Graph Drawing<b>
+<small><font color="046cb5"><b>Graph Drawing<b>
 
-<small><font color="3F5E8C">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
+<small><font color="046cb5">L-Shaped Drawings of Series-Parallel Graphs</font> [[paper](/documents/pubs/imc13-l-shaped-drawing.pdf)] <br> Iqbal Hossain,
 Shaheena Sultana, Aftab Hussain, Nazmun Nessa Moon, Md. Saidur Rahman <br><font color="gray">18th International Mathematics Conference, Dhaka, Bangladesh, 2013
 
 ____________
 
 ## Journal Publications <a href="#top">⬆</a> {#journal}
 
-<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+<small><font color="046cb5"><b>AI for Software Engineering<b>
 
 <small>[Memorization and Generalization in Neural Code Intelligence Models](https://www.sciencedirect.com/science/article/pii/S0950584922001756)
 <br> Md Rafiqul Islam, Aftab Hussain, Mohammad Amin Alipour, Vincent J. Hellendoorn
 <br><font color="gray"> Information and Software Technology, Volume 153, January 2023
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Systemizing Interprocedural Static Analysis of Large-scale Systems
 Code with Graspan](https://dl.acm.org/doi/abs/10.1145/3466820)
@@ -115,17 +115,17 @@ ____________
 
 ## Posters <a href="#top">⬆</a>  {#posters}
 
-<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+<small><font color="046cb5"><b>AI for Software Engineering<b>
 
-<small><font color="#3F5E8C">On Trojan Signatures in Large Language Models of Code</font> [[poster](/documents/pubs/setllm24-trojan-signatures-poster.pdf)]
+<small><font color="#046cb5">On Trojan Signatures in Large Language Models of Code</font> [[poster](/documents/pubs/setllm24-trojan-signatures-poster.pdf)]
 <br><font color="gray"> The International Conference on Learning Representations Workshop on Secure and Trustworthy Large Language Models
 (SeT LLM at ICLR ’24),  Vienna, Austria, 2024 
 
-<small><font color="#3F5E8C"> Trojan Detection in Large Language Models of Code</font> [[poster](/documents/pubs/uh-phd-showcase-trojan-detection-poster.pdf)]
+<small><font color="#046cb5"> Trojan Detection in Large Language Models of Code</font> [[poster](/documents/pubs/uh-phd-showcase-trojan-detection-poster.pdf)]
 <br><font color="gray">
 CS PhD Showcase, University of Houston, 2024
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -133,7 +133,7 @@ Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#Ab
 on Programming Language Design and Implementation (PLDI '16), Santa
 Barbara, California, 2016
        
-<small><font color="#3F5E8C">Graspan: A Single-machine Disk-based Graph System for
+<small><font color="#046cb5">Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems Code</font> <br><font color="gray">Computer Science Research Showcase, University of California,
 Irvine, 2016     
 
@@ -150,7 +150,7 @@ ____________
 
 ## Open Access <a href="#top">⬆</a>  {#open-access}	
 
-<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+<small><font color="046cb5"><b>AI for Software Engineering<b>
 
 <small>[Measuring Impacts of Poisoning on Model Parameters and Neuron Activations: A Case Study of Poisoning CodeBERT](https://arxiv.org/abs/2402.12936) <br> 
 Aftab Hussain,
@@ -197,7 +197,7 @@ North Carolina State University<sup>3</sup>,
 <small>[Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/abs/2106.08704)<br> Md Rafiqul Islam Rabin<sup>1</sup>, Aftab Hussain<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Mohammad Amin Alipour<sup>1</sup><br><font color="gray">University of Houston<sup>1</sup>, Carnegie Mellon University<sup>2</sup>, 2021 
 
 
-<small><font color="3F5E8C"><b>Software Testing<b>
+<small><font color="046cb5"><b>Software Testing<b>
 
 <small>[DIAR: Removing Uninteresting Bytes from Seeds in Software Fuzzing](https://arxiv.org/abs/2112.13297)<br> Aftab Hussain, Mohammad Amin Alipour<br><font color="gray">University of Houston, 2021 
 
@@ -206,7 +206,7 @@ North Carolina State University<sup>3</sup>,
 <small>[Testing the Robustness of a BiLSTM-based Structural Story Classifier](https://arxiv.org/abs/2201.02733)<br> Aftab Hussain, Sai Durga Prasad Nanduri, Sneha Seenuvasavarathan <br><font color="gray">University of Houston, 2022
 
 
-<small><font color="3F5E8C"><b>Security<b>
+<small><font color="046cb5"><b>Security<b>
 
 <small>[Common Vulnerabilities and Exposures in the
 Cloud](/documents/pubs/tech-report20-cve.pdf)<br> Aftab Hussain, Anton Burtsev
@@ -221,7 +221,7 @@ California, Irvine, 2018
 <br><font color="gray">
 Institute of Engineering and Management (IEM), Kolkata, 2009 
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Systemized Program Analyses: A Big Data Perspective on Scaling Large-Scale Code Analyses](/documents/pubs/tech-report17-big-data-perspective.pdf)<br> Guoqing Xu, Zhiqiang Zuo, Kai Wang, Aftab Hussain, and Khanh Nguyen<br><font color="gray">University of California, Irvine, 2017 
 
@@ -230,16 +230,16 @@ Program Analysis](/documents/pubs/tech-report15-graphdtc.pdf)<br>Aftab
 Hussain and Guoqing Xu <br><font color="gray">University
 of California, Irvine, 2015
 
-<small><font color="3F5E8C"><b>Software Design<b>
+<small><font color="046cb5"><b>Software Design<b>
 
 <small>[Readle: A Formal Framework for Designing AI-based Edge Systems](https://arxiv.org/pdf/2205.09239.pdf)<br>Aftab Hussain<br><font color="gray">University of Houston, 2022
 
-<small><font color="3F5E8C"><b>Shared Memory Systems<b>
+<small><font color="046cb5"><b>Shared Memory Systems<b>
 
 <small>[A Study on Memory Consistency Approaches in Distributed Shared
 Memory Systems](/documents/pubs/tech-report16-memcons.pdf)<br>Aftab Hussain<br><font color="gray">University of California, Irvine, 2016
 
-<small><font color="3F5E8C"><b>Requirements Engineering<b>
+<small><font color="046cb5"><b>Requirements Engineering<b>
 
 <small>[A Holistic Look at Requirements Engineering Practices in the
 Gaming Industry](https://arxiv.org/abs/1811.03482)<br>Aftab
@@ -250,7 +250,7 @@ Document](/documents/pubs/tech-report15-re-eurotruck.pdf)<br>Omar Asadi and
 Aftab Hussain <br><font color="gray">University of California,
 Irvine, 2015
 
-<small><font color="3F5E8C"><b>Code Cloning<b>
+<small><font color="046cb5"><b>Code Cloning<b>
 
 <small>[Instant Clone Finder: Detecting Clones During Software
 Development](/documents/pubs/tech-report15-instacf.pdf)<br>Vaibhav Saini,
@@ -262,7 +262,7 @@ Hitesh Sajnani, Jaewoo Kim, Aftab Hussain and Cristina Lopes <br><font color="gr
 Saini, Aftab Hussain<br><font color="gray">University of
 California, Irvine, 2014
 
-<small><font color="3F5E8C"><b>Mining Software Repositories<b>
+<small><font color="046cb5"><b>Mining Software Repositories<b>
 
 <small>[Analyzing StackOverflow Response Time for Java Topics using Code
 Clustering](/documents/pubs/tech-report14-sof-resp-time.pdf) <br> Rezvan
@@ -273,11 +273,11 @@ Github)](/documents/pubs/tech-report14-follow-watch.pdf)<br> Di Yang, Aftab
 Hussain, Cristina Videira Lopes<br><font color="gray">University
 of California, Irvine, 2014
 
-<small><font color="3F5E8C"><b>Networking<b>
+<small><font color="046cb5"><b>Networking<b>
 
 <small>[An Experimental Study on the Network Performance of SCTP](/documents/pubs/tech-report11-sctp.pdf) <br>Aftab Hussain, Khalid Mahmood, Saif-ul-Islam Khan, Syed Muzakkir Ahmed<br><font color="gray">Bangladesh University of Engineering and Technology, 2011
 
-<small><font color="3F5E8C"><b>Graph Drawing<b>
+<small><font color="046cb5"><b>Graph Drawing<b>
 
 <small>[Edge Crossing Minimization in Graphs - A Survey](/documents/pubs/tech-report10-cross-min.pdf) <br>Aftab Hussain and Md. Saidur Rahman<br><font color="gray">Bangladesh University of Engineering and Technology, 2010
 
@@ -285,14 +285,14 @@ ____________
 
 ## Technical Articles <a href="#top">⬆</a>  {#tech-articles}	
 
-<small><font color="#3F5E8C"><b>Software Engineering Management<b>
+<small><font color="#046cb5"><b>Software Engineering Management<b>
 
 <small>[Process Theories and Taxonomies in Software Engineering](/documents/pubs/misc-art20-swe-proc-theories-taxonomies.pdf) 
 <br> Aftab Hussain
 <br> <font color="gray"> University of California, Irvine
 <br> February 2, 2020
 
-<small><font color="#3F5E8C"><b>Education Sciences<b>
+<small><font color="#046cb5"><b>Education Sciences<b>
 
 <small>[Instructional Technology: Article Analysis -- Using Social Media for Classroom Peer Assessment and Teaching](/documents/pubs/misc-art20-instructional-tech-analysis.pdf) 
 <br> Aftab Hussain

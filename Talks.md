@@ -12,7 +12,7 @@ ____________
 ## Conference and Workshop Talks 
 <!-- <a href="#top">⬆</a> {#conf-talks}  -->
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
 Interprocedural Static Analyses of Large-scale Systems
@@ -23,14 +23,14 @@ SoCal PLS: Programming Languages and Systems, Irvine, California, 2016
 Interprocedural Static Analyses of Large-scale Systems
 Code](https://pldi16.sigplan.org/track/Student+Research+Competition+%28SRC%29#About) [[poster](/documents/pubs/asplos17-graspan-poster.pdf)]<br><font color="gray">Student Research Competition, 37th ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI '16), Santa Barbara, California, 2016 (poster)
        
-<small><font color="3F5E8C"><b>Software Clustering<b>
+<small><font color="046cb5"><b>Software Clustering<b>
         
-<small><font color="3F5E8C">A New Hierarchical Clustering Technique for Restructuring Software
+<small><font color="046cb5">A New Hierarchical Clustering Technique for Restructuring Software
 at the Function level</font> <br><font color="gray">6th India Software Engineering Conference, New Delhi, India, 2013
 
-<small><font color="3F5E8C">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
+<small><font color="046cb5">A New Clustering Technique using (k,w)-Core Decomposition for Restructuring Software Functions</font> <br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
-<small><font color="3F5E8C"><b>Graph Drawing<b>
+<small><font color="046cb5"><b>Graph Drawing<b>
 
 <small>[Open Problems in Graph Drawing](/documents/pubs/gdga13-open-problems-presentation.pdf)<br><font color="gray">Workshop on Graph Drawing and Graph Algorithms, Dhaka, Bangladesh, 2013   
 
@@ -41,11 +41,11 @@ ____________
 
 <small><i>Includes talks I gave on my research projects and on papers by other researchers</i></small>
 
-<small><font color="3F5E8C"><b>Safe and Explainable AI<b>
+<small><font color="046cb5"><b>Safe and Explainable AI<b>
 
 <small>[All Talks at SERG-UH Reading Group](https://docs.google.com/spreadsheets/d/1yPAB66pxvmf7Vf52884P78KlrW0Jdk58zz3HkLgvT1g/edit?usp=sharing) <br><font color="gray">Software Engineering Research Group, University of Houston
 
-<small><font color="3F5E8C"><b>Software Testing<b>
+<small><font color="046cb5"><b>Software Testing<b>
 
 <small>[Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code, Fraser Brown et al. (Stanford University, University of California at San Diego), USENIX Security '20](https://www.usenix.org/conference/usenixsecurity20/presentation/brown)
 <br><font color="gray"> Software Engineering Research Group Meet, University of Houston, March 2021
@@ -71,7 +71,7 @@ ____________
 <small>[DART: directed automated random testing, Patrice Godefroid et al. (Bell Labs, Lucent Technologies, University of Illinois at Urbana-Champaign), PLDI '05](https://dl.acm.org/doi/10.1145/1064978.1065036)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, August 2016
 
-<small><font color="3F5E8C"><b>Big Data Systems<b>
+<small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems, ASPLOS '17](https://dl.acm.org/doi/10.1145/3093336.3037744)
 <br><font color="gray"> Guest Lecture, CS201P Computer Security Class, University of California, Irvine, February 2020
@@ -79,17 +79,17 @@ ____________
 <small>[Naiad: A Timely Dataflow System, Derek G. Murray et al. (Microsoft Research), SOSP '13](https://dl.acm.org/doi/10.1145/2517349.2522738)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, December 2015
 
-<small><font color="3F5E8C"><b>Security<b>
+<small><font color="046cb5"><b>Security<b>
 
 <small>[Shielding Applications from an Untrusted Cloud with Haven, Andrew Baumann et al. (Microsoft Research), OSDI '14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/baumann)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, February 2016
 
-<small><font color="3F5E8C"><b>Program Synthesis<b>
+<small><font color="046cb5"><b>Program Synthesis<b>
 
 <small>[A Comparative Analysis of the Usability of Stack Overflow Code Snippets Across Languages](/documents/pubs/presentation15-prog-synth.pdf)
 <br><font color="gray"> Programming Languages and Systems Group Meet, Department of Computer Science, University of California, Irvine, April 2015
 
-<small><font color="3F5E8C"><b>Software Environments & Code Cloning<b>
+<small><font color="046cb5"><b>Software Environments & Code Cloning<b>
 
 <small>[A New approach for fixing bugs in Code Clones: Fix It There Too
 (FITT)](/documents/pubs/presentation14-fitt.pdf)<br>(co-presented with [Vaibhav
