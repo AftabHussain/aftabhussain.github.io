@@ -3,13 +3,9 @@ layout: page
 title: Projects 
 ---
 
-## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>
-
-<font style="font-weight: 300; font-size: small;">
+<font class="project-label">
 <span class="material-symbols-outlined"> label </span> Deep Neural Models of Code
 </font>
-
-
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
@@ -18,7 +14,10 @@ title: Projects
 
 _____________
 
-## <font color="3F5E8C"> <b>Software Testing<b>
+
+<font class="project-label">
+<span class="material-symbols-outlined"> label </span> Software Testing 
+</font>
 
 ## [Enhancing fuzzing for better bug detection and triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
 Aftab Hussain, Mohammad Amin Alipour <small><br><font color="gray">University of Houston <br> 2020 to 2021</font> 
