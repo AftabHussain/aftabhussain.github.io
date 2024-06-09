@@ -36,7 +36,7 @@ software development tasks including **defect detection**, **clone detection**,
 and **text-to-code generation**.  Our works include model probing and black box
 techniques that involve fine-tuning the models on noisy and poisoned code
 datasets derived from benchmark sources like Microsoft's **CodeXGLUE**,
-utilizing NVIDIA A100 GPUs. Here is a list of the sub-projects: 
+utilizing NVIDIA A100 GPUs. Here is a list of the works in this project: 
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <div style="font-family: 'Alata';">
@@ -60,14 +60,28 @@ Models (SeT LLM at ICLR '24), 2024, Vienna, Austria <br></span>
     <span style="color: #1ba2d6; font-size: small;">Safe AI for Code</span>
 </div>
 
+_____________
+
+
 ## [A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](../project-roles/index.html) 
-<small><font color="gray"> 
-InteNSE'23: The 1st International Workshop on Interpretability and
+<div style="font-family: 'Alata';">
+    <span style="color: gray; font-size: small;">InteNSE'23: The 1st International Workshop on Interpretability and
 Robustness in Neural Software Engineering, co-located with the 45th
 International Conference on Software Engineering, ICSE 2023, Melbourne,
-Australia</font> 
+Australia  <br></span>
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Explainable AI for Code</span>
+</div>
+
+_____________
+
 
 ## [Memorization and Generalization in Neural Code Intelligence Models](../project-mem-gen/index.html) 
+<div style="font-family: 'Alata';">
+    <span style="color: gray; font-size: small;">Journal of Information and Software Technology, 2023
+<br></span>
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Explainable AI for Code</span>
+</div>
 <small><font color="gray"> 
-Journal of Information and Software Technology, 2023
 </font> 

@@ -3,13 +3,19 @@ layout: page
 title: On Trojan Signatures in Large Language Models of Code
 ---
 
-Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour <small>
-<br> <font color="gray">Software Engineering Research Group (University of
-Houston), 
-<br> International Conference on Learning Representations Workshop on Secure and
-Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna, Austria
-</font> 
+<div style="font-family: 'Alata';">
+<span style="font-size: small;">Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour
+<br> <font color="gray">
+Software Engineering Research Group, University of Houston 
+<br> Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
+href = "https://www.iarpa.gov/">IARPA</a>
+<br>International Conference on Learning Representations Workshop on Secure and
+Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna, Austria</font> 
 <br><b><a href="../project-code-intel/index.html">Return to Safe and Explainable AI Projects</a></b>
+<br>
+<br>
+</span>
+</div>
 
 <style>
 img {
