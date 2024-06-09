@@ -5,14 +5,16 @@ title: Glue code generation for Linux Kernel Security
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Vikram Narayanan, Aftab Hussain, Anton Burtsev   <br></span>
-Mars Systems, Department of Computer Science, University of California, Irvine 
 <span style="color: gray;">
-<br> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
-<br> Accepted at <a href="https://www.usenix.org/conference/atc19/presentation/narayanan">The 2019 USENIX Annual Technical Conference (USENIX ATC 2019)
+Mars Systems
+<br> Department of Computer Science
+<br> University of California, Irvine 
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> account_balance <a href="https://www.nsf.gov/">National Science Foundation</a>
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> Accepted at <a href="https://www.usenix.org/conference/atc19/presentation/narayanan">The 2019 USENIX Annual Technical Conference (USENIX ATC 2019)
 Renton, Washington</a></span> 
 <br>
 <br>
-<a href="../Projects/index.html#glue-gen-menu><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
+<a href="../Projects/index.html#glue-gen-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
 <br>
 <br>
 </div>
