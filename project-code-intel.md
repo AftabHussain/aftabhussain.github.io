@@ -8,20 +8,31 @@ title: Safe and Explainable AI for Code
 Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
 Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
-Sahil Suneja<sup>6</sup> 
-<br> <font color="gray">
-University of Houston<sup>1</sup>,
+Sahil Suneja<sup>6</sup> <br></span>
+<span style="color: gray; font-size: small;">University of Houston<sup>1</sup>,
 Carnegie Mellon University<sup>2</sup>, North Carolina State
 University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
 Management University<sup>5</sup>, IBM Research<sup>6</sup>
 <br> Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
 href = "https://www.iarpa.gov/">IARPA</a>
-<br> 2021 to present</font> 
+<br> 2021 to present</span> 
 <br><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
 <br>
 <br>
 </span>
 </div>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+<img src="../images/projects/code-intel/ai-background.jpg" alt="drawing"/>
 
 
 This extensive project comprises of several sub-projects delving into two

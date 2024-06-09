@@ -23,7 +23,7 @@ ____________
 
 ## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
-<small><font color="3F5E8C"><b>AI for Software Engineering<b>
+<small><font color="#3F5E8C"><b>AI for Software Engineering<b>
 
 <small><font color="#3F5E8C"> Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code </font> [[preprint](https://arxiv.org/abs/2405.11466)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
@@ -49,7 +49,7 @@ ____________
 <small>[Syntax-Guided Program Reduction for Understanding Neural Code Intelligence Models](https://dl.acm.org/doi/abs/10.1145/3520312.3534869)<br> Md Rafiqul Islam Rabin, Aftab Hussain, Mohammad Amin Alipour 
 <br><font color="gray"> The 6th Annual Symposium on Machine Programming (MAPS '22), San Diego, California, 2022
 
-<small><font color="3F5E8C"><b>Software Testing<b>
+<small><font color="#3F5E8C"><b>Software Testing<b>
 
 <small>[Removing Uninteresting Bytes in Software Fuzzing](https://ieeexplore.ieee.org/document/9787966)
 <br> Aftab Hussain and Mohammad Amin Alipour 
@@ -285,14 +285,14 @@ ____________
 
 ## Technical Articles <a href="#top">⬆</a>  {#tech-articles}	
 
-<small><font color="3F5E8C"><b>Software Engineering Management<b>
+<small><font color="#3F5E8C"><b>Software Engineering Management<b>
 
 <small>[Process Theories and Taxonomies in Software Engineering](/documents/pubs/misc-art20-swe-proc-theories-taxonomies.pdf) 
 <br> Aftab Hussain
 <br> <font color="gray"> University of California, Irvine
 <br> February 2, 2020
 
-<small><font color="3F5E8C"><b>Education Sciences<b>
+<small><font color="#3F5E8C"><b>Education Sciences<b>
 
 <small>[Instructional Technology: Article Analysis -- Using Social Media for Classroom Peer Assessment and Teaching](/documents/pubs/misc-art20-instructional-tech-analysis.pdf) 
 <br> Aftab Hussain
