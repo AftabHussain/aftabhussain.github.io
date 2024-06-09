@@ -150,6 +150,25 @@ h4, h5, h6 {
   margin-top: 1rem;
 }
 
+/*
+* Newly added styles
+*/
+
+/* Project label text to indicate domain */
+.project-label {
+  //font-family: $heading-font;
+  font-family: "Alata";
+  margin-bottom: .5rem;
+  font-weight: 300;
+  color: $heading-color;
+  letter-spacing: -.025rem;
+  text-rendering: optimizeLegibility;
+  font-weight: 450;
+  font-size: small;
+}
+
+/*****/
+
 
 /* Body text */
 p {
