@@ -3,13 +3,20 @@ layout: page
 title: Glue code generation for Linux Kernel Security
 ---
 
-Vikram Narayanan, Aftab Hussain, Anton Burtsev <small>
-<br> <font color="gray">Mars Systems
-<br> Department of Computer Science
-<br> University of California, Irvine 
-<br> Supported by National Science Foundation
-<br> 2018 to 2019</font> 
-<br><b><a href="../Projects/index.html#glue-gen-menu">Return to Projects</a></b>
+<div style="font-family: 'Alata'; font-size: small;">
+<span>Vikram Narayanan, Aftab Hussain, Anton Burtsev   <br></span>
+Mars Systems, Department of Computer Science, University of California, Irvine 
+<span style="color: gray;">
+<br> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
+<br> Accepted at <a href="https://www.usenix.org/conference/atc19/presentation/narayanan">The 2019 USENIX Annual Technical Conference (USENIX ATC 2019)
+Renton, Washington</a></span> 
+<br>
+<br>
+<a href="../Projects/index.html#glue-gen-menu><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
+<br>
+<br>
+</div>
+
 
 Generated glue code from IDL syntax for Linux kernel security using
 vembyr code parser generator.

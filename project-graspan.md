@@ -3,14 +3,22 @@ layout: page
 title: Graspan - A Big Data System for analyzing Large-scale Systems Code
 ---
 
-Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
-Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen 
-<small><br> <font color="gray"><a href="http://analysys.ics.uci.edu/index.html">Programming Languages and Systems Group</a>
-<br> Department of Computer Science 
-<br> University of California, Irvine 
-<br> Supported by National Science Foundation, ACM
-<br>2015 to 2017</font> 
-<br><b><a href="../Projects/index.html#graspan-menu">Return to Projects</a></b>
+
+<div style="font-family: 'Alata'; font-size: small;">
+<span>Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
+Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen    <br></span>
+<a href="http://analysys.ics.uci.edu/index.html">Programming Languages and Systems Group</a>, Department of Computer Science, University of California, Irvine 
+<span style="color: gray;">
+<br> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>, <a href="https://www.acm.org/">ACM</a>
+<br> Accepted at <a href="https://web.archive.org/web/20160610190651/http://novel.ict.ac.cn/ASPLOS2017/">The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2017)
+Xi'an, China</a></span> 
+<br>
+<br>
+<a href="../Projects/index.html#graspan-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
+<br>
+<br>
+</div>
+
 
 <style>
 img {
@@ -38,7 +46,6 @@ tests** in **Linux 4.4.0-rc5**, **PostgreSQL 8.3.9**, and **Apache httpd
 2.2.18**.
 
 
-- Accepted in [ASPLOS '17](http://novel.ict.ac.cn/ASPLOS2017/), Xi'an, China.  
 - Featured in the tutorial, [Systemized Program Analyses: A Big Data Perspective on Static Analysis Scalability](http://web.cs.ucla.edu/~harryxu/asplos-tutorial/main.html), ASPLOS '17. 
 - Invited for presentation at [SoCal PLS '16](http://socalpls.github.io/archive/2016nov/).
 - Invited for poster presentation at [PLDI SRC '16](https://conf.researchr.org/track/pldi-2016/Student+Research+Competition+(SRC)).

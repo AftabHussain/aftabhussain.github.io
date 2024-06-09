@@ -5,9 +5,8 @@ title: Software Restructuring using Hierarchical Clustering
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Aftab Hussain, Md. Saidur Rahman   <br></span>
-<span style="color: gray;">Graph Drawing and Information Visualization Lab
-<br> Department of Computer Science and Engineering 
-<br> Bangladesh University of Engineering and Technology  
+Graph Drawing and Information Visualization Lab, Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology  
+<span style="color: gray;">
 <br> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
 <br> Accepted at <a href="https://isoft.acm.org/isec2013/">The 6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
 <br>
