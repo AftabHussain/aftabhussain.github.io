@@ -38,7 +38,11 @@ benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs.
 
 <hr class="special">
 <div class="row">
-<center><b><font color="gray">Works in this Project</font></b></center>
+    <center>
+        <b>
+            <span style="color: #404040; font-family: 'Alata', sans-serif;">Works in this Project</span>
+        </b>
+    </center>
 </div>
 <hr class="special">
 
