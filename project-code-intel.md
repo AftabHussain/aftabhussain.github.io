@@ -25,7 +25,7 @@ deep neural models in the coding domain.
 
 ● The models we investigate range in size from millions to billions of
 parameters; they include transformer-based Large Language Models (LLMs) like
-Microsoft's **CodeBERT**, Saleforce's **CodeT5**, Meta's **PLBART**, **Llama**,
+Microsoft's **CodeBERT**, Salesforce's **CodeT5**, Meta's **PLBART**, **Llama2**,
 and **CodeLlama**, BigCode's **StarCoder**, against attacks on software
 development tasks.
 
