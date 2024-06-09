@@ -5,6 +5,12 @@ title: Projects
 
 ## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>
 
+<span class="material-symbols-outlined">
+label
+</span>
+<font color="gray" family="JuneBug" font-weight=300><small>Deep Neural Models of Code</small></font>
+<br>
+
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 (Currently Ongoing)<small><br><font color="gray">University of Houston <br> 2021 to present</font> 
 <br>
