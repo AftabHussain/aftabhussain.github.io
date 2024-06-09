@@ -5,8 +5,8 @@ title: Projects
 
 ## <font color="3F5E8C"> <b>Deep Neural Models of Code<b>
 
-<font style="font-family: 'JuneBug'; font-weight: 300; font-size: small;">
-<span class="material-symbols-outlined"> label </span> Deep Neural Moodels of Code
+<font style="font-weight: 300; font-size: small;">
+<span class="material-symbols-outlined"> label </span> Deep Neural Models of Code
 </font>
 
 
