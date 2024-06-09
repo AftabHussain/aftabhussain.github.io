@@ -3,8 +3,8 @@ layout: page
 title: Safe and Explainable AI for Code 
 ---
 
-<div style="font-family: 'Alata';">
-<span style="font-size: small;">Aftab Hussain<sup>1</sup>, Md Rafiqul Islam Rabin<sup>1</sup>, Mohammad Amin
+<div style="font-family: 'Alata'; font-size: small;">
+<span>Aftab Hussain<sup>1</sup>, Md Rafiqul Islam Rabin<sup>1</sup>, Mohammad Amin
 Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
 Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
@@ -94,5 +94,7 @@ _____________
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Explainable AI for Code</span>
 </div>
-<small><font color="gray"> 
-</font> 
+
+_____________
+
+<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/free-photo/virtual-projection-lights-forming-square-pattern-dark-background_13500430.htm#fromView=search&page=4&position=52&uuid=2464b102-c894-41db-ba6c-24ff2d6ce136" target="_blank">Freepik</a></small></p>
