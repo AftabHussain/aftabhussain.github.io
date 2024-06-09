@@ -12,12 +12,13 @@ title: Projects
 </div>
 
 
-<font class="project-label">
-<span class="material-symbols-outlined"> label </span> Software Testing 
-</font>
-
 ## [Enhancing fuzzing for better bug detection and triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
-Aftab Hussain, Mohammad Amin Alipour <small><br><font color="gray">University of Houston <br> 2020 to 2021</font> 
+<div style="font-family: 'Alata';">
+    <span style="font-size: small;">Aftab Hussain, Mohammad Amin Alipour <br> 2020 to 2021 <br></span>
+    <span style="color: gray; font-size: small;">University of Houston <br> 2020 to 2021 <br></span>
+    <span class="material-symbols-outlined">label</span>
+    <span style="font-size: small;">Software Testing</span>
+</div>
 <br>
 
 
