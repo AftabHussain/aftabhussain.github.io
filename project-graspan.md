@@ -7,10 +7,15 @@ title: Graspan - A Big Data System for analyzing Large-scale Systems Code
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Kai Wang, Aftab Hussain, Zhiqiang Zuo, Harry Xu, Ardalan
 Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen    <br></span>
-<a href="http://analysys.ics.uci.edu/index.html">Programming Languages and Systems Group</a>, Department of Computer Science, University of California, Irvine 
 <span style="color: gray;">
-<br> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>, <a href="https://www.acm.org/">ACM</a>
-<br> Accepted at <a href="https://web.archive.org/web/20160610190651/http://novel.ict.ac.cn/ASPLOS2017/">The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2017)
+<a href="http://analysys.ics.uci.edu/index.html">Programming Languages and Systems Group</a>
+<br> Department of Computer Science
+<br> University of California, Irvine 
+<br> <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>, <a href="https://www.acm.org/">ACM</a>
+<br> 
+<span class="material-symbols-outlined" style="font-size: 13pt;">event</span> 
+Accepted at 
+<a href="https://web.archive.org/web/20160610190651/http://novel.ict.ac.cn/ASPLOS2017/">The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2017)
 Xi'an, China</a></span> 
 <br>
 <br>

@@ -3,11 +3,15 @@ layout: page
 title: IDL generation for Linux Kernel Security
 ---
 
+
+
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Vikram Narayanan<sup>1</sup>, Yongzhe Huang<sup>2</sup>, Aftab Hussain<sup>1</sup>, Anton Burtsev<sup>1</sup>, Gang Tang<sup>2</sup>, Trent Jaeger<sup>2</sup>     <br></span>
-University of California, Irvine<sup>1</sup>, Penn State University<sup>2</sup> 
 <span style="color: gray;">
-<br> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
+University of California, Irvine<sup>1</sup>, Penn State University<sup>2</sup> 
+<br> 
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
+Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
 <br> 2017 to 2019 </span> 
 <br>
 <br>
