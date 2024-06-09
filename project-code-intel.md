@@ -34,12 +34,14 @@ img {
 <img src="../images/projects/code-intel/ai-background.jpg" alt="drawing"/>
 
 
-This comprehensive project investigating massive deep neural models of code consists of two components, each encompassing multiple works. **The Explainable AI** component focuses on the behavior of these models, and the **Safe AI for Code** component focuses on their security. A dedicated page for the Safe AI for Code component can be found [here](http://babylon.cs.uh.edu/web/)). The subject models range in size from millions to billions of
+This comprehensive project investigating massive deep neural models of code consists of two components, each encompassing multiple works. The **Explainable AI** component focuses on the behavior of these models, and the **Safe AI for Code** component focuses on their security. A dedicated page for the Safe AI for Code component can be found [here](http://babylon.cs.uh.edu/web/). The subject models range in size from millions to billions of
 parameters (100m to 15b+) -- they include transformer-based Large Language Models (LLMs) like
 Microsoft's [**CodeBERT**](https://github.com/microsoft/CodeBERT), Salesforce's [**CodeT5 and CodeT5+**](https://github.com/salesforce/CodeT5), Meta's
 [**Llama2**](https://huggingface.co/meta-llama/Llama-2-7b-hf) and [**CodeLlama**](https://huggingface.co/docs/transformers/en/model_doc/code_llama), BigCode's [**StarCoder**](https://github.com/bigcode-project/starcoder), against attacks on
 software development tasks including **defect detection**, **clone detection**,
-and **text-to-code generation**. The techniques we deploy include model probing and black box approaches that involve fine-tuning the models on noise-induced and poisoned code data derived from benchmark datasets like Microsoft's **CodeXGLUE**, utilizing NVIDIA A100 GPUs. Here is a list of the works in this project: 
+and **text-to-code generation**. The techniques we deploy include model probing and black box approaches that involve fine-tuning the models on noise-induced and poisoned code data derived from benchmark datasets like Microsoft's [**CodeXGLUE**](https://github.com/microsoft/CodeXGLUE), utilizing NVIDIA A100 GPUs. 
+
+Here is are the works in this project: 
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <div style="font-family: 'Alata';">

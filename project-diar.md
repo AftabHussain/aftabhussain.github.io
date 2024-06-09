@@ -22,7 +22,7 @@ img {
 }
 </style>
 
-<img src="../images/projects/enhancing-fuzzing/diar.png" alt="drawing" width="500"/>
+<img src="../images/projects/enhancing-fuzzing/diar.png" alt="drawing"/>
 
 Imagine a world where software fuzzing, the process of mutating bytes in test seeds to uncover hidden and erroneous program behaviors, becomes faster and more effective. A lot depends on the initial seeds, which can significantly dictate the trajectory of a fuzzing campaign, particularly in terms of how long it takes to uncover interesting behaviour in your code. We introduce DIAR, a technique designed to speedup fuzzing campaigns by pinpointing and eliminating those uninteresting bytes in the seeds. Picture this: instead of wasting valuable resources on meaningless mutations in large, bloated seeds, DIAR removes the unnecessary bytes, streamlining the entire process. 
 
