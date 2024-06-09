@@ -3,8 +3,6 @@ layout: page
 title: IDL generation for Linux Kernel Security
 ---
 
-
-
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Vikram Narayanan<sup>1</sup>, Yongzhe Huang<sup>2</sup>, Aftab Hussain<sup>1</sup>, Anton Burtsev<sup>1</sup>, Gang Tang<sup>2</sup>, Trent Jaeger<sup>2</sup>     <br></span>
 <span style="color: gray;">
