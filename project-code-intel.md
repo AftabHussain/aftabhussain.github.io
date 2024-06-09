@@ -19,7 +19,6 @@ href = "https://www.iarpa.gov/">IARPA</a>
 <br><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b><a href="../Projects/index.html#code-intel-menu">Return to Projects</a></b>
 <br>
 <br>
-</span>
 </div>
 
 <style>
