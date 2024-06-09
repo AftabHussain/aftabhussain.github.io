@@ -33,18 +33,18 @@ development tasks.
 fine-tuning the models on noisy and poisoned code datasets derived from
 benchmark sources like Microsoft's CodeXGLUE, utilizing NVIDIA A100 GPUs. 
 
-● A dedicated page for the Safe AI for Code segment may be found
-[here](http://babylon.cs.uh.edu/web/).  
-
 <hr class="special">
 <div class="row">
     <center>
         <b>
-            <span style="color: #404040; font-family: 'Alata', sans-serif;">Works in this Project</span>
+            <span style="color: #404040; font-family: 'Alata', sans-serif;">Works in Safe AI for Code</span>
         </b>
     </center>
 </div>
 <hr class="special">
+
+*NOTE: A dedicated page for the Safe AI for Code segment may be found
+[here](http://babylon.cs.uh.edu/web/).*  
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <small><font color="gray"> 
@@ -58,6 +58,16 @@ Engineering (FSE), 2024, Porto de Galinhas, Brazil
 International Conference on Learning Representations Workshop on Secure and
 Trustworthy Large Language Models (SeT LLM at ICLR '24), 2024, Vienna,
 Austria</font> 
+
+<hr class="special">
+<div class="row">
+    <center>
+        <b>
+            <span style="color: #404040; font-family: 'Alata', sans-serif;">Contributions in Explainable AI for Code</span>
+        </b>
+    </center>
+</div>
+<hr class="special">
 
 ## [A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](../project-roles/index.html) 
 <small><font color="gray"> 
