@@ -30,7 +30,7 @@ img {
 }
 </style>
 
-<img src="../images/projects/kw/back.png" alt="drawing"/>
+<img src="../images/projects/kw/back.jpg" alt="drawing"/>
 
 
 Ill-structured code is difficult to understand and thereby,
