@@ -83,6 +83,8 @@ _________________________
 </a>
 </div>
 
+_____________
 
+<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/free-ai-image/view-transparent-crystal-water_65705710.htm#fromView=search&page=1&position=22&uuid=39685ec8-2d69-425e-8b29-bfe94a9ab398" target="_blank">Freepik</a></small></p>
 
 	
