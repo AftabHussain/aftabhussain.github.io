@@ -43,7 +43,7 @@ Microsoft's [**CodeBERT**](https://github.com/microsoft/CodeBERT), Salesforce's 
 software development tasks including **defect detection**, **clone detection**,
 and **text-to-code generation**. The techniques we deploy include model probing and black box approaches that involve fine-tuning the models on noise-induced and poisoned code data derived from benchmark datasets like Microsoft's [**CodeXGLUE**](https://github.com/microsoft/CodeXGLUE), utilizing NVIDIA A100 GPUs. 
 
-Here is are the works in this project: 
+Here are the works in this project: 
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <div style="font-family: 'Alata';">
