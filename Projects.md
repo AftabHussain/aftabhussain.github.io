@@ -14,7 +14,7 @@ title: Projects
 
 
 <!-- Main Projects Section -->
-<div id="main-projects"> 
+<span id="main-projects"> 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -84,11 +84,11 @@ _____________
 </div>
 _____________
 
-</div>
+</span>
 
 
 
-<div id="pilot-projects"> 
+<span id="pilot-projects"> 
 
 
 ## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
@@ -100,7 +100,7 @@ _____________
 </div>
 _____________
 
-</div>
+</span>
 
 
 <script>
