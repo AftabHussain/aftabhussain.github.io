@@ -15,9 +15,6 @@ title: Projects
 </div>
 
 
-<!-- Main Projects Section -->
-<div id="main-projects">
-
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Vincent J. Hellendoorn, Bowen Xu, Omprakash Gnawali, Sen Lin, Toufique Ahmed, Premkumar Devanbu, Navid Ayoobi, David Lo, Sahil Suneja<br></span>
@@ -85,7 +82,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
 </div>
 
-</div>
+
 
 <!-- Pilot Projects Section -->
 <div id="pilot-projects">
