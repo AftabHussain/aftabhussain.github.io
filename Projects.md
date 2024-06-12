@@ -162,7 +162,7 @@ document.getElementById('project-switch').addEventListener('change', function() 
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ccc;
+    background-color: #0092fd;
     transition: .4s;
     border-radius: 34px;
 }
@@ -188,6 +188,7 @@ input:checked + .slider:before {
 }
 
 #switch-text {
+    margin-left: 20px; 
     font-family: 'Alata';
     font-size: 13pt;
     color: #333;
