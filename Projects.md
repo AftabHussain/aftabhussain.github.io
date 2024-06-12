@@ -4,9 +4,7 @@ title: Projects
 ---
 
 
-<a href="../Projects/index.html">
 <button class="button" onclick="gotoMainProjects()">Main</button>
-</a>
 <button class="button button2">Pilot</button>
 
 
@@ -112,7 +110,7 @@ _____________
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     function gotoMainProjects() {
-        window.location.href = '../Projects/index.html';  
+        window.location.href = '../Projects-pilot/index.html';  
     }
     
 });
