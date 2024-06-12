@@ -81,6 +81,7 @@ _____________
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
 </div>
+
 _____________
 
 </div>
@@ -95,7 +96,10 @@ _____________
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">To be added</span>
 </div>
+
 _____________
+
+
 </div>
 
 
@@ -151,8 +155,8 @@ document.getElementById('project-switch').addEventListener('change', function() 
 .slider:before {
     position: absolute;
     content: "";
-    height: 26px;
-    width: 26px;
+    height: 13px;
+    width: 13px;
     left: 4px;
     bottom: 4px;
     background-color: white;
@@ -165,13 +169,12 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-    transform: translateX(26px);
+    transform: translateX(13px);
 }
 
 #switch-text {
-    margin-left: 10px;
     font-family: 'Alata';
-    font-size: large;
+    font-size: 13pt;
     color: #333;
 }
 </style>
