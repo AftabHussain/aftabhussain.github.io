@@ -3,13 +3,7 @@ layout: page
 title: Projects 
 ---
 
-<div class="toggle-container">
-        <input type="radio" id="on" name="toggle" class="toggle-input" checked>
-        <label for="on" class="toggle-label selected" onclick="toggleSelection(event, 'on_page.html')">On</label>
 
-        <input type="radio" id="off" name="toggle" class="toggle-input">
-        <label for "off" class="toggle-label" onclick="toggleSelection(event, 'off_page.html')">Off</label>
-</div>
 
 
 
@@ -93,38 +87,46 @@ _____________
 </div>
 _____________
 
+
+    <div class="button-container">
+        <button class="button button-green" onclick="location.href='page1.html'">Green Button</button>
+        <button class="button button-blue" onclick="location.href='page2.html'">Blue Button</button>
+        <button class="button button-red" onclick="location.href='page3.html'">Red Button</button>
+    </div>
+
+
     <style>
-        .toggle-container {
-            display: inline-block;
-            position: relative;
+        .button-container {
+            text-align: center;
+            margin-top: 50px;
         }
 
-        .toggle-label {
-            cursor: pointer;
+        .button {
             padding: 10px 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            margin: 0 2px;
-            background-color: #f0f0f0;
-        }
-
-        .toggle-label.selected {
-            background-color: #4CAF50;
+            margin: 0 10px;
             color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
         }
 
-        .toggle-input {
-            display: none;
+        /* Define specific colors for each button */
+        .button-green {
+            background-color: #4CAF50; /* Green */
+        }
+
+        .button-blue {
+            background-color: #2196F3; /* Blue */
+        }
+
+        .button-red {
+            background-color: #F44336; /* Red */
+        }
+
+        .button:hover {
+            opacity: 0.8; /* Slightly dim the button when hovered */
         }
     </style>
-
-    <script>
-        function toggleSelection(event, url) {
-            var labels = document.querySelectorAll('.toggle-label');
-            labels.forEach(label => label.classList.remove('selected'));
-            event.target.classList.add('selected');
-            window.location.href = url;
-        }
-    </script>
 
 
