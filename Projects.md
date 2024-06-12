@@ -153,8 +153,8 @@ document.getElementById('project-switch').addEventListener('change', function() 
 .slider:before {
     position: absolute;
     content: "";
-    height: 13px;
-    width: 13px;
+    height: 26px;
+    width: 26px;
     left: 4px;
     bottom: 4px;
     background-color: white;
@@ -167,7 +167,7 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-    transform: translateX(13px);
+    transform: translateX(26px);
 }
 
 #switch-text {
