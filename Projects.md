@@ -3,6 +3,19 @@ layout: page
 title: Projects 
 ---
 
+<!-- Switch Button -->
+<div class="switch-container">
+    <label class="switch">
+        <input type="checkbox" id="project-switch">
+        <span class="slider"></span>
+    </label>
+    <span id="switch-text">Main Projects</span>
+</div>
+
+
+<!-- Main Projects Section -->
+<div id="main-projects"> 
+
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Vincent J. Hellendoorn, Bowen Xu, Omprakash Gnawali, Sen Lin, Toufique Ahmed, Premkumar Devanbu, Navid Ayoobi, David Lo, Sahil Suneja<br></span>
@@ -71,8 +84,98 @@ _____________
 </div>
 _____________
 
-														
+</div>
 
 
 
-	
+<div id="pilot-projects"> 
+
+
+## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+<div style="font-family: 'Alata';">
+    <span style="font-size: small;">To be added <br></span>
+    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">To be added</span>
+</div>
+_____________
+
+</div>
+
+
+<script>
+document.getElementById('project-switch').addEventListener('change', function() {
+    var mainProjects = document.getElementById('main-projects');
+    var pilotProjects = document.getElementById('pilot-projects');
+    var switchText = document.getElementById('switch-text');
+    if (this.checked) {
+        mainProjects.style.display = 'none';
+        pilotProjects.style.display = 'block';
+        switchText.innerText = 'Pilot Projects';
+    } else {
+        mainProjects.style.display = 'block';
+        pilotProjects.style.display = 'none';
+        switchText.innerText = 'Main Projects';
+    }
+});
+</script>
+
+<style>
+.switch-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 17px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #1ba2d6;
+    transition: .4s;
+    border-radius: 17px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 13px;
+    width: 13px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #1ba2d6;
+}
+
+input:checked + .slider:before {
+    transform: translateX(13px);
+}
+
+#switch-text {
+    margin-left: 10px; 
+    font-family: 'Alata';
+    font-size: 13pt;
+    color: #333;
+}
+</style>
