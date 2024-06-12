@@ -111,12 +111,12 @@ document.getElementById('project-switch').addEventListener('change', function() 
     var pilotProjects = document.getElementById('pilot-projects');
     var switchText = document.getElementById('switch-text');
     if (this.checked) {
-        mainProjects.style.display = 'none';
-        pilotProjects.style.display = 'block';
+        mainProjects.style.visibility = 'hidden';
+        pilotProjects.style.visibility = 'visible';
         switchText.innerText = 'Pilot Projects';
     } else {
-        mainProjects.style.display = 'block';
-        pilotProjects.style.display = 'none';
+        mainProjects.style.visibility = 'visible';
+        pilotProjects.style.visibility = 'hidden';
         switchText.innerText = 'Main Projects';
     }
 });
