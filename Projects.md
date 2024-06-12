@@ -3,6 +3,8 @@ layout: page
 title: Projects 
 ---
 
+<br>
+
 <!-- Switch Button -->
 <div class="switch-container">
     <label class="switch">
@@ -162,7 +164,7 @@ document.getElementById('project-switch').addEventListener('change', function() 
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #0092fd;
+    background-color: #1ba2d6;
     transition: .4s;
     border-radius: 34px;
 }
@@ -188,7 +190,7 @@ input:checked + .slider:before {
 }
 
 #switch-text {
-    margin-left: 20px; 
+    margin-left: 10px; 
     font-family: 'Alata';
     font-size: 13pt;
     color: #333;
