@@ -5,6 +5,11 @@ title: Projects
 
 
 
+<button class="button">Green</button>
+<button class="button button2">Blue</button>
+<button class="button button3">Red</button>
+<button class="button button4">Gray</button>
+<button class="button button5">Black</button>
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
@@ -88,45 +93,22 @@ _____________
 _____________
 
 
-    <div class="button-container">
-        <button class="button button-green" onclick="location.href='page1.html'">Green Button</button>
-        <button class="button button-blue" onclick="location.href='page2.html'">Blue Button</button>
-        <button class="button button-red" onclick="location.href='page3.html'">Red Button</button>
-    </div>
+<style>
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
-
-    <style>
-        .button-container {
-            text-align: center;
-            margin-top: 50px;
-        }
-
-        .button {
-            padding: 10px 20px;
-            margin: 0 10px;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        /* Define specific colors for each button */
-        .button-green {
-            background-color: #4CAF50; /* Green */
-        }
-
-        .button-blue {
-            background-color: #2196F3; /* Blue */
-        }
-
-        .button-red {
-            background-color: #F44336; /* Red */
-        }
-
-        .button:hover {
-            opacity: 0.8; /* Slightly dim the button when hovered */
-        }
-    </style>
-
-
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
+</style>
