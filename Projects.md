@@ -108,8 +108,11 @@ _____________
 .button2 {background-color: #a1e3fb;} /* Pilot  */
 </style>
 
-    <script>
-        function gotoMainProjects() {
-            window.location.href = '../Projects/index.html';  
-        }
-    </script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    function gotoMainProjects() {
+        window.location.href = '../Projects/index.html';  
+    }
+    
+});
+</script>
