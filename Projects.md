@@ -111,13 +111,9 @@ document.getElementById('project-switch').addEventListener('change', function() 
     var pilotProjects = document.getElementById('pilot-projects');
     var switchText = document.getElementById('switch-text');
     if (this.checked) {
-        mainProjects.style.visibility = 'hidden';
-        pilotProjects.style.visibility = 'visible';
-        switchText.innerText = 'Pilot Projects';
+        pilotProjects.style.display = 'block';
     } else {
-        mainProjects.style.visibility = 'visible';
-        pilotProjects.style.visibility = 'hidden';
-        switchText.innerText = 'Main Projects';
+        mainProjects.style.display = 'block';
     }
 });
 </script>
