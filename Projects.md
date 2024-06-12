@@ -5,11 +5,8 @@ title: Projects
 
 
 
-<button class="button">Green</button>
-<button class="button button2">Blue</button>
-<button class="button button3">Red</button>
-<button class="button button4">Gray</button>
-<button class="button button5">Black</button>
+<button class="button">Main</button>
+<button class="button button2">Pilot</button>
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
@@ -95,20 +92,18 @@ _____________
 
 <style>
 .button {
-  background-color: #04AA6D; /* Green */
+  background-color: #008CBA; /* Main */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: 'Alata';
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
-.button2 {background-color: #008CBA;} /* Blue */
-.button3 {background-color: #f44336;} /* Red */ 
-.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
-.button5 {background-color: #555555;} /* Black */
+.button2 {background-color: #a1e3fb;} /* Pilot  */
 </style>
