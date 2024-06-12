@@ -15,8 +15,8 @@ title: Projects
 </div>
 
 
-<!-- Pilot Projects Section -->
-<div id="pilot-projects" style="display:none;">
+<!-- Main Projects Section -->
+<div id="main-projects">
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -88,8 +88,10 @@ _____________
 </div>
 
 <!-- Pilot Projects Section -->
-<div id="pilot-projects" style="display:none;">
+<div id="pilot-projects">
+
 ## [(To be added)](../project-fuzz-enhance/index.html) {}
+
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">To be added <br></span>
     <span style="color: gray; font-size: small;">to be added <br> to be added <br></span>
