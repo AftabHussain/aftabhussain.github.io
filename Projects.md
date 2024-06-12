@@ -3,18 +3,15 @@ layout: page
 title: Projects 
 ---
 
-<!-- Switch Button -->
-<div class="switch-container">
-    <label class="switch">
-        <input type="checkbox" id="project-switch">
-        <span class="slider"></span>
-    </label>
-    <span id="switch-text">Main Projects</span>
+<div class="toggle-container">
+        <input type="radio" id="on" name="toggle" class="toggle-input" checked>
+        <label for="on" class="toggle-label selected" onclick="toggleSelection(event, 'on_page.html')">On</label>
+
+        <input type="radio" id="off" name="toggle" class="toggle-input">
+        <label for "off" class="toggle-label" onclick="toggleSelection(event, 'off_page.html')">Off</label>
 </div>
 
 
-<!-- Main Projects Section -->
-<span id="main-projects"> 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -84,11 +81,7 @@ _____________
 </div>
 _____________
 
-</span>
 
-
-
-<span id="pilot-projects"> 
 
 
 ## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
@@ -100,82 +93,38 @@ _____________
 </div>
 _____________
 
-</span>
+    <style>
+        .toggle-container {
+            display: inline-block;
+            position: relative;
+        }
+
+        .toggle-label {
+            cursor: pointer;
+            padding: 10px 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 0 2px;
+            background-color: #f0f0f0;
+        }
+
+        .toggle-label.selected {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .toggle-input {
+            display: none;
+        }
+    </style>
+
+    <script>
+        function toggleSelection(event, url) {
+            var labels = document.querySelectorAll('.toggle-label');
+            labels.forEach(label => label.classList.remove('selected'));
+            event.target.classList.add('selected');
+            window.location.href = url;
+        }
+    </script>
 
 
-<script>
-document.getElementById('project-switch').addEventListener('change', function() {
-    var mainProjects = document.getElementById('main-projects');
-    var pilotProjects = document.getElementById('pilot-projects');
-    var switchText = document.getElementById('switch-text');
-    if (this.checked) {
-        mainProjects.style.display = 'none';
-        pilotProjects.style.display = 'block';
-        switchText.innerText = 'Pilot Projects';
-    } else {
-        mainProjects.style.display = 'block';
-        pilotProjects.style.display = 'none';
-        switchText.innerText = 'Main Projects';
-    }
-});
-</script>
-
-<style>
-.switch-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.switch {
-    position: relative;
-    display: inline-block;
-    width: 30px;
-    height: 17px;
-}
-
-.switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
-
-.slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #1ba2d6;
-    transition: .4s;
-    border-radius: 17px;
-}
-
-.slider:before {
-    position: absolute;
-    content: "";
-    height: 13px;
-    width: 13px;
-    left: 2px;
-    bottom: 2px;
-    background-color: white;
-    transition: .4s;
-    border-radius: 50%;
-}
-
-input:checked + .slider {
-    background-color: #1ba2d6;
-}
-
-input:checked + .slider:before {
-    transform: translateX(13px);
-}
-
-#switch-text {
-    margin-left: 10px; 
-    font-family: 'Alata';
-    font-size: 13pt;
-    color: #333;
-}
-</style>
