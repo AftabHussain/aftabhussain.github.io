@@ -109,12 +109,9 @@ _____________
 document.getElementById('project-switch').addEventListener('change', function() {
     var mainProjects = document.getElementById('main-projects');
     var pilotProjects = document.getElementById('pilot-projects');
+    var mainProjects_styles = getComputedStyle()
     var switchText = document.getElementById('switch-text');
-    if (this.checked) {
-        pilotProjects.style.display = 'block';
-    } else {
-        mainProjects.style.display = 'block';
-    }
+
 });
 </script>
 
