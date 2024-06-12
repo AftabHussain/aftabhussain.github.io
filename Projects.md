@@ -5,7 +5,7 @@ title: Projects
 
 
 
-<button class="button">Main</button>
+<button class="button" onclick="gotoMainProjects()">Main</button>
 <button class="button button2">Pilot</button>
 
 
@@ -95,7 +95,7 @@ _____________
   background-color: #008CBA; /* Main */
   border: none;
   color: white;
-  padding: 10px 32px;
+  padding: 7px 26px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -107,3 +107,9 @@ _____________
 
 .button2 {background-color: #a1e3fb;} /* Pilot  */
 </style>
+
+    <script>
+        function gotoMainProjects() {
+            window.location.href = '../Projects/index.html';  
+        }
+    </script>
