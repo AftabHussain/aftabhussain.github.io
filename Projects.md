@@ -3,8 +3,6 @@ layout: page
 title: Projects 
 ---
 
-<br>
-
 <!-- Switch Button -->
 <div class="switch-container">
     <label class="switch">
@@ -147,8 +145,8 @@ document.getElementById('project-switch').addEventListener('change', function() 
 .switch {
     position: relative;
     display: inline-block;
-    width: 60px;
-    height: 34px;
+    width: 30px;
+    height: 17px;
 }
 
 .switch input {
@@ -166,14 +164,14 @@ document.getElementById('project-switch').addEventListener('change', function() 
     bottom: 0;
     background-color: #1ba2d6;
     transition: .4s;
-    border-radius: 34px;
+    border-radius: 17px;
 }
 
 .slider:before {
     position: absolute;
     content: "";
-    height: 26px;
-    width: 26px;
+    height: 13px;
+    width: 13px;
     left: 4px;
     bottom: 4px;
     background-color: white;
@@ -186,7 +184,7 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-    transform: translateX(26px);
+    transform: translateX(13px);
 }
 
 #switch-text {
