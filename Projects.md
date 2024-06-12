@@ -3,16 +3,20 @@ layout: page
 title: Projects 
 ---
 
+### Choose Projects
+
 <!-- Switch Button -->
 <div class="switch-container">
     <label class="switch">
         <input type="checkbox" id="project-switch">
         <span class="slider"></span>
     </label>
-    <span id="switch-text">Main Projects</span>
+    <span id="switch-text">Main/Pilot</span>
 </div>
 
 
+<!-- Pilot Projects Section -->
+<div id="pilot-projects" style="display:none;">
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -81,9 +85,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
 </div>
 
-_____________
-
-
+</div>
 
 <!-- Pilot Projects Section -->
 <div id="pilot-projects" style="display:none;">
