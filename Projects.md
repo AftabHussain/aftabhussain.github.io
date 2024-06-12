@@ -16,6 +16,9 @@ title: Projects
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
+
+<h2><a href="../project-code-intel/index.html" id="code-intel-menu">Safe and Explainable AI for Code</a></h2>
+
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Vincent J. Hellendoorn, Bowen Xu, Omprakash Gnawali, Sen Lin, Toufique Ahmed, Premkumar Devanbu, Navid Ayoobi, David Lo, Sahil Suneja<br></span>
     <span style="color: gray; font-size: small;">University of Houston, Carnegie Mellon University, North Carolina State University, University of California, Davis, Singapore Management University, IBM Research <br>
@@ -23,7 +26,8 @@ title: Projects
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Deep Neural Models of Code</span>
 </div>
-_____________
+
+<hr>
 
 ## [Enhancing Fuzzing for Better Bug Detection and Triaging](../project-fuzz-enhance/index.html) {#fuzz-enhance-menu}
 <div style="font-family: 'Alata';">
@@ -32,7 +36,8 @@ _____________
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Software Testing</span>
 </div>
-_____________
+
+<hr>
 
 ## [Glue Code Generation for Linux Kernel Security](../project-glue-gen/index.html) {#glue-gen-menu}
 <div style="font-family: 'Alata';">
@@ -96,7 +101,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">To be added</span>
 </div>
 
-_____________
+<hr>
 
 
 </div>
