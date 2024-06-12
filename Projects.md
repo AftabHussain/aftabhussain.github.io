@@ -3,15 +3,13 @@ layout: page
 title: Projects 
 ---
 
-### Choose Projects
-
 <!-- Switch Button -->
 <div class="switch-container">
     <label class="switch">
         <input type="checkbox" id="project-switch">
         <span class="slider"></span>
     </label>
-    <span id="switch-text">Main/Pilot</span>
+    <span id="switch-text">&nbsp; Main/Pilot Projects</span>
 </div>
 
 
