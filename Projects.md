@@ -172,8 +172,8 @@ document.getElementById('project-switch').addEventListener('change', function() 
     content: "";
     height: 13px;
     width: 13px;
-    left: 4px;
-    bottom: 4px;
+    left: 2px;
+    bottom: 2px;
     background-color: white;
     transition: .4s;
     border-radius: 50%;
