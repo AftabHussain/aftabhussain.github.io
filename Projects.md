@@ -12,8 +12,7 @@ title: Projects
     <span id="switch-text">Main Projects</span>
 </div>
 
-<!-- Main Projects Section -->
-<div id="main-projects">
+
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -84,7 +83,6 @@ _____________
 
 _____________
 
-</div>
 
 
 <!-- Pilot Projects Section -->
