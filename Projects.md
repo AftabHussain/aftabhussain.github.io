@@ -4,8 +4,9 @@ title: Projects
 ---
 
 
-
+<a href="../Projects/index.html">
 <button class="button" onclick="gotoMainProjects()">Main</button>
+</a>
 <button class="button button2">Pilot</button>
 
 
