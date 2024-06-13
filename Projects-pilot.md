@@ -6,7 +6,7 @@ title: Projects
 <button class="button" onclick="gotoMainProjects()">Main</button>
 <button class="button button2" >Pilot</button>
 
-## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+## [To be added]() {#kw-sw-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">To be added <br></span>
     <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
@@ -15,7 +15,7 @@ title: Projects
 </div>
 _____________
 
-## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+## [To be added]() {#kw-sw-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">To be added <br></span>
     <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
@@ -24,7 +24,7 @@ _____________
 </div>
 _____________
 
-## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+## [To be added]() {#kw-sw-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">To be added <br></span>
     <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
