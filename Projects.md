@@ -7,8 +7,6 @@ title: Projects
 <button class="button">Main</button>
 <button class="button button2" onclick="gotoPilotProjects()">Pilot</button>
 
-## [Test](../Projects-pilot/index.html) {#code-intel-menu}
-
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
@@ -79,18 +77,6 @@ _____________
 _____________
 
 
-
-
-## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
-<div style="font-family: 'Alata';">
-    <span style="font-size: small;">To be added <br></span>
-    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
-    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
-    <span style="color: #1ba2d6; font-size: small;">To be added</span>
-</div>
-_____________
-
-
 <style>
 .button {
   background-color: #008CBA; /* Main */
@@ -110,7 +96,6 @@ _____________
 </style>
 
 <script>
-
     function gotoPilotProjects() {
         window.location.href = '../Projects-pilot/index.html';  
     }

@@ -35,8 +35,8 @@ _____________
 .button2 {background-color:#008CBA;} /* Pilot  */
 </style>
 
-    <script>
-        function gotoMainProjects() {
-            window.location.href = '../Projects/index.html'; 
-        }
-    </script>
+<script>
+    function gotoMainProjects() {
+        window.location.href = '../Projects/index.html'; 
+    }
+</script>
