@@ -15,6 +15,25 @@ title: Projects
 </div>
 _____________
 
+## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+<div style="font-family: 'Alata';">
+    <span style="font-size: small;">To be added <br></span>
+    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">To be added</span>
+</div>
+_____________
+
+## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
+<div style="font-family: 'Alata';">
+    <span style="font-size: small;">To be added <br></span>
+    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">To be added</span>
+</div>
+_____________
+
+
 
 <style>
 .button {
