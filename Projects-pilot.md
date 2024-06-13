@@ -6,7 +6,6 @@ title: Projects
 <button class="button" onclick="gotoMainProjects()">Main</button>
 <button class="button button2" >Pilot</button>
 
-
 ## [To be added](../project-kw-sw/index.html) {#kw-sw-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">To be added <br></span>

@@ -3,10 +3,8 @@ layout: page
 title: Projects 
 ---
 
-
 <button class="button">Main</button>
 <button class="button button2" onclick="gotoPilotProjects()">Pilot</button>
-
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
 <div style="font-family: 'Alata';">
