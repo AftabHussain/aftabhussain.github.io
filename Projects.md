@@ -108,10 +108,8 @@ _____________
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
     function gotoMainProjects() {
-        window.location.href = '../Projects-pilot/index.html';  
+        window.location.href = '../project-kw-sw/index.html';  
     }
-    
-});
+
 </script>
