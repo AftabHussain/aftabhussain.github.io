@@ -4,8 +4,10 @@ title: Projects
 ---
 
 
-<button class="button" onclick="gotoMainProjects()">Main</button>
-<button class="button button2">Pilot</button>
+<button class="button">Main</button>
+<button class="button button2" onclick="gotoPilotProjects()">Pilot</button>
+
+## [Test](../Projects-pilot/index.html) {#code-intel-menu}
 
 
 ## [Safe and Explainable AI for Code](../project-code-intel/index.html) {#code-intel-menu}
@@ -108,8 +110,8 @@ _____________
 </style>
 
 <script>
-    function gotoMainProjects() {
-        window.location.href = '../project-kw-sw/index.html';  
-    }
 
+    function gotoPilotProjects() {
+        window.location.href = '../Projects-pilot/index.html';  
+    }
 </script>
