@@ -79,5 +79,5 @@ _________________
 
 _____________
 
-<p style="color:gray;font-size:8pt;"><small>Image:<a href="https://www.freepik.com/search?format=search&last_filter=page&last_value=2&page=2&query=analysis+#uuid=9eb357bf-660a-4221-8a83-1d0abe029c41" target="_blank">Freepik</a></small></p>
+<p style="color:gray;font-size:8pt;"><small><a href="https://www.freepik.com/free-ai-image/glowing-chart-shows-successful-financial-growth-generated-by-ai_43001559.htm#fromView=image_search&page=1&position=0&uuid=792c2a2d-ba66-4c59-ad4f-b1d6b204bd43" target="_blank">Image by stockgiu on Freepik</a></small></p>
 	
