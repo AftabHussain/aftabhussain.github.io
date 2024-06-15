@@ -17,6 +17,18 @@ University of Houston
 <br>
 </div>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+<img src="../images/projects/code-intel/mem-gen.jpg" alt="drawing"/>
+
 Are deeplearning models memorizing your data instead of learning patterns?
 Recent works suggest memorization risk is high with noisy training data. In
 this exploration, we see the extent of memorization in neural code intelligence
@@ -51,4 +63,9 @@ _________________________
 </a>
 </b>
 </div>
+
+
+___________
+
+<p style="color:gray;font-size:8pt;"><small><a href="https://www.freepik.com/free-photo/polygonal-blue-abstract-background-shapes-network-neural-connections-big-data-neural-concept_19320241.htm#fromView=search&page=2&position=8&uuid=eb01741d-2396-4bbf-be90-c773bbf5c2f5">Image by svstudioart on Freepik</a></small></p>
 
