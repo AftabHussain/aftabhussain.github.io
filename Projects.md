@@ -13,6 +13,9 @@ title: Projects
     2021 to present <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Deep Neural Models of Code</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: Python, Pytorch, SciPy, Matplotlib, NumPy, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity
 </div>
 _____________
 
@@ -22,6 +25,9 @@ _____________
     <span style="color: gray; font-size: small;">University of Houston <br> 2020 to 2021 <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Software Testing</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: Python, C, delta-debugging, shell scripting, SLURM
 </div>
 _____________
 
@@ -31,6 +37,9 @@ _____________
     <span style="color: gray; font-size: small;">University of California, Irvine <br> Supported by National Science Foundation <br> 2018 to 2019 <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Kernel Security</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: C, C++, compilers
 </div>
 _____________
 
@@ -41,6 +50,9 @@ _____________
  <br> Supported by National Science Foundation <br> 2017 to 2019 <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Kernel Security</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: C++, data structure analysis
 </div>
 _____________
 
@@ -52,6 +64,9 @@ _____________
     <br> Supported by National Science Foundation, ACM<br>2015 to 2017<br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Big Data Systems</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: Java
 </div>
 _____________
 
@@ -62,6 +77,9 @@ _____________
     <br> Supported by National Science Foundation<br>2013 to 2015<br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Mining Software Repositories</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: Java
 </div>
 _____________
 
@@ -71,6 +89,9 @@ _____________
     <span style="color: gray; font-size: small;">Bangladesh University of Engineering and Technology <br> Supported by CodeCrafters International<br>2011 to 2013<br></span> 
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    Skills used: Java
 </div>
 _____________
 
