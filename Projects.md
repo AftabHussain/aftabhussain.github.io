@@ -15,7 +15,7 @@ title: Projects
     <span style="color: #1ba2d6; font-size: small;">Deep Neural Models of Code</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: Python, Pytorch, SciPy, Matplotlib, NumPy, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity
+    <span style="font-size: small;">Skills used: Python, Pytorch, SciPy, Matplotlib, NumPy, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity</span>
 </div>
 _____________
 
@@ -27,7 +27,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Software Testing</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: Python, C, delta-debugging, shell scripting, SLURM
+    <span style="font-size: small;">Skills used: Python, C, delta-debugging, shell scripting, SLURM</span>
 </div>
 _____________
 
@@ -39,7 +39,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Kernel Security</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: C, C++, compilers
+    <span style="font-size: small;">Skills used: C, C++, compilers</span>
 </div>
 _____________
 
@@ -52,7 +52,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Kernel Security</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: C++, data structure analysis
+    <span style="font-size: small;">Skills used: C++, data structure analysis</span>
 </div>
 _____________
 
@@ -66,7 +66,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Big Data Systems</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: Java
+    <span style="font-size: small;">Skills used: Java</span>
 </div>
 _____________
 
@@ -79,7 +79,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Mining Software Repositories</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: Java
+    <span style="font-size: small;">Skills used: Java</span>
 </div>
 _____________
 
@@ -91,7 +91,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    Skills used: Java
+    <span style="font-size: small;">Skills used: Java</span>
 </div>
 _____________
 
