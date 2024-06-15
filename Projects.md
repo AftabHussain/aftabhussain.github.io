@@ -15,7 +15,7 @@ title: Projects
     <span style="color: #1ba2d6; font-size: small;">Deep Neural Models of Code</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> Python, Pytorch, SciPy, Matplotlib, NumPy, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity</span>
+    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> Python, Pytorch, SciPy, Matplotlib, NumPy, C, Java, SQL, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity</span>
 </div>
 _____________
 

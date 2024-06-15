@@ -13,9 +13,13 @@ Sahil Suneja<sup>6</sup> <br></span>
 Carnegie Mellon University<sup>2</sup>, North Carolina State
 University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
 Management University<sup>5</sup>, IBM Research<sup>6</sup>
-<br> Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
+<br> 
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span>Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
 href = "https://www.iarpa.gov/">IARPA</a>
-<br> 2021 to present</span> 
+<br> 2021 to present</span>
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills used:<span style="color: gray; font-size: small;"> Python, Pytorch, SciPy, Matplotlib, NumPy, C, Java, SQL, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity</span> 
 <br>
 <br>
 <a href="../Projects/index.html#code-intel-menu"><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b>Return to Projects</b></a>
