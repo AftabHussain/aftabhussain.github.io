@@ -9,21 +9,24 @@ Alipour<sup>1</sup>, Vincent J. Hellendoorn<sup>2</sup>, Bowen Xu<sup>3</sup>,
 Omprakash Gnawali<sup>1</sup>, Sen Lin<sup>1</sup>, Toufique Ahmed<sup>4</sup>,
 Premkumar Devanbu<sup>4</sup>, Navid Ayoobi<sup>1</sup>, David Lo<sup>5</sup>,
 Sahil Suneja<sup>6</sup> <br></span>
-<span style="color: gray;">University of Houston<sup>1</sup>,
-Carnegie Mellon University<sup>2</sup>, North Carolina State
-University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
-Management University<sup>5</sup>, IBM Research<sup>6</sup>
-<br> 
-<br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
-Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
-href = "https://www.iarpa.gov/">IARPA</a>
-<br> 
-<span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
-Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">AIware '24 at FSE '24, Porto de Galinhas, Brazil</a>, <a href="https://set-llm.github.io/"> SeT LLM at ICLR '24, Vienna, Austria</a>, <a href="https://intense23.github.io/"> InteNSE '24 at ICSE '24, Melbourne, Austria</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756"> IST '23</a>
-</span> 
 
-<br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
-2021 to present</span>
+<span style="color: gray;">
+    University of Houston<sup>1</sup>,
+    Carnegie Mellon University<sup>2</sup>, North Carolina State
+    University<sup>3</sup>, University of California, Davis<sup>4</sup>, Singapore
+    Management University<sup>5</sup>, IBM Research<sup>6</sup>
+    <br> 
+    <br> 
+    <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
+    Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
+    href = "https://www.iarpa.gov/">IARPA</a>
+    <br> 
+    <span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
+    Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">AIware '24 at FSE '24, Porto de Galinhas, Brazil</a>, <a href="https://set-llm.github.io/"> SeT LLM at ICLR '24, Vienna, Austria</a>, <a href="https://intense23.github.io/"> InteNSE '24 at ICSE '24, Melbourne, Australia</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756"> IST '23</a>
+    <br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
+    2021 to present
+</span>
+
 <br>
 <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
 Skills used:<span style="color: gray; font-size: small;"> Python, Pytorch, SciPy, Matplotlib, NumPy, C, Java, SQL, model finetuning, freezed model finetuning, model parameter analysis, data extraction, data manipulation, machine learning, cybersecurity</span> 
