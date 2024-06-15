@@ -6,6 +6,7 @@ title: From Query to Usable Code - An Analysis of Stack Overflow Code Snippets
 
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Di Yang, Aftab Hussain, Cristina Lopes  <br></span>
+
 <span style="color: gray;">
 <a href="http://mondego.ics.uci.edu/">Mondego Group</a><br>
  Bren School of Information and Computer Sciences<br>
@@ -13,10 +14,18 @@ title: From Query to Usable Code - An Analysis of Stack Overflow Code Snippets
 <br> 
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
 Supported by <a href = "https://www.nsf.gov/">National Science Foundation</a>
-<br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
-Accepted at <a href="https://2016.msrconf.org/#/home">The 13th International Conference on Mining Software Repositories (MSR 2016), Austin, Texas</a></span> 
+<br> 
+<span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
+Accepted at <a href="https://2016.msrconf.org/#/home">The 13th International Conference on Mining Software Repositories (MSR 2016), Austin, Texas</a>
+</span> 
+
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #F9C50F;">construction</span>  
+Skills Learned/Applied: Java </a></span> 
+
 <br>
 <br>
+
 <a href="../Projects/index.html#query-sof-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
 <br>
 <br>
