@@ -17,6 +17,10 @@ Management University<sup>5</sup>, IBM Research<sup>6</sup>
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
 Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
 href = "https://www.iarpa.gov/">IARPA</a>
+<br> 
+<span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
+Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">AIware '24 at FSE '24, Porto de Galinhas, Brazil</a>, <a href="https://set-llm.github.io/"> SeT LLM at ICLR '24, Vienna, Austria</a>, <a href="https://intense23.github.io/"> InteNSE '24 at ICSE '24, Melbourne, Austria</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756"> IST '23</a>
+</span> 
 
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
 2021 to present</span>
