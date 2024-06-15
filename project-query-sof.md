@@ -20,8 +20,8 @@ Accepted at <a href="https://2016.msrconf.org/#/home">The 13th International Con
 </span> 
 
 <br>
-<span class="material-symbols-outlined" style="font-size: 13pt; color: #F9C50F;">construction</span>  
-Skills learned/applied: Java </a> 
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills learned/applied: Java
 
 <br>
 <br>
