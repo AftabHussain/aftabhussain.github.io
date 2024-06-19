@@ -66,7 +66,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Big Data Systems</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;">  Java</span>
+    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;">  Java, Big Graph Processing, Scheduling</span>
 </div>
 _____________
 
@@ -91,7 +91,7 @@ _____________
     <span style="color: #1ba2d6; font-size: small;">Software Clustering</span>
     <br>
     <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> Java</span>
+    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> Java, code refactoring, code quality metrics</span>
 </div>
 _____________
 

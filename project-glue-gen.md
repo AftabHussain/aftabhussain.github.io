@@ -13,6 +13,11 @@ Mars Systems
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> Supported by <a href="https://www.nsf.gov/">National Science Foundation</a>
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> Accepted at <a href="https://www.usenix.org/conference/atc19/presentation/narayanan">The 2019 USENIX Annual Technical Conference (USENIX ATC 2019)
 Renton, Washington</a></span> 
+
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills used:<span style="color: gray; font-size: small;">  C, C++, compilers</span>
+
 <br>
 <br>
 <a href="../Projects/index.html#glue-gen-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>

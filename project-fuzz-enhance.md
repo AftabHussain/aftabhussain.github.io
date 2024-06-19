@@ -8,7 +8,14 @@ title: Enhancing Fuzzing for Better Bug Detection and Triaging
 <span style="color: gray; ">Software Engineering Research Group
 <br> Department of Computer Science
 <br> University of Houston 
-<br> 2020 to 2021</span> 
+<br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
+2020 to 2021
+</span> 
+
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills used:<span style="color: gray; font-size: small;">  Python, C, delta-debugging, shell scripting, SLURM</span>
+
 <br>
 <br>
 <a href="../Projects/index.html#fuzz-enhance-menu"><span class="material-symbols-outlined" style="color: #1ba2d6;">arrow_back</span><b>Return to Projects</b></a>

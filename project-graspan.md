@@ -17,6 +17,11 @@ Amiri Sani, John Thorpe, Sung-Soo Son, Khanh Ngyuen    <br></span>
 Accepted at 
 <a href="https://web.archive.org/web/20160610190651/http://novel.ict.ac.cn/ASPLOS2017/">The 22nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2017)
 Xi'an, China</a></span> 
+
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills used:<span style="color: gray; font-size: small;">  Java, Big Graph Processing, Scheduling</span>
+
 <br>
 <br>
 <a href="../Projects/index.html#graspan-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>

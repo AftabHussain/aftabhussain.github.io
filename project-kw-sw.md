@@ -13,6 +13,11 @@ Graph Drawing and Information Visualization Lab
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> Supported by <a href="https://www.codecraftersintl.com/">CodeCrafters International</a>
 <br> <span class="material-symbols-outlined" style="font-size: 13pt;">event</span> 
 Accepted at <a href="https://isoft.acm.org/isec2013/">The 6th India Software Engineering Conference 2013 (ISEC 2013), New Delhi, India</a></span> 
+
+<br>
+<span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+Skills used:<span style="color: gray; font-size: small;">  Java, code refactoring, code quality metrics</span>
+
 <br>
 <br>
 <a href="../Projects/index.html#kw-sw-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
