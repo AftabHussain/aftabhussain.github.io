@@ -14,7 +14,7 @@ title: An ML Framework for Gene Subsequence Analysis
 
 <br>
 <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
-Skills used:<span style="color: gray; font-size: small;">  Python, data manipulation, information retrieval</span>
+Skills used:<span style="color: gray; font-size: small;">  Python, data manipulation, information retrieval, scikit-learn, numpy, SVM</span>
 
 <br>
 <br>
