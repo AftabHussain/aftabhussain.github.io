@@ -13,6 +13,9 @@ title: Projects
     <br>2024 to present<br></span> 
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Machine Learning</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> Python, data manipulation, information retrieval</span>
 </div>
 _____________
 
