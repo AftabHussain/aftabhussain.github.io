@@ -3,14 +3,13 @@ layout: page
 title: An ML Framework for Gene Subsequence Analysis
 ---
 
-
 <div style="font-family: 'Alata'; font-size: small;">
 <span>Aftab Hussain<br></span>
 
 <span style="color: gray;">
   University of Houston
   <br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
-2024 to present 
+2024 to present </span> 
 <br> 
 
 <br>
@@ -20,7 +19,7 @@ Skills used:<span style="color: gray; font-size: small;">  Python, data manipula
 <br>
 <br>
 
-<a href="../Projects/index.html#gene-subseq-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
+<a href="../Projects-pilot/index.html#gene-subseq-menu"><span class="material-symbols-outlined" style="color: #1ba2d6; font-size: 13pt;">arrow_back</span><b>Return to Projects</b></a>
 <br>
 <br>
 </div>
@@ -57,4 +56,6 @@ _________________
 _____________
 
 <p style="color:gray;font-size:8pt;"><small><a href="https://www.freepik.com/free-vector/dna-genetic-biotechnology-science-vector-purple-neon-graphic_16396002.htm#fromView=search&page=2&position=0&uuid=ed02a6ad-c96c-4f14-a5af-9b3349ef4177" target="_blank">Image by rawpixel.com on Freepik</a></small></p>
+
+
 	
