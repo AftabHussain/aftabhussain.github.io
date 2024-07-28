@@ -25,11 +25,11 @@ ____________
 
 <small><font color="#046cb5"><b>AI for Software Engineering<b>
 
-[Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://dl.acm.org/doi/10.1145/3664646.3664764) [[preprint](https://arxiv.org/abs/2405.11466)][[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)]
+<small>[Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://dl.acm.org/doi/10.1145/3664646.3664764) [[preprint](https://arxiv.org/abs/2405.11466)][[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
 
-[Trojans in Large Language Models of Code: A Critical Review through a Trigger-Based Taxonomy](https://2024.aiwareconf.org/details/aiware-2024-late-breaking-arxiv-track/5/Trojans-in-Large-Language-Models-of-Code-A-Critical-Review-through-a-Trigger-Based-T) [[preprint](https://arxiv.org/abs/2405.02828)] [[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_critical-review_slides.pdf)]
+<small>[Trojans in Large Language Models of Code: A Critical Review through a Trigger-Based Taxonomy](https://2024.aiwareconf.org/details/aiware-2024-late-breaking-arxiv-track/5/Trojans-in-Large-Language-Models-of-Code-A-Critical-Review-through-a-Trigger-Based-T) [[preprint](https://arxiv.org/abs/2405.02828)] [[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_critical-review_slides.pdf)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Toufique Ahmed, Bowen Xu, Premkumar Devanbu, Mohammad Amin Alipour
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), Late Breaking arXiv Track, co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
 
