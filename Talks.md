@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Research Talks
+title: Research Presentations
 ---
 
-[Conference and Workshop Talks](#conf-talks) 
-<br>[Various Talks in Academia](#acad-talks)
+This page provides a list of research talks I have given.
+
+[Conference and Workshop Presentations](#conf-talks) 
+<br>[Various Presentations in Academia](#acad-talks)
 
 ____________
 
 
-## Conference and Workshop Talks 
+## Conference and Workshop Presentations 
 <!-- <a href="#top">⬆</a> {#conf-talks}  -->
 
 <small><font color="046cb5"><b>Big Data Systems<b>
@@ -37,9 +39,9 @@ at the Function level</font> <br><font color="gray">6th India Software Engineeri
 ____________
 
 
-## Various Talks in Academia <a href="#top">⬆</a>  {#acad-talks}
+## Various Presentations given in Academia <a href="#top">⬆</a>  {#acad-talks}
 
-<small><i>Includes talks I gave on my research projects and on papers by other researchers</i></small>
+<small><i>Includes presentations I gave on my research projects and on papers by other researchers</i></small>
 
 <small><font color="046cb5"><b>Safe and Explainable AI<b>
 

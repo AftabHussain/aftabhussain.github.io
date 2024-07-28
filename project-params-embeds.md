@@ -50,13 +50,16 @@ differences. This work contributes to ongoing efforts in white-box detection of
 backdoor signals in LLMs of code through the analysis of parameters and
 embeddings.
 
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/FH0zlO2HEMJxCk?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 _________________________
 
 
 <div style="font-family: 'Alata'; font-size: small;">
 <b>
-<a href="https://arxiv.org/abs/2405.11466">
-<span class="material-symbols-outlined"> article </span>Paper - arXiv 2024 (Proceedings to appear)
+<a href="https://dl.acm.org/doi/10.1145/3664646.3664764">
+<span class="material-symbols-outlined"> article </span>Paper - AIware 2024
 </a>
 </b>
 </div>
