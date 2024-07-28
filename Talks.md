@@ -14,6 +14,31 @@ ____________
 ## Conference and Workshop Presentations 
 <!-- <a href="#top">⬆</a> {#conf-talks}  -->
 
+<small><font color="046cb5"><b>AI for Software Engineering<b>
+
+<small>[Measuring impacts of poisoning on model parameters and embeddings for large language models of code](https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-) [[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)] <br><font color="gray">
+In 1st ACM International Conference on AI-powered Software (AIware) co-located with The ACM International Conference on the Foundations of Software Engineering (FSE), Porto de Galinhas, Brazil, 2024
+
+<small>[Trojans in large language models of code: A critical review through a trigger-based taxonomy](https://2024.aiwareconf.org/details/aiware-2024-late-breaking-arxiv-track/5/Trojans-in-Large-Language-Models-of-Code-A-Critical-Review-through-a-Trigger-Based-T) [[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_critical-review_slides.pdf)]<br><font color="gray">
+In 1st ACM International Conference on AI-powered Software (AIware) co-located with The ACM International Conference on the Foundations of Software Engineering (FSE), Porto de Galinhas, Brazil, 2024
+
+<small>[On trojan signatures in large language models of code](https://iclr.cc/virtual/2024/23819) [[slides](https://aftabhussain.github.io/documents/pubs/setllm24-trojan-signatures-poster.pdf)] <br><font color="gray">
+In International Conference on Learning Representations Workshop on Secure and Trustworthy Large Language Models
+  (SeT LLM at ICLR ’24) (poster), Vienna, Austria, 2024
+  
+
+<small>[Trojan detection in large language models of code](https://uh.edu/nsm/computer-science/events/phd-showcase/) [[slides](https://aftabhussain.github.io/documents/pubs/uh-phd-showcase-trojan-detection-poster.pdf)] <br><font color="gray">
+In CS PhD Showcase (lightning talk and poster), University of Houston, Houston, Texas, US, 2024 (Runners-up for People’s Choice Award, Runners-up for Judge’s Award) 
+
+
+<small>[A Study of Variable-Role-based Feature Enrichment in Neural Models of Code](https://www.computer.org/csdl/proceedings-article/intense/2023/017200a014/1P4kEfsqveg) [[slides](https://www.slideshare.net/slideshow/a-study-of-variable-role-based-feature-enrichment-in-neural-models-of-code/269541979)] <br><font color="gray">
+The 1st IEEE/ACM International Workshop on Interpretability and Robustness in Neural Software Engineering (InteNSE'23), Melbourne, Australia, 2023 (Remote)
+
+<small><font color="046cb5"><b>Software Testing<b>
+
+<small>[Removing Uninteresting Bytes in Software Fuzzing](https://icst2022.vrain.upv.es/details/nexta-2022-nexta-2022/8/Removing-Uninteresting-Bytes-in-Software-Fuzzing) [[slides](https://www.slideshare.net/slideshow/removing-uninteresting-bytes-in-software-fuzzing-6968/269537913)] <br><font color="gray">
+5th IEEE Workshop on Next level of Test Automation (NEXTA 2022), April 2022, Virtual
+
 <small><font color="046cb5"><b>Big Data Systems<b>
 
 <small>[Graspan: A Single-machine Disk-based Graph System for
