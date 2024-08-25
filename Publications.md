@@ -152,6 +152,16 @@ ____________
 
 <small><font color="046cb5"><b>AI for Software Engineering<b>
 
+<small>[Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](https://arxiv.org/abs/2408.12416) <br> 
+Mahdi Kazemi,
+Aftab Hussain,
+Md Rafiqul Islam Rabin,
+Mohammad Amin Alipour,
+Sen Lin
+<br><font color="gray">
+University of Houston,
+<br> arXiv:2408.12416, 2024
+
 <small>[Measuring Impacts of Poisoning on Model Parameters and Neuron Activations: A Case Study of Poisoning CodeBERT](https://arxiv.org/abs/2402.12936) <br> 
 Aftab Hussain,
 Md Rafiqul Islam Rabin,
