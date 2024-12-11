@@ -46,7 +46,7 @@ _____________
 **Ph.D. in Computer Science** 
 <br>Department of Computer Science
 <br>University of Houston 
-<br> <font color="gray">2020 to present
+<br> <font color="gray">2020 to 2024
 
 **M.S. in Software Engineering** 
 <br>Department of Informatics
@@ -72,7 +72,7 @@ _____________
 **Graduate Researcher** 
 <br>Department of Computer Science
 <br>University of Houston 
-<br> <font color="gray">2020 to present
+<br> <font color="gray">2020 to 2024
 <br> <small>Lab: 
 <br>Software Engineering Research Group</small>
 
@@ -127,7 +127,7 @@ _____________
 **Instructional Assistant**
 <br>Department of Computer Science
 <br>University of Houston
-<br> <font color="gray">2020 to present</font>
+<br> <font color="gray">2020 to 2024</font>
 
 <hr class="special">
 
@@ -291,7 +291,6 @@ _____________
 **Program Committee Member, Artifact Evaluation Committee** 
 <br>ACM OOPSLA 2021 
 <br>Chicago, Illinois
-<br> <font color="gray">June 2021 to present
 
 <i>Previous roles: <a href="https://www.linkedin.com/in/hussainaftab/">https://www.linkedin.com/in/hussainaftab/</a></i>
 
