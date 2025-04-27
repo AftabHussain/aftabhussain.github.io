@@ -9,7 +9,7 @@ title: An ML Framework for Gene Subsequence Analysis
 <span style="color: gray;">
   University of Houston
   <br> <span class="material-symbols-outlined" style="font-size: 13pt;">calendar_clock</span> 
-2024 to present </span> 
+June 2024  </span> 
 <br> 
 
 <br>
@@ -54,7 +54,7 @@ _________________
 </div>
 
 _____________
-
+<a href=  ""  target="_blank">
 <p style="color:gray;font-size:8pt;"><small><a href="https://www.freepik.com/free-vector/dna-genetic-biotechnology-science-vector-purple-neon-graphic_16396002.htm#fromView=search&page=2&position=0&uuid=ed02a6ad-c96c-4f14-a5af-9b3349ef4177" target="_blank">Image by rawpixel.com on Freepik</a></small></p>
 
 
