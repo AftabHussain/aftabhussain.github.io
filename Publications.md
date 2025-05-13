@@ -25,6 +25,10 @@ ____________
 
 <small><font color="#046cb5"><b>AI for Software Engineering<b>
 
+<small>Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach</small>
+<br> Aftab Hussain, Rafiqul Islam Rabin, Toufique Ahmed, Mohammad Amin Alipour, Bowen Xu, Stephen Huang 
+<br><font color="gray"> 4th International Conference on AI Engineering – Software Engineering for AI (colocated with ICSE 2025), Ottawa, Canada
+
 <small>[Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](https://dl.acm.org/doi/10.1145/3664646.3664764) [[preprint](https://arxiv.org/abs/2405.11466)][[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)]
 <br> Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour 
 <br><font color="gray"> The 1st ACM International Conference on AI-powered Software (AIware '24), co-located with the ACM International Conference on the Foundations of Software Engineering (FSE '24), Porto de Galinhas, Brazil, 2024 
