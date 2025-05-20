@@ -25,7 +25,7 @@ ____________
 
 <small><font color="#046cb5"><b>AI for Software Engineering<b>
 
-<small>Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach</small>
+<small>Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach
 <br> Aftab Hussain, Rafiqul Islam Rabin, Toufique Ahmed, Mohammad Amin Alipour, Bowen Xu, Stephen Huang 
 <br><font color="gray"> 4th International Conference on AI Engineering – Software Engineering for AI (colocated with ICSE 2025), Ottawa, Canada
 
