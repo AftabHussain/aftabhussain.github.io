@@ -156,6 +156,13 @@ ____________
 
 <small><font color="046cb5"><b>AI for Software Engineering<b>
 
+
+<small>[Capturing the Effects of Quantization on Trojans in Code LLMs](https://arxiv.org/abs/2505.14200) <br> 
+Aftab Hussain, Sadegh AlMahdi Kazemi Zarkouei, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Sen Lin, Bowen Xu
+<br><font color="gray">
+University of Houston,
+<br> arXiv:2505.14200, 2025
+
 <small>[Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code](https://arxiv.org/abs/2408.12416) <br> 
 Mahdi Kazemi,
 Aftab Hussain,
