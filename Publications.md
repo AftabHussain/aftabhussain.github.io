@@ -6,6 +6,7 @@ title: Publications
 [Conference and Workshop Papers](#papers) 
 <br>[Journal Publications](#journal)
 <br>[Posters](#posters)
+<br>[PhD Thesis](#phd-thesis)
 <br>[Master's Thesis](#masters-thesis)
 <br>[Open Access](#open-access)
 <br>[Technical Articles](#tech-articles)
@@ -144,7 +145,14 @@ Irvine, 2016
 ____________
 
 
-## Master's Thesis <a href="#top">⬆</a> 	{#masters-thesis}		
+## PhD Thesis (UH) <a href="#top">⬆</a> 	{#phd-thesis}		
+
+<small>[Trojan Detection in Large Language Models of Code]([http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271](https://uh-ir.tdl.org/server/api/core/bitstreams/960b6bf7-7f3c-4385-bb4c-30f95d5f01bb/content)) <br><font color="gray">Department of Computer Science, University of Houston, Texas, United States, 2024
+
+____________
+
+
+## Master's Thesis (BUET) <a href="#top">⬆</a> 	{#masters-thesis}		
 
 <small>[Software Restructuring using Hierarchical
 Clustering](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271) [[thesis](/documents/pubs/ms-thesis.pdf)]<br><font color="gray">Department of Computer Science, Bangladesh
