@@ -147,7 +147,7 @@ ____________
 
 ## PhD Thesis (UH) <a href="#top">⬆</a> 	{#phd-thesis}		
 
-<small>[Trojan Detection in Large Language Models of Code]([http://lib.buet.ac.bd:8080/xmlui/handle/123456789/3271](https://uh-ir.tdl.org/server/api/core/bitstreams/960b6bf7-7f3c-4385-bb4c-30f95d5f01bb/content)) [[defense-slides](/documents/pubs/phd-research-presentation_defense.pdf)]<br><font color="gray">Department of Computer Science, University of Houston, Texas, United States, 2024
+<small>[Trojan Detection in Large Language Models of Code](https://uh-ir.tdl.org/server/api/core/bitstreams/960b6bf7-7f3c-4385-bb4c-30f95d5f01bb/content) [[defense-slides](/documents/pubs/phd-research-presentation_defense.pdf)]<br><font color="gray">Department of Computer Science, University of Houston, Texas, United States, 2024
 
 ____________
 
