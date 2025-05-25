@@ -10,7 +10,7 @@ title: Projects
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain<br></span>
     <span style="color: gray; font-size: small;">University of Houston
-    <br>2024 to present<br></span> 
+    <br>June 2024<br></span> 
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Machine Learning</span>
     <br>
