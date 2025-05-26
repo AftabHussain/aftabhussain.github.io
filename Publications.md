@@ -27,7 +27,7 @@ ____________
 <small><font color="#046cb5"><b>AI for Software Engineering<b>
 
 <small>[Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach](https://conf.researchr.org/details/cain-2025/cain-2025-call-for-posters/3/Finding-Trojan-Triggers-in-Code-LLMs-An-Occlusion-based-Human-in-the-loop-Approach)
-[[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)]
+[[slide](https://aftabhussain.github.io/documents/pubs/cain25-oseql-poster.pdf)]
 <br> Aftab Hussain, Rafiqul Islam Rabin, Toufique Ahmed, Mohammad Amin Alipour, Bowen Xu, Stephen Huang 
 <br><font color="gray"> 4th International Conference on AI Engineering – Software Engineering for AI (CAIN - colocated with ICSE 2025), Ottawa, Canada
 
