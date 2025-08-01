@@ -6,6 +6,20 @@ title: Projects
 <button class="button" onclick="gotoMainProjects()">Main</button>
 <button class="button button2" >Pilot</button>
 
+## [CodeContext Explorer: CatBoost Code Explanation with RAG on Zillow Data](../project-coderag/index.html) {#project-coderag}
+<div style="font-family: 'Alata';">
+    <span style="font-size: small;">Aftab Hussain<br></span>
+    <span style="color: gray; font-size: small;">
+    <br>August 2025<br></span> 
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Retrieval-Augmented Generation (RAG), LLMs, Instruction-tuned models</span>
+    <br>
+    <span class="material-symbols-outlined" style="font-size: 13pt; color: #d6ac16;">construction</span>  
+    <span style="font-size: small;">Skills used:</span><span style="color: gray; font-size: small;"> LangChain framework, FAISS vector search, Flask web development, Mistral-7B-Instruct integration</span>
+</div>
+_____________
+
+
 ## [An ML Framework for Gene Subsequence Analysis](../project-gene-subseq/index.html) {#gene-subseq-menu}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain<br></span>
@@ -19,23 +33,6 @@ title: Projects
 </div>
 _____________
 
-## [To be added]() {#kw-sw-menu}
-<div style="font-family: 'Alata';">
-    <span style="font-size: small;">To be added <br></span>
-    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
-    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
-    <span style="color: #1ba2d6; font-size: small;">To be added</span>
-</div>
-_____________
-
-## [To be added]() {#kw-sw-menu}
-<div style="font-family: 'Alata';">
-    <span style="font-size: small;">To be added <br></span>
-    <span style="color: gray; font-size: small;">To be added<br> To be added<br>To be added<br></span> 
-    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
-    <span style="color: #1ba2d6; font-size: small;">To be added</span>
-</div>
-_____________
 
 
 
