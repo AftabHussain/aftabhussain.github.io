@@ -40,6 +40,7 @@ In this exploratory work, a Retrieval-Augmented Generation (RAG) system, CodeCon
 The system relies upon synthetically created CatBoost code samples, used in the domain of housing data, with descriptive annotations. Using vector embeddings and a FAISS index, it retrieves the most relevant code-context pairs in response to user queries. These retrieved contexts are passed to the Mistral-7B-Instruct language model with custom prompts to generate explanations.
 
 Results are stored in JSON format and presented through an interactive Flask web interface, allowing easy browsing of questions, related code snippets, and explanations — facilitating learning and exploration for data scientists and ML practitioners.
+
 _________________
 
 
