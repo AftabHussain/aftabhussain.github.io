@@ -9,7 +9,7 @@ title: Projects
 ## [CodeContext Explorer: CatBoost Code Explanation with RAG on Zillow Data](../project-coderag/index.html) {#project-coderag}
 <div style="font-family: 'Alata';">
     <span style="font-size: small;">Aftab Hussain<br></span>
-    <span style="color: gray; font-size: small;">
+    <span style="color: gray; font-size: small;">Texas A and M University
     <br>August 2025<br></span> 
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Retrieval-Augmented Generation (RAG), LLMs, Instruction-tuned models</span>
