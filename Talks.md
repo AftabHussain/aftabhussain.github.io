@@ -16,6 +16,9 @@ ____________
 
 <small><font color="046cb5"><b>AI for Software Engineering<b>
 
+<small>Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach<br><font color="gray">
+Texas A&M Global Cyber Research Institute Summit 2025 (GCRI Summit ’25) (poster), College Station, Texas A&M University, 2025
+
 <small>[Measuring impacts of poisoning on model parameters and embeddings for large language models of code](https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-) [[slides](https://aftabhussain.github.io/documents/pubs/aiware2024_poisoning-impacts_slides.pdf)] <br><font color="gray">
 In 1st ACM International Conference on AI-powered Software (AIware) co-located with The ACM International Conference on the Foundations of Software Engineering (FSE), Porto de Galinhas, Brazil, 2024
 
