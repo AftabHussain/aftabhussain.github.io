@@ -69,6 +69,13 @@ _____________
 
 # Research <a href="#top">⬆</a> {#rsrch}
 
+**Postdoctoral Research Scientist** 
+<br>Department of Computer Science and Engineering
+<br>Texas A&M University
+<br> <font color="gray">Dec 2024 to Nov 2025
+<br> <small>Lab: 
+<br>Security and Privacy in Emerging computing and networking Systems Group (SPIES)</small>
+
 **Graduate Researcher** 
 <br>Department of Computer Science
 <br>University of Houston 
