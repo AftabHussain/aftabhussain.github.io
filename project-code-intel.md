@@ -19,7 +19,7 @@ Sahil Suneja<sup>6</sup> <br></span>
     <br> 
     <span class="material-symbols-outlined" style="font-size: 13pt;">account_balance</span> 
     Supported by <a href = "https://www.sri.com/">SRI International</a>, <a
-    href = "https://www.iarpa.gov/">IARPA</a>
+    href = "https://www.iarpa.gov/">IARPA</a>, <a href = "https://www.ed.gov/">US Department of Education</a>
     <br> 
     <span class="material-symbols-outlined" style="font-size: 13pt;">event</span>  
     Accepted at <a href="https://2024.aiwareconf.org/details/aiware-2024-papers/8/Measuring-Impacts-of-Poisoning-on-Model-Parameters-and-Embeddings-for-Large-Language-">AIware '24 at FSE '24, Porto de Galinhas, Brazil</a>, <a href="https://set-llm.github.io/"> SeT LLM at ICLR '24, Vienna, Austria</a>, <a href="https://intense23.github.io/"> InteNSE '24 at ICSE '24, Melbourne, Australia</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922001756"> IST '23</a>
@@ -58,6 +58,28 @@ software development tasks including **defect detection**, **clone detection**,
 and **text-to-code generation**. The techniques we deploy include model probing and black box approaches that involve fine-tuning the models on noise-induced and poisoned code data derived from benchmark datasets like Microsoft's [**CodeXGLUE**](https://github.com/microsoft/CodeXGLUE), utilizing NVIDIA A100 GPUs. 
 
 Here are the works in this project: 
+
+## [Quantization and Security of Code-LLMs](https://github.com/AftabHussain/quantized-code-llm-security?tab=readme-ov-file#quantization-and-security-of-code-llms) 
+<div style="font-family: 'Alata';">
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Safe AI for Code</span>
+</div>
+
+_____________
+
+
+## [OSeqL: Occlusion Based Trojan Detection in Large Language Models of Code](https://github.com/UH-SERG/oseql-trojan-identification-experiments/blob/main/README.md) 
+<div style="font-family: 'Alata';">
+    <span style="color: gray; font-size: small;">
+    4th International Conference on AI Engineering – Software Engineering for AI, colocated with ICSE 2025,
+    2025, Ottawa, Canada 
+    <br></span>
+    <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
+    <span style="color: #1ba2d6; font-size: small;">Safe AI for Code</span>
+</div>
+
+_____________
+
 
 ## [Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code](../project-params-embeds/index.html) 
 <div style="font-family: 'Alata';">
