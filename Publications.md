@@ -24,6 +24,13 @@ ____________
 
 ## Conference and Workshop Papers <a href="#top">⬆</a> {#papers}
 
+<small><font color="#046cb5"><b>AI for Security<b>
+
+<small> SoK: PHILTER: Uncovering security and functional gaps in AI-based phishing website detection literature via an LLM-based reasoning framework
+<br> Mahbub Alam, Muhammad Lutfor Rahman, Sonjoy Kumar Paul, Amy W. Hays, Aftab Hussain, Md Imanul Huq, and
+Nitesh Saxena 
+<br><font color="gray"> The 35th USENIX Security Symposium, Baltimore, Maryland, 2026 
+
 <small><font color="#046cb5"><b>AI for Software Engineering<b>
 
 <small>[Finding Trojan Triggers in Code LLMs: An Occlusion-based Human-in-the-loop Approach](https://conf.researchr.org/details/cain-2025/cain-2025-call-for-posters/3/Finding-Trojan-Triggers-in-Code-LLMs-An-Occlusion-based-Human-in-the-loop-Approach)
