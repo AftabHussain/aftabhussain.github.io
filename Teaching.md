@@ -467,7 +467,7 @@ ________________
 ________________
 
 
-<a name="cs142-fall17-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS142 Lecture (Fall 2017)</u> <b><a href="#cs142-entry">⬆</a>
+<a name="cs142-fall17-files"></a><b><i class="fa fa-folder-open" style="font-size:22px"></i> <u>CS142 Lecture (Winter 2017)</u> <b><a href="#cs142-entry">⬆</a>
 
 [Lecture - Global Optimization (Borrowed from Prof. Harry)](../documents/teaching/uci/cs142/fall2017/global-optimization-lecture.pdf)
 <br><small><font color="gray">March 10, 2017</font></small> 
