@@ -71,8 +71,7 @@ _____________
 ## [OSeqL: Occlusion Based Trojan Detection in Large Language Models of Code](https://github.com/UH-SERG/oseql-trojan-identification-experiments/blob/main/README.md) 
 <div style="font-family: 'Alata';">
     <span style="color: gray; font-size: small;">
-    4th International Conference on AI Engineering – Software Engineering for AI, colocated with ICSE 2025,
-    2025, Ottawa, Canada 
+    4th International Conference on AI Engineering – Software Engineering for AI, colocated with ICSE 2025, Ottawa, Canada 
     <br></span>
     <span class="material-symbols-outlined" style="color: #1ba2d6;">label</span>
     <span style="color: #1ba2d6; font-size: small;">Safe AI for Code</span>
