@@ -69,6 +69,13 @@ _____________
 
 # Research <a href="#top">⬆</a> {#rsrch}
 
+**Postdoctoral Researcher** 
+<br>Department of Computer Science
+<br>University of Houston
+<br> <font color="gray">Feb 2026 to present
+<br> <small>Lab: 
+<br>Productivity and Security in Software Systems Lab (PaSS)</small>
+
 **Postdoctoral Research Scientist** 
 <br>Department of Computer Science and Engineering
 <br>Texas A&M University
