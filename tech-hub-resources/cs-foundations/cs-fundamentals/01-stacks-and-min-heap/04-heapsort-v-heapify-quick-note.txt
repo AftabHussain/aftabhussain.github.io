@@ -1,0 +1,6 @@
+Heapify is an operation that arranges elements in an array to maintain the heap
+property (parent node > child node for max-heap), taking \(O(n)\) time to build
+a heap. 
+
+Heapsort is the sorting algorithm that uses heapify to repeatedly extract the
+maximum element, taking \(O(n\log n)\) time. 
