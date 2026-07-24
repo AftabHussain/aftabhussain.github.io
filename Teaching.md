@@ -2,6 +2,11 @@
 layout: page
 title: Teaching
 ---
+## Teaching Certifications
+
+- Completed [CIRTL Associate Level Certification](https://aftabhussain.github.io/documents/certs/cirtl-associate-jul-2020.pdf), UCI — July 2020
+- Completed the [Certificate in Teaching Excellence Program](https://aftabhussain.github.io/documents/certs/cte-jun-2020.pdf), UCI — June 2020
+
 ____________
 <center><small><b><font color="gray">UNIVERSITY OF HOUSTON (UH)</font></b></small></center>
 <br>I have worked as an Instructional Assistant (IA) for the following courses at UH:
